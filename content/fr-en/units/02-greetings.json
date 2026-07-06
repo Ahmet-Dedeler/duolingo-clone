@@ -1,0 +1,109 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential French greetings and polite expressions for everyday conversations.",
+  "guidebook": "## Salutations et Politesse 🇫🇷\n\nFrench greetings vary by time of day and formality. **Bonjour** (good day/hello) is the safe default any time before evening. After dark, switch to **Bonsoir** (good evening). For farewells, **Au revoir** works universally, while **Salut** is casual among friends.\n\n**Tu vs. Vous**: Use **tu** with friends, family, and children. Use **vous** with strangers, elders, and in formal settings. When in doubt, default to **vous** — it's considered more polite.\n\n**Comment ça va ?** (How are you?) is a casual greeting. Reply with **Ça va bien** (I'm doing well) or **Comme ci, comme ça** (so-so).\n\n**Merci** (thank you) and **s'il vous plaît** (please) are essential. To be extra polite, say **Merci beaucoup** (thank you very much). **De rien** (you're welcome) is the standard reply.\n\n**Bonne nuit** (good night) is used when parting for sleep, not as a greeting.",
+  "words": [
+    {
+      "target": "bonjour",
+      "native": "hello / good day",
+      "emoji": "👋"
+    },
+    {
+      "target": "au revoir",
+      "native": "goodbye",
+      "emoji": "👋"
+    },
+    {
+      "target": "merci",
+      "native": "thank you",
+      "emoji": "🙏"
+    },
+    {
+      "target": "s'il vous plaît",
+      "native": "please",
+      "emoji": "🙏"
+    },
+    {
+      "target": "bonsoir",
+      "native": "good evening",
+      "emoji": "🌆"
+    },
+    {
+      "target": "bonne nuit",
+      "native": "good night",
+      "emoji": "🌙"
+    },
+    {
+      "target": "salut",
+      "native": "hi / bye (informal)",
+      "emoji": "🤙"
+    },
+    {
+      "target": "oui",
+      "native": "yes",
+      "emoji": "✅"
+    },
+    {
+      "target": "non",
+      "native": "no",
+      "emoji": "❌"
+    },
+    {
+      "target": "pardon",
+      "native": "sorry / excuse me",
+      "emoji": "😅"
+    },
+    {
+      "target": "monsieur",
+      "native": "sir",
+      "emoji": "🤵"
+    },
+    {
+      "target": "madame",
+      "native": "madam",
+      "emoji": "👩"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Bonjour, comment allez-vous ?",
+      "native": "Hello, how are you?"
+    },
+    {
+      "target": "Je vais bien, merci.",
+      "native": "I am doing well, thank you."
+    },
+    {
+      "target": "Comment ça va ?",
+      "native": "How is it going?"
+    },
+    {
+      "target": "Très bien, et vous ?",
+      "native": "Very well, and you?"
+    },
+    {
+      "target": "Au revoir, à bientôt !",
+      "native": "Goodbye, see you soon!"
+    },
+    {
+      "target": "Merci beaucoup, madame.",
+      "native": "Thank you very much, madam."
+    },
+    {
+      "target": "Pardon, monsieur.",
+      "native": "Excuse me, sir."
+    },
+    {
+      "target": "Bonne soirée !",
+      "native": "Have a good evening!"
+    },
+    {
+      "target": "Enchanté de faire votre connaissance.",
+      "native": "Nice to meet you."
+    },
+    {
+      "target": "De rien, avec plaisir.",
+      "native": "You're welcome, with pleasure."
+    }
+  ]
+}

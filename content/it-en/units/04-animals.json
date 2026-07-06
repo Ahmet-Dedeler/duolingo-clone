@@ -1,0 +1,109 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in Italian and how to describe them simply.",
+  "guidebook": "Welcome to Animals! 🐾\n\nIn Italian, every noun has a gender. Most animal names follow the pattern: **il** (masculine) or **la** (feminine). For example, *il cane* (the dog) is masculine, while *la mucca* (the cow) is feminine.\n\nTo say \"a\" or \"an\" (indefinite article), use **un** for masculine and **una** for feminine: *un gatto* (a cat), *una mucca* (a cow).\n\nTo make a noun plural, masculine words ending in **-o** usually change to **-i** (*il cane → i cani*), and feminine words ending in **-a** change to **-e** (*la mucca → le mucche*).\n\nTo describe an animal, use **è** (is) + an adjective. Adjectives must agree in gender and number with the noun. For example: *Il gatto è piccolo* (The cat is small). Notice how *piccolo* matches the masculine *gatto*.\n\nEnjoy meeting your new animal friends!",
+  "words": [
+    {
+      "target": "il cane",
+      "native": "the dog",
+      "emoji": "🐕"
+    },
+    {
+      "target": "il gatto",
+      "native": "the cat",
+      "emoji": "🐈"
+    },
+    {
+      "target": "il cavallo",
+      "native": "the horse",
+      "emoji": "🐴"
+    },
+    {
+      "target": "l'uccello",
+      "native": "the bird",
+      "emoji": "🐦"
+    },
+    {
+      "target": "il pesce",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "la mucca",
+      "native": "the cow",
+      "emoji": "🐄"
+    },
+    {
+      "target": "il coniglio",
+      "native": "the rabbit",
+      "emoji": "🐰"
+    },
+    {
+      "target": "la pecora",
+      "native": "the sheep",
+      "emoji": "🐑"
+    },
+    {
+      "target": "il topo",
+      "native": "the mouse",
+      "emoji": "🐭"
+    },
+    {
+      "target": "l'elefante",
+      "native": "the elephant",
+      "emoji": "🐘"
+    },
+    {
+      "target": "la tigre",
+      "native": "the tiger",
+      "emoji": "🐅"
+    },
+    {
+      "target": "l'orso",
+      "native": "the bear",
+      "emoji": "🐻"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Il cane è grande.",
+      "native": "The dog is big."
+    },
+    {
+      "target": "Il gatto è piccolo.",
+      "native": "The cat is small."
+    },
+    {
+      "target": "Il cavallo è veloce.",
+      "native": "The horse is fast."
+    },
+    {
+      "target": "L'uccello è nel cielo.",
+      "native": "The bird is in the sky."
+    },
+    {
+      "target": "Il pesce è nell'acqua.",
+      "native": "The fish is in the water."
+    },
+    {
+      "target": "La mucca è nella fattoria.",
+      "native": "The cow is on the farm."
+    },
+    {
+      "target": "Il coniglio è bianco.",
+      "native": "The rabbit is white."
+    },
+    {
+      "target": "La pecora è morbida.",
+      "native": "The sheep is soft."
+    },
+    {
+      "target": "L'elefante è molto grande.",
+      "native": "The elephant is very big."
+    },
+    {
+      "target": "L'orso è nel bosco.",
+      "native": "The bear is in the forest."
+    }
+  ]
+}

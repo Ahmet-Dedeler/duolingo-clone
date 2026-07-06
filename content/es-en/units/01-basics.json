@@ -1,0 +1,109 @@
+{
+  "title": "Basics 1",
+  "description": "Learn essential Spanish nouns and verbs to talk about people, food, and basic actions.",
+  "guidebook": "Welcome to Spanish! Let's start with the basics.\n\nIn Spanish, all nouns have a gender: masculine or feminine.\n* **Masculine** nouns often end in **-o** and use **el** (the) or **un** (a/an). Example: *el niño* (the boy).\n* **Feminine** nouns often end in **-a** and use **la** (the) or **una** (a/an). Example: *la niña* (the girl).\n\nVerbs change their endings depending on who is doing the action. For example, with the verb **comer** (to eat):\n* *Yo como* (I eat)\n* *Él/Ella come* (He/She eats)\n\nWith **beber** (to drink):\n* *Yo bebo* (I drink)\n* *Él/Ella bebe* (He/She drinks)\n\nKeep it simple and practice these core patterns!",
+  "words": [
+    {
+      "target": "el hombre",
+      "native": "the man",
+      "emoji": "👨"
+    },
+    {
+      "target": "la mujer",
+      "native": "the woman",
+      "emoji": "👩"
+    },
+    {
+      "target": "el niño",
+      "native": "the boy",
+      "emoji": "👦"
+    },
+    {
+      "target": "la niña",
+      "native": "the girl",
+      "emoji": "👧"
+    },
+    {
+      "target": "la manzana",
+      "native": "the apple",
+      "emoji": "🍎"
+    },
+    {
+      "target": "el pan",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "el agua",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "la leche",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "el perro",
+      "native": "the dog",
+      "emoji": "🐶"
+    },
+    {
+      "target": "el gato",
+      "native": "the cat",
+      "emoji": "🐱"
+    },
+    {
+      "target": "él",
+      "native": "he",
+      "emoji": "🙋‍♂️"
+    },
+    {
+      "target": "ella",
+      "native": "she",
+      "emoji": "🙋‍♀️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "El hombre come pan.",
+      "native": "The man eats bread."
+    },
+    {
+      "target": "La mujer bebe agua.",
+      "native": "The woman drinks water."
+    },
+    {
+      "target": "El niño come una manzana.",
+      "native": "The boy eats an apple."
+    },
+    {
+      "target": "La niña bebe leche.",
+      "native": "The girl drinks milk."
+    },
+    {
+      "target": "Yo soy un niño.",
+      "native": "I am a boy."
+    },
+    {
+      "target": "Ella es una mujer.",
+      "native": "She is a woman."
+    },
+    {
+      "target": "Él come pan y bebe agua.",
+      "native": "He eats bread and drinks water."
+    },
+    {
+      "target": "El perro bebe agua.",
+      "native": "The dog drinks water."
+    },
+    {
+      "target": "La niña come pan.",
+      "native": "The girl eats bread."
+    },
+    {
+      "target": "Yo como una manzana.",
+      "native": "I eat an apple."
+    }
+  ]
+}

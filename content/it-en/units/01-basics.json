@@ -1,0 +1,109 @@
+{
+  "title": "Basics 1",
+  "description": "Your very first Italian words and sentences. Learn people, food, drinks, and how to say what you are and what you eat or drink.",
+  "guidebook": "Welcome to Italian! 🇮🇹\n\n**Nouns & gender:** Every Italian noun has a gender. Masculine words usually end in **-o** (e.g., *il ragazzo* = the boy), feminine words usually end in **-a** (e.g., *la ragazza* = the girl). The article must match: **il** (masc.) or **la** (fem.).\n\n**Essere (to be):** The most common verb. Conjugate it like this:\n- *Io sono* (I am)\n- *Tu sei* (You are)\n- *Lui/Lei è* (He/She is)\n\n**Mangiare & Bere:** *Mangio* means \"I eat\" and *Bevo* means \"I drink.\" They follow the regular **-are** and **-ere** patterns.\n\n**Word order:** Italian often drops the subject because the verb ending tells you who's doing the action. *Sono un uomo* = \"I am a man.\"\n\n**Tip:** Always learn nouns with their article — *il pane*, not just *pane*!",
+  "words": [
+    {
+      "target": "l'uomo",
+      "native": "the man",
+      "emoji": "👨"
+    },
+    {
+      "target": "la donna",
+      "native": "the woman",
+      "emoji": "👩"
+    },
+    {
+      "target": "il ragazzo",
+      "native": "the boy",
+      "emoji": "👦"
+    },
+    {
+      "target": "la ragazza",
+      "native": "the girl",
+      "emoji": "👧"
+    },
+    {
+      "target": "la mela",
+      "native": "the apple",
+      "emoji": "🍎"
+    },
+    {
+      "target": "il pane",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "l'acqua",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "il latte",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "il bambino",
+      "native": "the child",
+      "emoji": "🧒"
+    },
+    {
+      "target": "il cibo",
+      "native": "the food",
+      "emoji": "🍽️"
+    },
+    {
+      "target": "mangiare",
+      "native": "to eat",
+      "emoji": "🍴"
+    },
+    {
+      "target": "bere",
+      "native": "to drink",
+      "emoji": "🥤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Io sono un uomo.",
+      "native": "I am a man."
+    },
+    {
+      "target": "Io sono una donna.",
+      "native": "I am a woman."
+    },
+    {
+      "target": "Lui è un ragazzo.",
+      "native": "He is a boy."
+    },
+    {
+      "target": "Lei è una ragazza.",
+      "native": "She is a girl."
+    },
+    {
+      "target": "Mangio il pane.",
+      "native": "I eat the bread."
+    },
+    {
+      "target": "Mangio una mela.",
+      "native": "I eat an apple."
+    },
+    {
+      "target": "Bevo l'acqua.",
+      "native": "I drink the water."
+    },
+    {
+      "target": "Bevo il latte.",
+      "native": "I drink the milk."
+    },
+    {
+      "target": "Il bambino mangia il pane.",
+      "native": "The child eats the bread."
+    },
+    {
+      "target": "La donna beve l'acqua.",
+      "native": "The woman drinks the water."
+    }
+  ]
+}

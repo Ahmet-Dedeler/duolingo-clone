@@ -1,0 +1,109 @@
+{
+  "title": "Health",
+  "description": "Learn essential Spanish words for talking about your body, health, and visiting the doctor.",
+  "guidebook": "## Talking About Health in Spanish 🩺\n\nIn this unit, you'll learn how to describe how you feel and talk about your body in Spanish.\n\n**Body parts with articles:** Spanish nouns always carry a gender. Body parts typically use the definite article: **la cabeza** (the head), **la mano** (the hand), **el ojo** (the eye). When talking about your own body, you usually drop the possessive: \"Me duele la cabeza\" (My head hurts), not \"mi cabeza.\"\n\n**The verb *doler* (to hurt):** This verb works like *gustar*. You say **me duele** (it hurts me) + body part. For example, *Me duele la mano* (My hand hurts). If multiple things hurt, use **me duelen**.\n\n**Adjective agreement:** Adjectives like **enfermo/a** (sick) and **cansado/a** (tired) must match the gender of the person. A woman is *cansada*, a man is *cansado*.\n\n**Key phrases:** Use **Necesito descansar** (I need to rest) when you're tired, and **Quiero ir al hospital** (I want to go to the hospital) in emergencies. **No me siento bien** means \"I don't feel well.\"\n\n**Doctor visits:** The word **médico** and **doctor** both mean doctor. **La medicina** is medicine, and **la pastilla** is a pill.",
+  "words": [
+    {
+      "target": "la cabeza",
+      "native": "the head",
+      "emoji": "🗣️"
+    },
+    {
+      "target": "la mano",
+      "native": "the hand",
+      "emoji": "✋"
+    },
+    {
+      "target": "el ojo",
+      "native": "the eye",
+      "emoji": "👁️"
+    },
+    {
+      "target": "el pie",
+      "native": "the foot",
+      "emoji": "🦶"
+    },
+    {
+      "target": "el hospital",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "el médico",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "la medicina",
+      "native": "the medicine",
+      "emoji": "💊"
+    },
+    {
+      "target": "la pastilla",
+      "native": "the pill",
+      "emoji": "💊"
+    },
+    {
+      "target": "enfermo",
+      "native": "sick",
+      "emoji": "🤒"
+    },
+    {
+      "target": "cansado",
+      "native": "tired",
+      "emoji": "😴"
+    },
+    {
+      "target": "el dolor",
+      "native": "the pain",
+      "emoji": "😣"
+    },
+    {
+      "target": "la fiebre",
+      "native": "the fever",
+      "emoji": "🌡️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Me duele la cabeza.",
+      "native": "My head hurts."
+    },
+    {
+      "target": "Necesito descansar.",
+      "native": "I need to rest."
+    },
+    {
+      "target": "No me siento bien.",
+      "native": "I don't feel well."
+    },
+    {
+      "target": "Estoy muy cansado.",
+      "native": "I am very tired."
+    },
+    {
+      "target": "Quiero ir al hospital.",
+      "native": "I want to go to the hospital."
+    },
+    {
+      "target": "Necesito una medicina.",
+      "native": "I need a medicine."
+    },
+    {
+      "target": "El médico es amable.",
+      "native": "The doctor is kind."
+    },
+    {
+      "target": "Tengo fiebre y dolor.",
+      "native": "I have a fever and pain."
+    },
+    {
+      "target": "La pastilla es pequeña.",
+      "native": "The pill is small."
+    },
+    {
+      "target": "Me duele la mano.",
+      "native": "My hand hurts."
+    }
+  ]
+}

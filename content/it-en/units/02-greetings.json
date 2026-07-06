@@ -1,0 +1,109 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential Italian greetings and polite expressions to start any conversation.",
+  "guidebook": "## Greetings & Politeness in Italian 🇮🇹\n\nItalian greetings change with the time of day and the level of formality.\n\n**Formal vs. informal:** Use *Lei* (formal \"you\") with strangers, elders, or in professional settings. Use *tu* (informal) with friends and family.\n\n**Common greetings:**\n- *Buongiorno* (good morning / good day) — used until late afternoon.\n- *Buonasera* (good evening) — used from late afternoon onward.\n- *Buonanotte* (good night) — only when going to bed or saying goodbye at night.\n- *Ciao* — informal hello/goodbye, used with friends.\n\n**Asking how someone is:** *Come stai?* (informal) or *Come sta?* (formal). A typical reply is *Sto bene, grazie* (I'm fine, thanks).\n\n**Politeness:**\n- *Per favore* = please\n- *Grazie* = thank you\n- *Prego* = you're welcome / please (offering something)\n- *Scusa* (informal) / *Scusi* (formal) = excuse me\n\nRemember: Italians value warmth, so a smile goes a long way! 😊",
+  "words": [
+    {
+      "target": "ciao",
+      "native": "hello / goodbye (informal)",
+      "emoji": "👋"
+    },
+    {
+      "target": "buongiorno",
+      "native": "good morning",
+      "emoji": "🌅"
+    },
+    {
+      "target": "buonasera",
+      "native": "good evening",
+      "emoji": "🌆"
+    },
+    {
+      "target": "buonanotte",
+      "native": "good night",
+      "emoji": "🌙"
+    },
+    {
+      "target": "arrivederci",
+      "native": "goodbye (formal)",
+      "emoji": "🤝"
+    },
+    {
+      "target": "per favore",
+      "native": "please",
+      "emoji": "🙏"
+    },
+    {
+      "target": "grazie",
+      "native": "thank you",
+      "emoji": "💚"
+    },
+    {
+      "target": "prego",
+      "native": "you're welcome",
+      "emoji": "😊"
+    },
+    {
+      "target": "sì",
+      "native": "yes",
+      "emoji": "✅"
+    },
+    {
+      "target": "no",
+      "native": "no",
+      "emoji": "❌"
+    },
+    {
+      "target": "il signore",
+      "native": "the gentleman",
+      "emoji": "👨"
+    },
+    {
+      "target": "la signora",
+      "native": "the lady",
+      "emoji": "👩"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Ciao, come stai?",
+      "native": "Hi, how are you?"
+    },
+    {
+      "target": "Buongiorno, come sta?",
+      "native": "Good morning, how are you?"
+    },
+    {
+      "target": "Sto bene, grazie.",
+      "native": "I am fine, thank you."
+    },
+    {
+      "target": "Buona sera a tutti.",
+      "native": "Good evening, everyone."
+    },
+    {
+      "target": "Buonanotte e sogni d'oro.",
+      "native": "Good night and sweet dreams."
+    },
+    {
+      "target": "Arrivederci, a presto!",
+      "native": "Goodbye, see you soon!"
+    },
+    {
+      "target": "Un caffè, per favore.",
+      "native": "A coffee, please."
+    },
+    {
+      "target": "Grazie mille!",
+      "native": "Thank you very much!"
+    },
+    {
+      "target": "Prego, si accomodi.",
+      "native": "You're welcome, please sit down."
+    },
+    {
+      "target": "Mi chiamo Marco.",
+      "native": "My name is Marco."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in German and how to describe them simply.",
+  "guidebook": "Welcome to **Animals**! 🐾\n\nIn German, every noun has a **gender** (der/die/das), which affects the article you use. Most animals follow these patterns:\n- **der** for male animals (e.g., *der Hund*)\n- **die** for female animals (e.g., *die Katze*)\n- **das** for baby/young animals (e.g., *das Kalb*)\n\nTo say **\"the dog is big\"**, use: *Der Hund ist groß.* Notice the verb **ist** (is) comes second. To make a sentence negative, add **nicht** (not) before the adjective: *Der Hund ist nicht klein.*\n\nTo describe an animal, pair a noun with an adjective like **groß** (big), **klein** (small), **schnell** (fast), or **süß** (cute). Always capitalize nouns in German! 🐴",
+  "words": [
+    {
+      "target": "der Hund",
+      "native": "the dog",
+      "emoji": "🐕"
+    },
+    {
+      "target": "die Katze",
+      "native": "the cat",
+      "emoji": "🐈"
+    },
+    {
+      "target": "das Pferd",
+      "native": "the horse",
+      "emoji": "🐴"
+    },
+    {
+      "target": "der Vogel",
+      "native": "the bird",
+      "emoji": "🐦"
+    },
+    {
+      "target": "der Fisch",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "die Kuh",
+      "native": "the cow",
+      "emoji": "🐄"
+    },
+    {
+      "target": "das Schaf",
+      "native": "the sheep",
+      "emoji": "🐑"
+    },
+    {
+      "target": "die Maus",
+      "native": "the mouse",
+      "emoji": "🐭"
+    },
+    {
+      "target": "der Elefant",
+      "native": "the elephant",
+      "emoji": "🐘"
+    },
+    {
+      "target": "der Löwe",
+      "native": "the lion",
+      "emoji": "🦁"
+    },
+    {
+      "target": "das Kaninchen",
+      "native": "the rabbit",
+      "emoji": "🐰"
+    },
+    {
+      "target": "die Schlange",
+      "native": "the snake",
+      "emoji": "🐍"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Der Hund ist groß.",
+      "native": "The dog is big."
+    },
+    {
+      "target": "Die Katze ist klein.",
+      "native": "The cat is small."
+    },
+    {
+      "target": "Das Pferd ist schnell.",
+      "native": "The horse is fast."
+    },
+    {
+      "target": "Der Vogel ist im Baum.",
+      "native": "The bird is in the tree."
+    },
+    {
+      "target": "Der Fisch ist im Wasser.",
+      "native": "The fish is in the water."
+    },
+    {
+      "target": "Die Kuh ist auf dem Feld.",
+      "native": "The cow is in the field."
+    },
+    {
+      "target": "Das Schaf ist weiß.",
+      "native": "The sheep is white."
+    },
+    {
+      "target": "Die Maus ist sehr klein.",
+      "native": "The mouse is very small."
+    },
+    {
+      "target": "Der Löwe ist stark.",
+      "native": "The lion is strong."
+    },
+    {
+      "target": "Das Kaninchen ist süß.",
+      "native": "The rabbit is cute."
+    }
+  ]
+}

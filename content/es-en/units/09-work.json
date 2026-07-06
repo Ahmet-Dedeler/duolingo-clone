@@ -1,0 +1,109 @@
+{
+  "title": "Work & School",
+  "description": "Talk about jobs, school, and daily routines at work or in class.",
+  "guidebook": "## Talking about work and school\n\nSpanish uses **ser** for permanent traits like your job or role, and **estar** for temporary states like location.\n\n**Jobs and roles**\n- Use **soy** (from *ser*) to say what you do: *Yo soy estudiante* (I am a student), *Ella es doctora* (She is a doctor).\n- Use **trabaja** (from *trabajar*) to describe what someone does: *Ella trabaja en la oficina* (She works at the office).\n\n**School life**\n- *La clase* means both \"class\" (the group) and \"the lesson.\" *La tarea* is homework, and *estudiar* means \"to study.\"\n- *El maestro / la maestra* is a common word for teacher; *profesor/profesora* is also widely used.\n\n**Useful glue words**\n- **y** = and, **o** = or, **un/una** = a/an, **donde** = where.\n- **Me gusta** + noun/verb = I like: *Me gusta estudiar* (I like to study).\n\n**Word order** stays flexible, but subjects often come first: *El estudiante trabaja mucho* (The student works a lot).",
+  "words": [
+    {
+      "target": "el trabajo",
+      "native": "the work",
+      "emoji": "💼"
+    },
+    {
+      "target": "la oficina",
+      "native": "the office",
+      "emoji": "🏢"
+    },
+    {
+      "target": "la escuela",
+      "native": "the school",
+      "emoji": "🏫"
+    },
+    {
+      "target": "la clase",
+      "native": "the class",
+      "emoji": "📚"
+    },
+    {
+      "target": "la tarea",
+      "native": "the homework",
+      "emoji": "📝"
+    },
+    {
+      "target": "el maestro",
+      "native": "the teacher (male)",
+      "emoji": "👨‍🏫"
+    },
+    {
+      "target": "la doctora",
+      "native": "the doctor (female)",
+      "emoji": "👩‍⚕️"
+    },
+    {
+      "target": "el estudiante",
+      "native": "the student (male)",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "target": "la estudiante",
+      "native": "the student (female)",
+      "emoji": "👩‍🎓"
+    },
+    {
+      "target": "el libro",
+      "native": "the book",
+      "emoji": "📖"
+    },
+    {
+      "target": "la computadora",
+      "native": "the computer",
+      "emoji": "💻"
+    },
+    {
+      "target": "el examen",
+      "native": "the exam",
+      "emoji": "📄"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Yo soy estudiante.",
+      "native": "I am a student."
+    },
+    {
+      "target": "Ella trabaja en la oficina.",
+      "native": "She works at the office."
+    },
+    {
+      "target": "El maestro enseña la clase.",
+      "native": "The teacher teaches the class."
+    },
+    {
+      "target": "Yo estudio en la escuela.",
+      "native": "I study at the school."
+    },
+    {
+      "target": "La doctora trabaja mucho.",
+      "native": "The doctor works a lot."
+    },
+    {
+      "target": "Me gusta leer el libro.",
+      "native": "I like to read the book."
+    },
+    {
+      "target": "El estudiante hace la tarea.",
+      "native": "The student does the homework."
+    },
+    {
+      "target": "Yo uso la computadora.",
+      "native": "I use the computer."
+    },
+    {
+      "target": "El examen es difícil.",
+      "native": "The exam is difficult."
+    },
+    {
+      "target": "¿Dónde está la oficina?",
+      "native": "Where is the office?"
+    }
+  ]
+}

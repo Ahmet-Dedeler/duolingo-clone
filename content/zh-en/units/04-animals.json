@@ -1,0 +1,131 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in Chinese and how to describe them with simple sentences.",
+  "guidebook": "## Animals in Chinese 🐾\n\nIn this unit, you'll learn the names of six common animals and how to make simple sentences about them.\n\n### Key Grammar: Using 是 (shì) for \"to be\"\nTo say \"It is a dog,\" use the structure:\n**Subject + 是 + Noun**\n- 这是狗。 (Zhè shì gǒu.) — This is a dog.\n\n### Using 很 (hěn) for descriptions\nTo describe an animal, use:\n**Subject + 很 + Adjective**\n- 猫很小。 (Māo hěn xiǎo.) — The cat is very small.\n\n### Measure word: 只 (zhī)\nWhen counting animals, use the measure word **只**:\n- 一只鸟 (yì zhī niǎo) — one bird\n\n### Negation with 不 (bù)\nTo make a sentence negative, place **不** before the verb or adjective:\n- 鱼不大。 (Yú bù dà.) — The fish is not big.\n\nPractice combining these patterns to build longer sentences!",
+  "words": [
+    {
+      "target": "狗",
+      "native": "the dog",
+      "emoji": "🐕",
+      "romanization": "gǒu"
+    },
+    {
+      "target": "猫",
+      "native": "the cat",
+      "emoji": "🐈",
+      "romanization": "māo"
+    },
+    {
+      "target": "马",
+      "native": "the horse",
+      "emoji": "🐴",
+      "romanization": "mǎ"
+    },
+    {
+      "target": "鸟",
+      "native": "the bird",
+      "emoji": "🐦",
+      "romanization": "niǎo"
+    },
+    {
+      "target": "鱼",
+      "native": "the fish",
+      "emoji": "🐟",
+      "romanization": "yú"
+    },
+    {
+      "target": "牛",
+      "native": "the cow",
+      "emoji": "🐄",
+      "romanization": "niú"
+    },
+    {
+      "target": "大",
+      "native": "big",
+      "emoji": "📏",
+      "romanization": "dà"
+    },
+    {
+      "target": "小",
+      "native": "small",
+      "emoji": "🤏",
+      "romanization": "xiǎo"
+    },
+    {
+      "target": "可爱",
+      "native": "cute",
+      "emoji": "🥰",
+      "romanization": "kě'ài"
+    },
+    {
+      "target": "快",
+      "native": "fast",
+      "emoji": "💨",
+      "romanization": "kuài"
+    },
+    {
+      "target": "只",
+      "native": "measure word for animals",
+      "emoji": "🔢",
+      "romanization": "zhī"
+    },
+    {
+      "target": "动物",
+      "native": "the animal",
+      "emoji": "🦁",
+      "romanization": "dòngwù"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "这是一只狗。",
+      "native": "This is a dog.",
+      "romanization": "Zhè shì yì zhī gǒu."
+    },
+    {
+      "target": "猫很小。",
+      "native": "The cat is small.",
+      "romanization": "Māo hěn xiǎo."
+    },
+    {
+      "target": "马跑得快。",
+      "native": "The horse runs fast.",
+      "romanization": "Mǎ pǎo de kuài."
+    },
+    {
+      "target": "鸟在天上飞。",
+      "native": "The bird flies in the sky.",
+      "romanization": "Niǎo zài tiān shàng fēi."
+    },
+    {
+      "target": "鱼在水里。",
+      "native": "The fish is in the water.",
+      "romanization": "Yú zài shuǐ lǐ."
+    },
+    {
+      "target": "牛很大。",
+      "native": "The cow is big.",
+      "romanization": "Niú hěn dà."
+    },
+    {
+      "target": "这只猫很可爱。",
+      "native": "This cat is very cute.",
+      "romanization": "Zhè zhī māo hěn kě'ài."
+    },
+    {
+      "target": "我喜欢狗。",
+      "native": "I like dogs.",
+      "romanization": "Wǒ xǐhuān gǒu."
+    },
+    {
+      "target": "那是一只鸟。",
+      "native": "That is a bird.",
+      "romanization": "Nà shì yì zhī niǎo."
+    },
+    {
+      "target": "动物是我们的朋友。",
+      "native": "Animals are our friends.",
+      "romanization": "Dòngwù shì wǒmen de péngyǒu."
+    }
+  ]
+}

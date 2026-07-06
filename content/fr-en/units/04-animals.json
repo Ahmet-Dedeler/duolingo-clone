@@ -1,0 +1,109 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in French and how to describe them simply.",
+  "guidebook": "## Animals in French 🐾\n\nWelcome! In this unit, you'll learn the names of common animals and how to describe them with simple sentences.\n\n### Gender of animal nouns\nMost animal nouns have a fixed gender. For example, **le chien** (the dog) is masculine, while **la chatte** (the female cat) is feminine. The general word **le chat** usually refers to cats in general.\n\n### Using adjectives\nFrench adjectives must agree in **gender and number** with the noun. Add **-e** for feminine (e.g., *grand → grande*) and **-s** for plural (e.g., *petit → petits*). Example: *un petit chien* → *une petite chienne*.\n\n### The verb \"être\" (to be)\nUse **être** to describe animals: *Le chien est grand* (The dog is big). Conjugation: *je suis, tu es, il/elle est, nous sommes, vous êtes, ils/elles sont*.\n\n### Tip\nWhen you learn an animal, also learn its article (**le** or **la**) — it helps you remember the gender naturally!",
+  "words": [
+    {
+      "target": "le chien",
+      "native": "the dog",
+      "emoji": "🐕"
+    },
+    {
+      "target": "le chat",
+      "native": "the cat",
+      "emoji": "🐈"
+    },
+    {
+      "target": "le cheval",
+      "native": "the horse",
+      "emoji": "🐴"
+    },
+    {
+      "target": "l'oiseau",
+      "native": "the bird",
+      "emoji": "🐦"
+    },
+    {
+      "target": "le poisson",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "la vache",
+      "native": "the cow",
+      "emoji": "🐄"
+    },
+    {
+      "target": "le lapin",
+      "native": "the rabbit",
+      "emoji": "🐰"
+    },
+    {
+      "target": "la souris",
+      "native": "the mouse",
+      "emoji": "🐭"
+    },
+    {
+      "target": "le mouton",
+      "native": "the sheep",
+      "emoji": "🐑"
+    },
+    {
+      "target": "l'âne",
+      "native": "the donkey",
+      "emoji": "🫏"
+    },
+    {
+      "target": "la poule",
+      "native": "the hen",
+      "emoji": "🐔"
+    },
+    {
+      "target": "le cochon",
+      "native": "the pig",
+      "emoji": "🐖"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Le chien est grand.",
+      "native": "The dog is big."
+    },
+    {
+      "target": "Le chat est petit.",
+      "native": "The cat is small."
+    },
+    {
+      "target": "J'ai un chat noir.",
+      "native": "I have a black cat."
+    },
+    {
+      "target": "Le cheval est rapide.",
+      "native": "The horse is fast."
+    },
+    {
+      "target": "L'oiseau vole haut.",
+      "native": "The bird flies high."
+    },
+    {
+      "target": "Le poisson est dans l'eau.",
+      "native": "The fish is in the water."
+    },
+    {
+      "target": "La vache est blanche.",
+      "native": "The cow is white."
+    },
+    {
+      "target": "J'aime les animaux.",
+      "native": "I love animals."
+    },
+    {
+      "target": "Le lapin est mignon.",
+      "native": "The rabbit is cute."
+    },
+    {
+      "target": "La souris est petite.",
+      "native": "The mouse is small."
+    }
+  ]
+}

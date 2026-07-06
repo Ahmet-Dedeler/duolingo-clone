@@ -1,0 +1,109 @@
+{
+  "title": "Greetings",
+  "description": "Learn how to say hello, goodbye, and use polite everyday expressions in Spanish.",
+  "guidebook": "Welcome to Spanish! Let's start with the basics of polite conversation. To say hello, you can use **hola** at any time of day. When greeting someone in the morning, say **buenos días**. In the afternoon, use **buenas tardes**, and at night, **buenas noches**.\n\nTo ask how someone is doing, you can say **¿cómo estás?** (informal) or **¿cómo está usted?** (formal). A common, friendly response is **bien, gracias** (well, thank you).\n\nWhen leaving, **adiós** is a classic goodbye, but you will often hear **hasta luego** (see you later). Don't forget your manners: **por favor** means please, and **de nada** means you are welcome. You are ready to start chatting!",
+  "words": [
+    {
+      "target": "hola",
+      "native": "hello",
+      "emoji": "👋"
+    },
+    {
+      "target": "adiós",
+      "native": "goodbye",
+      "emoji": "🙋"
+    },
+    {
+      "target": "gracias",
+      "native": "thank you",
+      "emoji": "🙏"
+    },
+    {
+      "target": "por favor",
+      "native": "please",
+      "emoji": "🥺"
+    },
+    {
+      "target": "el señor",
+      "native": "the gentleman",
+      "emoji": "👨"
+    },
+    {
+      "target": "la señora",
+      "native": "the lady",
+      "emoji": "👩"
+    },
+    {
+      "target": "el amigo",
+      "native": "the friend",
+      "emoji": "🧑‍🤝‍🧑"
+    },
+    {
+      "target": "el café",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "el té",
+      "native": "the tea",
+      "emoji": "🍵"
+    },
+    {
+      "target": "el agua",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "buenos días",
+      "native": "good morning",
+      "emoji": "🌅"
+    },
+    {
+      "target": "buenas noches",
+      "native": "good night",
+      "emoji": "🌃"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Hola, buenos días.",
+      "native": "Hello, good morning."
+    },
+    {
+      "target": "Un café, por favor.",
+      "native": "A coffee, please."
+    },
+    {
+      "target": "Un té y un agua, por favor.",
+      "native": "A tea and a water, please."
+    },
+    {
+      "target": "Gracias, señor.",
+      "native": "Thank you, sir."
+    },
+    {
+      "target": "Adiós, señora.",
+      "native": "Goodbye, ma'am."
+    },
+    {
+      "target": "No, gracias.",
+      "native": "No, thank you."
+    },
+    {
+      "target": "Quiero un café, gracias.",
+      "native": "I want a coffee, thank you."
+    },
+    {
+      "target": "Buenas noches, amigo.",
+      "native": "Good night, friend."
+    },
+    {
+      "target": "Hola, quiero un té.",
+      "native": "Hello, I want a tea."
+    },
+    {
+      "target": "Me gusta el agua.",
+      "native": "I like the water."
+    }
+  ]
+}

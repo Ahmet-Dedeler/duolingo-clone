@@ -1,0 +1,131 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential Chinese greetings and polite expressions to start any conversation with confidence.",
+  "guidebook": "## Greetings in Chinese 🇨🇳\n\nChinese greetings are wonderfully simple! The most common hello is **你好** (nǐ hǎo), used in most situations. For a polite version, use **您好** (nín hǎo) when addressing elders or strangers.\n\n**Good morning** is **早上好** (zǎoshang hǎo), **good evening** is **晚上好** (wǎnshang hǎo), and **good night** is **晚安** (wǎn'ān).\n\n**Goodbye** has several forms: **再见** (zàijiàn) is standard, while **拜拜** (bàibài) is a casual borrowed form from English \"bye-bye.\"\n\n**Politeness matters!** Always say **请** (qǐng) for \"please\" and **谢谢** (xièxie) for \"thank you.\" A polite **不客气** (bú kèqi) means \"you're welcome.\"\n\n**How are you?** is **你好吗？** (nǐ hǎo ma?) — the particle **吗** turns a statement into a yes/no question. A common reply is **我很好** (wǒ hěn hǎo), \"I'm very well.\"\n\n**Tip:** Chinese often drops pronouns, so **好** alone can mean \"okay\" or \"good!\"",
+  "words": [
+    {
+      "target": "你好",
+      "native": "hello",
+      "emoji": "👋",
+      "romanization": "nǐ hǎo"
+    },
+    {
+      "target": "再见",
+      "native": "goodbye",
+      "emoji": "👋",
+      "romanization": "zàijiàn"
+    },
+    {
+      "target": "请",
+      "native": "please",
+      "emoji": "🙏",
+      "romanization": "qǐng"
+    },
+    {
+      "target": "谢谢",
+      "native": "thank you",
+      "emoji": "🙏",
+      "romanization": "xièxie"
+    },
+    {
+      "target": "早上好",
+      "native": "good morning",
+      "emoji": "🌅",
+      "romanization": "zǎoshang hǎo"
+    },
+    {
+      "target": "晚上好",
+      "native": "good evening",
+      "emoji": "🌆",
+      "romanization": "wǎnshang hǎo"
+    },
+    {
+      "target": "晚安",
+      "native": "good night",
+      "emoji": "🌙",
+      "romanization": "wǎn'ān"
+    },
+    {
+      "target": "不客气",
+      "native": "you're welcome",
+      "emoji": "😊",
+      "romanization": "bú kèqi"
+    },
+    {
+      "target": "对不起",
+      "native": "sorry",
+      "emoji": "🙇",
+      "romanization": "duìbùqǐ"
+    },
+    {
+      "target": "没关系",
+      "native": "no problem",
+      "emoji": "👍",
+      "romanization": "méiguānxi"
+    },
+    {
+      "target": "好",
+      "native": "good",
+      "emoji": "✅",
+      "romanization": "hǎo"
+    },
+    {
+      "target": "拜拜",
+      "native": "bye-bye",
+      "emoji": "👋",
+      "romanization": "bàibài"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "你好吗？",
+      "native": "How are you?",
+      "romanization": "Nǐ hǎo ma?"
+    },
+    {
+      "target": "我很好。",
+      "native": "I am very well.",
+      "romanization": "Wǒ hěn hǎo."
+    },
+    {
+      "target": "你好，很高兴认识你。",
+      "native": "Hello, nice to meet you.",
+      "romanization": "Nǐ hǎo, hěn gāoxìng rènshi nǐ."
+    },
+    {
+      "target": "早上好！",
+      "native": "Good morning!",
+      "romanization": "Zǎoshang hǎo!"
+    },
+    {
+      "target": "晚安，明天见。",
+      "native": "Good night, see you tomorrow.",
+      "romanization": "Wǎn'ān, míngtiān jiàn."
+    },
+    {
+      "target": "谢谢你！",
+      "native": "Thank you!",
+      "romanization": "Xièxie nǐ!"
+    },
+    {
+      "target": "不客气。",
+      "native": "You're welcome.",
+      "romanization": "Bú kèqi."
+    },
+    {
+      "target": "对不起，没关系。",
+      "native": "Sorry, no problem.",
+      "romanization": "Duìbùqǐ, méiguānxi."
+    },
+    {
+      "target": "再见，明天见！",
+      "native": "Goodbye, see you tomorrow!",
+      "romanization": "Zàijiàn, míngtiān jiàn!"
+    },
+    {
+      "target": "请坐。",
+      "native": "Please sit down.",
+      "romanization": "Qǐng zuò."
+    }
+  ]
+}

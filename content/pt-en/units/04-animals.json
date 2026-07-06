@@ -1,0 +1,109 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in Portuguese and how to describe them simply.",
+  "guidebook": "Welcome to the world of animals in Portuguese! 🐾\n\n**Genders matter!** Animal nouns have grammatical gender:\n- **Masculine:** o gato (the male cat), o cavalo (the horse), o peixe (the fish)\n- **Feminine:** a gata (the female cat), a vaca (the cow), a ave (the bird)\n\n**Articles:** Use **o** for masculine and **a** for feminine singular nouns. Plural uses **os** and **as** (os cães, as vacas).\n\n**Simple descriptions:** Use adjectives after the noun. They must agree in gender:\n- o gato **pequeno** (the small cat)\n- a vaca **grande** (the big cow)\n\n**Useful verbs:**\n- *ser* (to be) for permanent traits: *O cavalo é grande.*\n- *ter* (to have) for possession: *Eu tenho um gato.*\n\n**Fun fact:** *Cão* is the formal word for dog — *cachorro* is more common in everyday Brazilian Portuguese!",
+  "words": [
+    {
+      "target": "o cachorro",
+      "native": "the dog",
+      "emoji": "🐕"
+    },
+    {
+      "target": "o gato",
+      "native": "the cat",
+      "emoji": "🐈"
+    },
+    {
+      "target": "o cavalo",
+      "native": "the horse",
+      "emoji": "🐴"
+    },
+    {
+      "target": "o pássaro",
+      "native": "the bird",
+      "emoji": "🐦"
+    },
+    {
+      "target": "o peixe",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "a vaca",
+      "native": "the cow",
+      "emoji": "🐄"
+    },
+    {
+      "target": "o porco",
+      "native": "the pig",
+      "emoji": "🐖"
+    },
+    {
+      "target": "a ovelha",
+      "native": "the sheep",
+      "emoji": "🐑"
+    },
+    {
+      "target": "o coelho",
+      "native": "the rabbit",
+      "emoji": "🐰"
+    },
+    {
+      "target": "o pato",
+      "native": "the duck",
+      "emoji": "🦆"
+    },
+    {
+      "target": "o galo",
+      "native": "the rooster",
+      "emoji": "🐓"
+    },
+    {
+      "target": "a galinha",
+      "native": "the hen",
+      "emoji": "🐔"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "O cachorro é grande.",
+      "native": "The dog is big."
+    },
+    {
+      "target": "Eu tenho um gato.",
+      "native": "I have a cat."
+    },
+    {
+      "target": "O cavalo é rápido.",
+      "native": "The horse is fast."
+    },
+    {
+      "target": "A vaca é branca.",
+      "native": "The cow is white."
+    },
+    {
+      "target": "O peixe nada no rio.",
+      "native": "The fish swims in the river."
+    },
+    {
+      "target": "O pássaro voa alto.",
+      "native": "The bird flies high."
+    },
+    {
+      "target": "O coelho é pequeno.",
+      "native": "The rabbit is small."
+    },
+    {
+      "target": "A ovelha é mansa.",
+      "native": "The sheep is gentle."
+    },
+    {
+      "target": "O pato nada na lagoa.",
+      "native": "The duck swims in the pond."
+    },
+    {
+      "target": "Eu amo os animais.",
+      "native": "I love the animals."
+    }
+  ]
+}

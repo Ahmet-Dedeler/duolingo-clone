@@ -1,0 +1,131 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential Japanese greetings and polite expressions for everyday interactions.",
+  "guidebook": "# Greetings in Japanese 🇯🇵\n\nJapanese greetings are deeply tied to **politeness levels**. The most common casual hello is **こんにちは** (konnichiwa), used mainly in the afternoon. In the morning, say **おはようございます** (ohayou gozaimasu), and at night use **こんばんは** (konbanwa).\n\nWhen meeting someone for the first time or in formal settings, use **はじめまして** (hajimemashite), meaning \"Nice to meet you,\" often followed by your name and **よろしくお願いします** (yoroshiku onegaishimasu), a versatile phrase meaning \"Please treat me well.\"\n\n**Politeness matters!** Adding **です** (desu) or **ます** (masu) makes sentences polite. For example, **ありがとう** (arigatou) is casual \"thanks,\" while **ありがとうございます** is the polite form.\n\n**Goodbyes** include **さようなら** (sayounara), often used for longer farewells, and **じゃあね** (jaa ne) for casual \"see you.\" **おやすみなさい** (oyasuminasai) means \"good night.\"\n\nRemember: bowing slightly while greeting shows respect! 🙇",
+  "words": [
+    {
+      "target": "こんにちは",
+      "native": "Hello / Good afternoon",
+      "emoji": "👋",
+      "romanization": "konnichiwa"
+    },
+    {
+      "target": "おはようございます",
+      "native": "Good morning",
+      "emoji": "🌅",
+      "romanization": "ohayou gozaimasu"
+    },
+    {
+      "target": "こんばんは",
+      "native": "Good evening",
+      "emoji": "🌙",
+      "romanization": "konbanwa"
+    },
+    {
+      "target": "おやすみなさい",
+      "native": "Good night",
+      "emoji": "😴",
+      "romanization": "oyasuminasai"
+    },
+    {
+      "target": "さようなら",
+      "native": "Goodbye",
+      "emoji": "👋",
+      "romanization": "sayounara"
+    },
+    {
+      "target": "はじめまして",
+      "native": "Nice to meet you",
+      "emoji": "🤝",
+      "romanization": "hajimemashite"
+    },
+    {
+      "target": "ありがとう",
+      "native": "Thank you",
+      "emoji": "🙏",
+      "romanization": "arigatou"
+    },
+    {
+      "target": "ありがとうございます",
+      "native": "Thank you (polite)",
+      "emoji": "🙇",
+      "romanization": "arigatou gozaimasu"
+    },
+    {
+      "target": "すみません",
+      "native": "Excuse me / Sorry",
+      "emoji": "😅",
+      "romanization": "sumimasen"
+    },
+    {
+      "target": "お願いします",
+      "native": "Please",
+      "emoji": "🙏",
+      "romanization": "onegaishimasu"
+    },
+    {
+      "target": "はい",
+      "native": "Yes",
+      "emoji": "✅",
+      "romanization": "hai"
+    },
+    {
+      "target": "いいえ",
+      "native": "No",
+      "emoji": "❌",
+      "romanization": "iie"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "はじめまして。よろしくお願いします。",
+      "native": "Nice to meet you. Please treat me well.",
+      "romanization": "Hajimemashite. Yoroshiku onegaishimasu."
+    },
+    {
+      "target": "おはようございます。",
+      "native": "Good morning.",
+      "romanization": "Ohayou gozaimasu."
+    },
+    {
+      "target": "こんにちは、お元気ですか？",
+      "native": "Hello, how are you?",
+      "romanization": "Konnichiwa, ogenki desu ka?"
+    },
+    {
+      "target": "元気です、ありがとう。",
+      "native": "I'm fine, thank you.",
+      "romanization": "Genki desu, arigatou."
+    },
+    {
+      "target": "ありがとうございます。",
+      "native": "Thank you very much.",
+      "romanization": "Arigatou gozaimasu."
+    },
+    {
+      "target": "すみません、もう一度お願いします。",
+      "native": "Excuse me, please say it again.",
+      "romanization": "Sumimasen, mou ichido onegaishimasu."
+    },
+    {
+      "target": "おやすみなさい。",
+      "native": "Good night.",
+      "romanization": "Oyasuminasai."
+    },
+    {
+      "target": "さようなら、また明日。",
+      "native": "Goodbye, see you tomorrow.",
+      "romanization": "Sayounara, mata ashita."
+    },
+    {
+      "target": "はい、わかりました。",
+      "native": "Yes, I understand.",
+      "romanization": "Hai, wakarimashita."
+    },
+    {
+      "target": "いいえ、わかりません。",
+      "native": "No, I don't understand.",
+      "romanization": "Iie, wakarimasen."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential German greetings and polite expressions for everyday conversations.",
+  "guidebook": "## Greetings & Politeness 👋\n\nGerman greetings change with the time of day:\n- **Guten Morgen** (good morning) — until about noon\n- **Guten Tag** (good day) — the safe all-day default\n- **Guten Abend** (good evening) — from about 18:00\n- **Gute Nacht** (good night) — only when parting or going to bed\n\n**Hallo** is casual and works any time with friends. **Tschüss** is an informal goodbye; **Auf Wiedersehen** is more formal. To say \"see you soon,\" use **Bis bald**.\n\nWhen meeting someone, Germans often ask **Wie geht es Ihnen?** (formal) or **Wie geht's?** (casual). A typical reply is **Mir geht es gut, danke** (\"I'm doing well, thanks\").\n\n**Bitte** means both \"please\" and \"you're welcome\" — context tells you which. **Danke** means \"thanks,\" and **Vielen Dank** means \"thank you very much.\" **Entschuldigung** (\"excuse me\") is used to get attention or apologize for small things; **Es tut mir leid** is a stronger apology.\n\nPoliteness goes a long way in German — use **Sie** (formal you) with strangers and **du** with friends and children.",
+  "words": [
+    {
+      "target": "der Morgen",
+      "native": "the morning",
+      "emoji": "🌅"
+    },
+    {
+      "target": "der Abend",
+      "native": "the evening",
+      "emoji": "🌆"
+    },
+    {
+      "target": "die Nacht",
+      "native": "the night",
+      "emoji": "🌙"
+    },
+    {
+      "target": "der Tag",
+      "native": "the day",
+      "emoji": "☀️"
+    },
+    {
+      "target": "Hallo",
+      "native": "hello",
+      "emoji": "👋"
+    },
+    {
+      "target": "Tschüss",
+      "native": "bye",
+      "emoji": "👋"
+    },
+    {
+      "target": "Bitte",
+      "native": "please",
+      "emoji": "🙏"
+    },
+    {
+      "target": "Danke",
+      "native": "thanks",
+      "emoji": "🙏"
+    },
+    {
+      "target": "Entschuldigung",
+      "native": "excuse me",
+      "emoji": "🙇"
+    },
+    {
+      "target": "Willkommen",
+      "native": "welcome",
+      "emoji": "🤗"
+    },
+    {
+      "target": "Freund",
+      "native": "friend",
+      "emoji": "🧑‍🤝‍🧑"
+    },
+    {
+      "target": "Name",
+      "native": "name",
+      "emoji": "📛"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Guten Morgen!",
+      "native": "Good morning!"
+    },
+    {
+      "target": "Guten Abend!",
+      "native": "Good evening!"
+    },
+    {
+      "target": "Gute Nacht!",
+      "native": "Good night!"
+    },
+    {
+      "target": "Auf Wiedersehen!",
+      "native": "Goodbye (formal)!"
+    },
+    {
+      "target": "Wie geht es Ihnen?",
+      "native": "How are you? (formal)"
+    },
+    {
+      "target": "Mir geht es gut.",
+      "native": "I am doing well."
+    },
+    {
+      "target": "Vielen Dank!",
+      "native": "Thank you very much!"
+    },
+    {
+      "target": "Bitte schön.",
+      "native": "You're welcome."
+    },
+    {
+      "target": "Wie heißt du?",
+      "native": "What is your name?"
+    },
+    {
+      "target": "Ich heiße Anna.",
+      "native": "My name is Anna."
+    }
+  ]
+}

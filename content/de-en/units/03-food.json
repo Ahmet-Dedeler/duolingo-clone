@@ -1,0 +1,109 @@
+{
+  "title": "Food",
+  "description": "Learn essential German words for food and drink, and how to say what you want, eat, and drink.",
+  "guidebook": "## Talking About Food in German 🍽️\n\nIn this unit, you'll learn the most common food and drink words. German nouns have **genders** (der, die, das), and you must learn the article with each noun:\n\n- **der** = masculine (e.g., *der Käse* – the cheese)\n- **die** = feminine (e.g., *die Milch* – the milk)\n- **das** = neuter (e.g., *das Ei* – the egg)\n\n### Verbs for eating and drinking\n- **essen** (to eat): *Ich esse Brot.* – I eat bread.\n- **trinken** (to drink): *Ich trinke Kaffee.* – I drink coffee.\n- **möchten** (to want): *Ich möchte Wasser.* – I would like water.\n\n### Word order\nGerman usually places the verb in the **second position** of a sentence. With *möchten*, the other verb goes to the end: *Ich möchte **essen**.*\n\n### Plurals\nSome plurals are irregular: *das Ei → die Eier* (eggs). Don't worry — you'll learn them with practice!",
+  "words": [
+    {
+      "target": "der Kaffee",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "der Reis",
+      "native": "the rice",
+      "emoji": "🍚"
+    },
+    {
+      "target": "das Ei",
+      "native": "the egg",
+      "emoji": "🥚"
+    },
+    {
+      "target": "der Käse",
+      "native": "the cheese",
+      "emoji": "🧀"
+    },
+    {
+      "target": "das Obst",
+      "native": "the fruit",
+      "emoji": "🍎"
+    },
+    {
+      "target": "der Saft",
+      "native": "the juice",
+      "emoji": "🧃"
+    },
+    {
+      "target": "das Brot",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "die Milch",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "das Wasser",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "der Apfel",
+      "native": "the apple",
+      "emoji": "🍏"
+    },
+    {
+      "target": "der Fisch",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "der Zucker",
+      "native": "the sugar",
+      "emoji": "🍬"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Ich möchte Kaffee trinken.",
+      "native": "I would like to drink coffee."
+    },
+    {
+      "target": "Das Brot ist frisch.",
+      "native": "The bread is fresh."
+    },
+    {
+      "target": "Ich esse gern Käse.",
+      "native": "I like to eat cheese."
+    },
+    {
+      "target": "Er trinkt ein Glas Wasser.",
+      "native": "He drinks a glass of water."
+    },
+    {
+      "target": "Wir möchten Obst kaufen.",
+      "native": "We would like to buy fruit."
+    },
+    {
+      "target": "Die Milch ist kalt.",
+      "native": "The milk is cold."
+    },
+    {
+      "target": "Ich esse ein Ei zum Frühstück.",
+      "native": "I eat an egg for breakfast."
+    },
+    {
+      "target": "Der Saft schmeckt süß.",
+      "native": "The juice tastes sweet."
+    },
+    {
+      "target": "Hast du Hunger?",
+      "native": "Are you hungry?"
+    },
+    {
+      "target": "Wir trinken Kaffee ohne Zucker.",
+      "native": "We drink coffee without sugar."
+    }
+  ]
+}

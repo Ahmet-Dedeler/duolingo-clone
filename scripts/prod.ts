@@ -1,12 +1,9 @@
-import { neon } from "@neondatabase/serverless";
 import "dotenv/config";
-import { drizzle } from "drizzle-orm/neon-http";
 
+import { createDb } from "@/db/client";
 import * as schema from "@/db/schema";
 
-const sql = neon(process.env.DATABASE_URL);
-
-const db = drizzle(sql, { schema });
+const db = createDb(process.env.DATABASE_URL!);
 
 const main = async () => {
   try {
@@ -326,6 +323,19 @@ const main = async () => {
       }
     }
     console.log("Database seeded successfully");
+
+    const firstCourse = courses[0];
+    if (firstCourse) {
+      await db.insert(schema.userProgress).values({
+        userId: "local-user",
+        userName: "Ahmet",
+        userImageSrc: "/mascot.svg",
+        activeCourseId: firstCourse.id,
+        hearts: 5,
+        points: 0,
+      });
+      console.log("Local user progress created");
+    }
   } catch (error) {
     console.error(error);
     throw new Error("Failed to seed database");

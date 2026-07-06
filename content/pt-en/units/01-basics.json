@@ -1,0 +1,109 @@
+{
+  "title": "Basics 1",
+  "description": "Learn your very first Portuguese words and sentences — people, food, and the verbs to be, to eat, and to drink.",
+  "guidebook": "Welcome to Portuguese! 🇧🇷🇵🇹\n\n**Articles matter!** Every Portuguese noun has a gender. *O* = the (masculine), *a* = the (feminine). For example, *o homem* (the man) and *a mulher* (the woman).\n\n**Ser vs. Estar** — both mean \"to be.\" In this unit we use **ser** for identity: *Eu sou* (I am), *Você é* (You are).\n\n**Verbs ending in -ar:** *comer* (to eat) → *eu como*, *você come*. *Beber* (to drink) → *eu bebo*, *você bebe*.\n\n**Word order** is flexible, but Subject–Verb–Object is most common: *Eu como a maçã* (I eat the apple).\n\n**Tip:** Brazilians often drop the subject pronoun because the verb form already tells you who's acting. So *Como pão* = \"I eat bread.\"\n\nLet's go! 🚀",
+  "words": [
+    {
+      "target": "o homem",
+      "native": "the man",
+      "emoji": "👨"
+    },
+    {
+      "target": "a mulher",
+      "native": "the woman",
+      "emoji": "👩"
+    },
+    {
+      "target": "o menino",
+      "native": "the boy",
+      "emoji": "👦"
+    },
+    {
+      "target": "a menina",
+      "native": "the girl",
+      "emoji": "👧"
+    },
+    {
+      "target": "a maçã",
+      "native": "the apple",
+      "emoji": "🍎"
+    },
+    {
+      "target": "o pão",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "a água",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "o leite",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "eu sou",
+      "native": "I am",
+      "emoji": "🙋"
+    },
+    {
+      "target": "você é",
+      "native": "you are",
+      "emoji": "👉"
+    },
+    {
+      "target": "comer",
+      "native": "to eat",
+      "emoji": "🍽️"
+    },
+    {
+      "target": "beber",
+      "native": "to drink",
+      "emoji": "🥤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Eu sou um homem.",
+      "native": "I am a man."
+    },
+    {
+      "target": "Eu sou uma mulher.",
+      "native": "I am a woman."
+    },
+    {
+      "target": "Você é um menino.",
+      "native": "You are a boy."
+    },
+    {
+      "target": "Você é uma menina.",
+      "native": "You are a girl."
+    },
+    {
+      "target": "Eu como a maçã.",
+      "native": "I eat the apple."
+    },
+    {
+      "target": "Eu como o pão.",
+      "native": "I eat the bread."
+    },
+    {
+      "target": "Eu bebo a água.",
+      "native": "I drink the water."
+    },
+    {
+      "target": "Eu bebo o leite.",
+      "native": "I drink the milk."
+    },
+    {
+      "target": "O menino come o pão.",
+      "native": "The boy eats the bread."
+    },
+    {
+      "target": "A menina bebe água.",
+      "native": "The girl drinks water."
+    }
+  ]
+}

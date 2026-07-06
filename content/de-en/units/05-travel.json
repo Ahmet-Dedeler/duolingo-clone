@@ -1,0 +1,109 @@
+{
+  "title": "Travel",
+  "description": "Learn essential German vocabulary and phrases for getting around cities, taking trains, staying in hotels, and visiting museums.",
+  "guidebook": "## Getting Around in German 🇩🇪\n\n**Asking where things are** is one of the most useful travel skills. Use:\n- *Wo ist...?* — Where is...?\n- *Wo ist der Bahnhof?* — Where is the train station?\n\n**Getting directions** often starts with *Wie komme ich zu...?** (How do I get to...?). You can also use the imperative: *Gehen Sie geradeaus* (Go straight ahead) or *Biegen Sie links ab* (Turn left).\n\n**At the hotel**, you'll need *Ich möchte ein Zimmer reservieren* (I would like to reserve a room). German nouns always carry a gender — *der Bahnhof* (masculine), *die Stadt* (feminine), *das Museum* (neuter) — so memorize articles with nouns!\n\n**Compound nouns** are everywhere in German: *Flughafen* (airport) = *Flug* + *Hafen*. Recognizing parts helps you guess meanings.\n\n**Politeness matters:** use *bitte* (please) and *danke* (thanks) often. *Entschuldigung* politely gets attention or means \"excuse me.\"\n\nGute Reise! 🚆",
+  "words": [
+    {
+      "target": "die Stadt",
+      "native": "the city",
+      "emoji": "🏙️"
+    },
+    {
+      "target": "der Bahnhof",
+      "native": "the train station",
+      "emoji": "🚉"
+    },
+    {
+      "target": "der Zug",
+      "native": "the train",
+      "emoji": "🚆"
+    },
+    {
+      "target": "die Straße",
+      "native": "the street",
+      "emoji": "🛣️"
+    },
+    {
+      "target": "das Museum",
+      "native": "the museum",
+      "emoji": "🏛️"
+    },
+    {
+      "target": "der Flughafen",
+      "native": "the airport",
+      "emoji": "✈️"
+    },
+    {
+      "target": "das Hotel",
+      "native": "the hotel",
+      "emoji": "🏨"
+    },
+    {
+      "target": "die Karte",
+      "native": "the map",
+      "emoji": "🗺️"
+    },
+    {
+      "target": "das Ticket",
+      "native": "the ticket",
+      "emoji": "🎫"
+    },
+    {
+      "target": "der Koffer",
+      "native": "the suitcase",
+      "emoji": "🧳"
+    },
+    {
+      "target": "die Reise",
+      "native": "the trip",
+      "emoji": "🧳"
+    },
+    {
+      "target": "der Urlaub",
+      "native": "the vacation",
+      "emoji": "🏖️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Wo ist der Bahnhof?",
+      "native": "Where is the train station?"
+    },
+    {
+      "target": "Ich möchte ein Zimmer reservieren.",
+      "native": "I would like to reserve a room."
+    },
+    {
+      "target": "Wie komme ich zum Museum?",
+      "native": "How do I get to the museum?"
+    },
+    {
+      "target": "Ich fahre mit dem Zug.",
+      "native": "I am traveling by train."
+    },
+    {
+      "target": "Der Flug geht um acht Uhr.",
+      "native": "The flight leaves at eight o'clock."
+    },
+    {
+      "target": "Haben Sie eine Karte?",
+      "native": "Do you have a map?"
+    },
+    {
+      "target": "Gehen Sie geradeaus.",
+      "native": "Go straight ahead."
+    },
+    {
+      "target": "Biegen Sie links ab.",
+      "native": "Turn left."
+    },
+    {
+      "target": "Ich brauche ein Ticket.",
+      "native": "I need a ticket."
+    },
+    {
+      "target": "Gute Reise!",
+      "native": "Have a good trip!"
+    }
+  ]
+}

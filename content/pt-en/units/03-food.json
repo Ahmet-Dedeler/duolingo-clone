@@ -1,0 +1,109 @@
+{
+  "title": "Food",
+  "description": "Learn essential Portuguese words for common foods and drinks, and how to say you want, eat, or drink them.",
+  "guidebook": "Welcome to the Food unit! 🍽️\n\n**Articles matter!** Portuguese nouns have grammatical gender. Masculine nouns typically use **o** (the) and feminine nouns use **a** (the). For example, *o pão* (the bread) is masculine, while *a água* (the water) is feminine.\n\n**Wanting, eating, and drinking** use very common verbs:\n- **Querer** (to want): *Eu quero café* (I want coffee)\n- **Comer** (to eat): *Eu como arroz* (I eat rice)\n- **Beber** (to drink): *Eu bebo sumo* (I drink juice)\n\n**Word order** is flexible but typically follows Subject-Verb-Object. You can drop the subject pronoun (*eu*, *tu*) since the verb conjugation already tells you who's acting.\n\n**A useful phrase:** *Eu quero um café, por favor* (I want a coffee, please) — perfect for any café in Lisbon! ☕",
+  "words": [
+    {
+      "target": "o café",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "o arroz",
+      "native": "the rice",
+      "emoji": "🍚"
+    },
+    {
+      "target": "o ovo",
+      "native": "the egg",
+      "emoji": "🥚"
+    },
+    {
+      "target": "o queijo",
+      "native": "the cheese",
+      "emoji": "🧀"
+    },
+    {
+      "target": "a fruta",
+      "native": "the fruit",
+      "emoji": "🍎"
+    },
+    {
+      "target": "o sumo",
+      "native": "the juice",
+      "emoji": "🧃"
+    },
+    {
+      "target": "o pão",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "a água",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "o leite",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "a carne",
+      "native": "the meat",
+      "emoji": "🥩"
+    },
+    {
+      "target": "o peixe",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "o bolo",
+      "native": "the cake",
+      "emoji": "🍰"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Eu quero um café.",
+      "native": "I want a coffee."
+    },
+    {
+      "target": "Eu como arroz todos os dias.",
+      "native": "I eat rice every day."
+    },
+    {
+      "target": "Ela bebe sumo de laranja.",
+      "native": "She drinks orange juice."
+    },
+    {
+      "target": "O pão está quente.",
+      "native": "The bread is warm."
+    },
+    {
+      "target": "Eu gosto de queijo.",
+      "native": "I like cheese."
+    },
+    {
+      "target": "Ele quer fruta fresca.",
+      "native": "He wants fresh fruit."
+    },
+    {
+      "target": "Nós comemos peixe ao jantar.",
+      "native": "We eat fish for dinner."
+    },
+    {
+      "target": "A água está fria.",
+      "native": "The water is cold."
+    },
+    {
+      "target": "Eu bebo leite ao pequeno-almoço.",
+      "native": "I drink milk at breakfast."
+    },
+    {
+      "target": "O bolo de chocolate é delicioso.",
+      "native": "The chocolate cake is delicious."
+    }
+  ]
+}

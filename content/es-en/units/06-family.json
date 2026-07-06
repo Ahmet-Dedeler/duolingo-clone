@@ -1,0 +1,109 @@
+{
+  "title": "Family",
+  "description": "Learn the Spanish words for family members and how to describe them with simple sentences.",
+  "guidebook": "Welcome to the family unit! 👨‍👩‍👧‍👦\n\nIn Spanish, family words change based on the speaker's gender. **Mi** (my) stays the same, but the noun changes:\n- **padre** (father) → **madre** (mother)\n- **abuelo** (grandfather) → **abuela** (grandmother)\n- **hermano** (brother) → **hermana** (sister)\n- **esposo** (husband) → **esposa** (wife)\n\nTo describe someone, use **ser** (to be) + an adjective:\n- **Mi madre es alta.** (My mother is tall.)\n- **Mi hermano es bajo.** (My brother is short.)\n\n**Mi** means \"my\" and works for both genders. **Es** means \"is\" (he/she/it is). Adjectives usually come *after* the noun in Spanish, unlike English.\n\nTo say you like someone, use **me gusta** + a person (with an article):\n- **Me gusta mi familia.** (I like my family.)\n\nFamily first! 💕",
+  "words": [
+    {
+      "target": "la madre",
+      "native": "the mother",
+      "emoji": "👩"
+    },
+    {
+      "target": "el padre",
+      "native": "the father",
+      "emoji": "👨"
+    },
+    {
+      "target": "la hermana",
+      "native": "the sister",
+      "emoji": "👧"
+    },
+    {
+      "target": "el hermano",
+      "native": "the brother",
+      "emoji": "👦"
+    },
+    {
+      "target": "la abuela",
+      "native": "the grandmother",
+      "emoji": "👵"
+    },
+    {
+      "target": "el abuelo",
+      "native": "the grandfather",
+      "emoji": "👴"
+    },
+    {
+      "target": "el bebé",
+      "native": "the baby",
+      "emoji": "👶"
+    },
+    {
+      "target": "el esposo",
+      "native": "the husband",
+      "emoji": "🤵"
+    },
+    {
+      "target": "la esposa",
+      "native": "the wife",
+      "emoji": "👰"
+    },
+    {
+      "target": "la familia",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "target": "alto",
+      "native": "tall",
+      "emoji": "📏"
+    },
+    {
+      "target": "bajo",
+      "native": "short",
+      "emoji": "⬇️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Mi madre es alta.",
+      "native": "My mother is tall."
+    },
+    {
+      "target": "Mi padre es bajo.",
+      "native": "My father is short."
+    },
+    {
+      "target": "Mi hermana es mi amiga.",
+      "native": "My sister is my friend."
+    },
+    {
+      "target": "Mi hermano es alto.",
+      "native": "My brother is tall."
+    },
+    {
+      "target": "La abuela es baja.",
+      "native": "The grandmother is short."
+    },
+    {
+      "target": "El abuelo es alto.",
+      "native": "The grandfather is tall."
+    },
+    {
+      "target": "El bebé es mi hermano.",
+      "native": "The baby is my brother."
+    },
+    {
+      "target": "Mi esposa es alta.",
+      "native": "My wife is tall."
+    },
+    {
+      "target": "Mi esposo es bajo.",
+      "native": "My husband is short."
+    },
+    {
+      "target": "Me gusta mi familia.",
+      "native": "I like my family."
+    }
+  ]
+}

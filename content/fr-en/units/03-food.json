@@ -1,0 +1,109 @@
+{
+  "title": "Food",
+  "description": "Learn essential French words for food and drink, and how to say what you want, eat, and drink.",
+  "guidebook": "Welcome to **Food**! 🥐\n\nIn French, every noun has a **gender**. Masculine nouns use *le* (or *un*), feminine nouns use *la* (or *une*). For example, *le café* (the coffee) is masculine, but *la pizza* is feminine.\n\nTo say what you want, use **je veux** (I want): *Je veux du café* — I want (some) coffee. **Du** is the partitive article, used for unspecified quantities of food and drink.\n\nTo say what you eat or drink, use **je mange** (I eat) and **je bois** (I drink): *Je mange du riz* (I eat rice), *Je bois du jus* (I drink juice).\n\n**Boire** is irregular: *je bois, tu bois, il boit*. **Manger** is regular but adds *-e* before silent endings: *je mange, tu manges*. Bon appétit! 🍽️",
+  "words": [
+    {
+      "target": "le café",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "le thé",
+      "native": "the tea",
+      "emoji": "🍵"
+    },
+    {
+      "target": "le riz",
+      "native": "the rice",
+      "emoji": "🍚"
+    },
+    {
+      "target": "l'œuf",
+      "native": "the egg",
+      "emoji": "🥚"
+    },
+    {
+      "target": "le fromage",
+      "native": "the cheese",
+      "emoji": "🧀"
+    },
+    {
+      "target": "le fruit",
+      "native": "the fruit",
+      "emoji": "🍎"
+    },
+    {
+      "target": "le jus",
+      "native": "the juice",
+      "emoji": "🧃"
+    },
+    {
+      "target": "l'eau",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "le pain",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "le poulet",
+      "native": "the chicken",
+      "emoji": "🍗"
+    },
+    {
+      "target": "manger",
+      "native": "to eat",
+      "emoji": "🍴"
+    },
+    {
+      "target": "boire",
+      "native": "to drink",
+      "emoji": "🥤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Je veux du café.",
+      "native": "I want some coffee."
+    },
+    {
+      "target": "Je mange du pain.",
+      "native": "I eat bread."
+    },
+    {
+      "target": "Je bois de l'eau.",
+      "native": "I drink water."
+    },
+    {
+      "target": "Je veux du jus.",
+      "native": "I want some juice."
+    },
+    {
+      "target": "J'aime le fromage.",
+      "native": "I like cheese."
+    },
+    {
+      "target": "Je mange un œuf.",
+      "native": "I eat an egg."
+    },
+    {
+      "target": "Je veux du thé.",
+      "native": "I want some tea."
+    },
+    {
+      "target": "Je mange du poulet.",
+      "native": "I eat chicken."
+    },
+    {
+      "target": "Je bois du café.",
+      "native": "I drink coffee."
+    },
+    {
+      "target": "Je veux un fruit.",
+      "native": "I want a fruit."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Travel",
+  "description": "Learn how to navigate the city, ask for directions, and find key locations like the hotel and airport.",
+  "guidebook": "Welcome to the Travel unit! When exploring a new city, your most important tool is asking where things are. In Spanish, we use **¿Dónde está...?** to ask 'Where is...?'. For example, *¿Dónde está el hotel?* means 'Where is the hotel?'. Notice how *está* has an accent mark on the 'a'—this is crucial for the verb 'to be'! If you are looking for a plural noun, like restrooms, use **¿Dónde están...?** instead. To be polite, always start your question with **disculpe** (excuse me) or end with **por favor** (please). Let's practice finding the train station, the museum, and the airport. ¡Buen viaje!",
+  "words": [
+    {
+      "target": "el hotel",
+      "native": "the hotel",
+      "emoji": "🏨"
+    },
+    {
+      "target": "el aeropuerto",
+      "native": "the airport",
+      "emoji": "✈️"
+    },
+    {
+      "target": "el tren",
+      "native": "the train",
+      "emoji": "🚆"
+    },
+    {
+      "target": "la calle",
+      "native": "the street",
+      "emoji": "🛣️"
+    },
+    {
+      "target": "el museo",
+      "native": "the museum",
+      "emoji": "🏛️"
+    },
+    {
+      "target": "la ciudad",
+      "native": "the city",
+      "emoji": "🏙️"
+    },
+    {
+      "target": "la estación",
+      "native": "the station",
+      "emoji": "🚉"
+    },
+    {
+      "target": "el taxi",
+      "native": "the taxi",
+      "emoji": "🚕"
+    },
+    {
+      "target": "el baño",
+      "native": "the bathroom",
+      "emoji": "🚽"
+    },
+    {
+      "target": "el boleto",
+      "native": "the ticket",
+      "emoji": "🎟️"
+    },
+    {
+      "target": "la maleta",
+      "native": "the suitcase",
+      "emoji": "🧳"
+    },
+    {
+      "target": "el mapa",
+      "native": "the map",
+      "emoji": "🗺️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "¿Dónde está el hotel?",
+      "native": "Where is the hotel?"
+    },
+    {
+      "target": "¿Dónde está el aeropuerto?",
+      "native": "Where is the airport?"
+    },
+    {
+      "target": "Quiero un boleto y un mapa.",
+      "native": "I want a ticket and a map."
+    },
+    {
+      "target": "¿Dónde está la estación?",
+      "native": "Where is the station?"
+    },
+    {
+      "target": "¿Dónde está el museo?",
+      "native": "Where is the museum?"
+    },
+    {
+      "target": "No me gusta la ciudad.",
+      "native": "I do not like the city."
+    },
+    {
+      "target": "¿Dónde está el baño?",
+      "native": "Where is the bathroom?"
+    },
+    {
+      "target": "Quiero una maleta.",
+      "native": "I want a suitcase."
+    },
+    {
+      "target": "El taxi no es un tren.",
+      "native": "The taxi is not a train."
+    },
+    {
+      "target": "Me gusta el hotel.",
+      "native": "I like the hotel."
+    }
+  ]
+}

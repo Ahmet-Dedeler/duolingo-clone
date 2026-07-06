@@ -1,0 +1,131 @@
+{
+  "title": "Food",
+  "description": "Learn essential food and drink vocabulary, and how to say what you want, eat, and drink in Chinese.",
+  "guidebook": "## Talking About Food in Chinese 🥢\n\nIn this unit, you'll learn the most common food and drink words you'll encounter every day.\n\n**The verb 想 (xiǎng)** means \"to want\" and is super useful when ordering food or expressing cravings. Pair it with a noun: **我想吃苹果** (wǒ xiǎng chī píngguǒ) — \"I want to eat an apple.\"\n\n**Two key verbs to remember:**\n- **吃 (chī)** = \"to eat\" — used for solid food\n- **喝 (hē)** = \"to drink\" — used for liquids like 水, 茶, and 果汁\n\n**Measure words matter!** Chinese uses measure words (量词) when counting nouns. For most food items, use **个 (gè)**: 一个鸡蛋 (yī gè jīdàn) — \"one egg.\"\n\n**Saying \"I want...\":**\n- 我要咖啡 (wǒ yào kāfēi) — \"I want coffee\" (more direct, like ordering)\n- 我想喝水 (wǒ xiǎng hē shuǐ) — \"I want to drink water\" (more polite)\n\n**Tones tip:** 喝 (hē, 1st tone) and 吃 (chī, 1st tone) are both high and flat — easy to remember together!",
+  "words": [
+    {
+      "target": "咖啡",
+      "native": "the coffee",
+      "emoji": "☕",
+      "romanization": "kāfēi"
+    },
+    {
+      "target": "米饭",
+      "native": "the rice",
+      "emoji": "🍚",
+      "romanization": "mǐfàn"
+    },
+    {
+      "target": "鸡蛋",
+      "native": "the egg",
+      "emoji": "🥚",
+      "romanization": "jīdàn"
+    },
+    {
+      "target": "奶酪",
+      "native": "the cheese",
+      "emoji": "🧀",
+      "romanization": "nǎilào"
+    },
+    {
+      "target": "水果",
+      "native": "the fruit",
+      "emoji": "🍎",
+      "romanization": "shuǐguǒ"
+    },
+    {
+      "target": "果汁",
+      "native": "the juice",
+      "emoji": "🧃",
+      "romanization": "guǒzhī"
+    },
+    {
+      "target": "水",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "shuǐ"
+    },
+    {
+      "target": "茶",
+      "native": "the tea",
+      "emoji": "🍵",
+      "romanization": "chá"
+    },
+    {
+      "target": "面包",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "miànbāo"
+    },
+    {
+      "target": "苹果",
+      "native": "the apple",
+      "emoji": "🍏",
+      "romanization": "píngguǒ"
+    },
+    {
+      "target": "牛奶",
+      "native": "the milk",
+      "emoji": "🥛",
+      "romanization": "niúnǎi"
+    },
+    {
+      "target": "面条",
+      "native": "the noodles",
+      "emoji": "🍜",
+      "romanization": "miàntiáo"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "我想喝咖啡。",
+      "native": "I want to drink coffee.",
+      "romanization": "Wǒ xiǎng hē kāfēi."
+    },
+    {
+      "target": "我喜欢吃米饭。",
+      "native": "I like to eat rice.",
+      "romanization": "Wǒ xǐhuān chī mǐfàn."
+    },
+    {
+      "target": "请给我一杯水。",
+      "native": "Please give me a glass of water.",
+      "romanization": "Qǐng gěi wǒ yī bēi shuǐ."
+    },
+    {
+      "target": "我早餐吃鸡蛋。",
+      "native": "I eat eggs for breakfast.",
+      "romanization": "Wǒ zǎocān chī jīdàn."
+    },
+    {
+      "target": "我喜欢喝果汁。",
+      "native": "I like to drink juice.",
+      "romanization": "Wǒ xǐhuān hē guǒzhī."
+    },
+    {
+      "target": "你想要水果吗？",
+      "native": "Do you want fruit?",
+      "romanization": "Nǐ xiǎng yào shuǐguǒ ma?"
+    },
+    {
+      "target": "我喜欢喝茶。",
+      "native": "I like to drink tea.",
+      "romanization": "Wǒ xǐhuān hē chá."
+    },
+    {
+      "target": "我吃面包和奶酪。",
+      "native": "I eat bread and cheese.",
+      "romanization": "Wǒ chī miànbāo hé nǎilào."
+    },
+    {
+      "target": "我想吃面条。",
+      "native": "I want to eat noodles.",
+      "romanization": "Wǒ xiǎng chī miàntiáo."
+    },
+    {
+      "target": "他喝牛奶。",
+      "native": "He drinks milk.",
+      "romanization": "Tā hē niúnǎi."
+    }
+  ]
+}

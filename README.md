@@ -2,6 +2,10 @@
 
 # Lingo - Interactive platform for language learning.
 
+> **What we're building:** the **React Native app in [`mobile/`](mobile/)** — see
+> [`mobile/README.md`](mobile/README.md). The Next.js web app in this repo root is a
+> cloned reference project (inspiration / optional admin preview), not the main product.
+
 ![Lingo - Interactive platform for language learning.](/.github/images/img_main.png "Lingo - Interactive platform for language learning.")
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")

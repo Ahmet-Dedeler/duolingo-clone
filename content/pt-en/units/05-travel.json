@@ -1,0 +1,109 @@
+{
+  "title": "Travel",
+  "description": "Learn essential Portuguese vocabulary and phrases for getting around cities, taking trains, staying at hotels, and navigating airports and museums.",
+  "guidebook": "## Getting Around in Portuguese 🇧🇷🇵🇹\n\n**Asking where things are** is one of the most useful travel skills. Use **Onde fica...?** (Where is...?) followed by a place. For example, *Onde fica o hotel?* (Where is the hotel?).\n\n**Articles matter!** Portuguese nouns have grammatical gender. Masculine nouns use **o** (the) and feminine nouns use **a** (the). For example, *o aeroporto* (the airport) is masculine, while *a estação* (the station) is feminine.\n\n**Prepositions of place** help with directions:\n- **perto de** = near\n- **longe de** = far from\n- **em frente a** = in front of\n- **ao lado de** = next to\n\n**Verbs you'll hear often:**\n- **ir** = to go (*Eu vou ao museu.* — I'm going to the museum.)\n- **estar** = to be (location) (*O hotel está perto.* — The hotel is near.)\n- **querer** = to want (*Quero um mapa.* — I want a map.)\n\n**Polite phrases:** Always use **por favor** (please) and **obrigado/obrigada** (thank you, m/f). When asking for help, start with **Com licença** (Excuse me) to get attention politely.\n\n**Pro tip:** Brazilians often use **a gente** instead of *nós* for \"we\" in speech — *A gente vai ao hotel.* (We're going to the hotel.)",
+  "words": [
+    {
+      "target": "o aeroporto",
+      "native": "the airport",
+      "emoji": "✈️"
+    },
+    {
+      "target": "o hotel",
+      "native": "the hotel",
+      "emoji": "🏨"
+    },
+    {
+      "target": "o trem",
+      "native": "the train",
+      "emoji": "🚆"
+    },
+    {
+      "target": "o ônibus",
+      "native": "the bus",
+      "emoji": "🚌"
+    },
+    {
+      "target": "o táxi",
+      "native": "the taxi",
+      "emoji": "🚕"
+    },
+    {
+      "target": "a estação",
+      "native": "the station",
+      "emoji": "🚉"
+    },
+    {
+      "target": "o museu",
+      "native": "the museum",
+      "emoji": "🏛️"
+    },
+    {
+      "target": "a rua",
+      "native": "the street",
+      "emoji": "🛣️"
+    },
+    {
+      "target": "o mapa",
+      "native": "the map",
+      "emoji": "🗺️"
+    },
+    {
+      "target": "a passagem",
+      "native": "the ticket",
+      "emoji": "🎫"
+    },
+    {
+      "target": "a mala",
+      "native": "the suitcase",
+      "emoji": "🧳"
+    },
+    {
+      "target": "o guia",
+      "native": "the guide",
+      "emoji": "📖"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Onde fica o hotel?",
+      "native": "Where is the hotel?"
+    },
+    {
+      "target": "Eu quero um mapa, por favor.",
+      "native": "I want a map, please."
+    },
+    {
+      "target": "O museu está perto daqui.",
+      "native": "The museum is near here."
+    },
+    {
+      "target": "A estação de trem é longe?",
+      "native": "Is the train station far?"
+    },
+    {
+      "target": "Eu vou ao aeroporto agora.",
+      "native": "I am going to the airport now."
+    },
+    {
+      "target": "Com licença, onde é o museu?",
+      "native": "Excuse me, where is the museum?"
+    },
+    {
+      "target": "Eu tenho uma mala grande.",
+      "native": "I have a big suitcase."
+    },
+    {
+      "target": "O ônibus para na rua.",
+      "native": "The bus stops on the street."
+    },
+    {
+      "target": "Preciso de uma passagem de trem.",
+      "native": "I need a train ticket."
+    },
+    {
+      "target": "O guia fala português e inglês.",
+      "native": "The guide speaks Portuguese and English."
+    }
+  ]
+}

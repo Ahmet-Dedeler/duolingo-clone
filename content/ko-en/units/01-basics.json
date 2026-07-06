@@ -1,0 +1,131 @@
+{
+  "title": "Basics 1",
+  "description": "Learn your very first Korean words and sentences! Meet people, name foods, and start talking about what you eat and drink.",
+  "guidebook": "# Welcome to Basics 1! 🇰🇷\n\nKorean sentences often drop the subject because the verb ending tells you who's doing what. The verb **이다** (to be) is rarely used alone — instead, adjectives and descriptive verbs attach **-이에요/예요** for \"is/am/are.\"\n\n**Particles** are small markers after nouns:\n- **은/는** = topic marker (\"as for…\")\n- **이/가** = subject marker (\"…is the one\")\n\n**To eat** = **먹다** → **먹어요** (eats / I eat)\n**To drink** = **마시다** → **마셔요** (drinks / I drink)\n\n**Word order:** Subject + Object + Verb. Example: \"I eat bread\" → **저는 빵을 먹어요** (jeo-neun ppang-eul meo-geo-yo). The object marker **을/를** marks what is eaten or drunk.\n\n**Politeness:** **-요** endings are polite but friendly — perfect for beginners!",
+  "words": [
+    {
+      "target": "남자",
+      "native": "the man",
+      "emoji": "👨",
+      "romanization": "namja"
+    },
+    {
+      "target": "여자",
+      "native": "the woman",
+      "emoji": "👩",
+      "romanization": "yeoja"
+    },
+    {
+      "target": "소년",
+      "native": "the boy",
+      "emoji": "👦",
+      "romanization": "sonyeon"
+    },
+    {
+      "target": "소녀",
+      "native": "the girl",
+      "emoji": "👧",
+      "romanization": "sonyeo"
+    },
+    {
+      "target": "사과",
+      "native": "the apple",
+      "emoji": "🍎",
+      "romanization": "sagwa"
+    },
+    {
+      "target": "빵",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "ppang"
+    },
+    {
+      "target": "물",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "mul"
+    },
+    {
+      "target": "우유",
+      "native": "the milk",
+      "emoji": "🥛",
+      "romanization": "uyu"
+    },
+    {
+      "target": "먹다",
+      "native": "to eat",
+      "emoji": "🍽️",
+      "romanization": "meokda"
+    },
+    {
+      "target": "마시다",
+      "native": "to drink",
+      "emoji": "🥤",
+      "romanization": "masida"
+    },
+    {
+      "target": "저",
+      "native": "I (humble)",
+      "emoji": "🙋",
+      "romanization": "jeo"
+    },
+    {
+      "target": "예요",
+      "native": "to be (polite)",
+      "emoji": "✨",
+      "romanization": "yeyo"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "저는 남자예요.",
+      "native": "I am a man.",
+      "romanization": "jeo-neun namja-yeyo"
+    },
+    {
+      "target": "저는 여자예요.",
+      "native": "I am a woman.",
+      "romanization": "jeo-neun yeoja-yeyo"
+    },
+    {
+      "target": "저는 소년이에요.",
+      "native": "I am a boy.",
+      "romanization": "jeo-neun sonyeon-ieyo"
+    },
+    {
+      "target": "저는 소녀예요.",
+      "native": "I am a girl.",
+      "romanization": "jeo-neun sonyeo-yeyo"
+    },
+    {
+      "target": "저는 사과를 먹어요.",
+      "native": "I eat an apple.",
+      "romanization": "jeo-neun sagwa-reul meo-geo-yo"
+    },
+    {
+      "target": "저는 빵을 먹어요.",
+      "native": "I eat bread.",
+      "romanization": "jeo-neun ppang-eul meo-geo-yo"
+    },
+    {
+      "target": "저는 물을 마셔요.",
+      "native": "I drink water.",
+      "romanization": "jeo-neun mul-eul masyeo-yo"
+    },
+    {
+      "target": "저는 우유를 마셔요.",
+      "native": "I drink milk.",
+      "romanization": "jeo-neun uyu-reul masyeo-yo"
+    },
+    {
+      "target": "남자는 빵을 먹어요.",
+      "native": "The man eats bread.",
+      "romanization": "namja-neun ppang-eul meo-geo-yo"
+    },
+    {
+      "target": "여자는 물을 마셔요.",
+      "native": "The woman drinks water.",
+      "romanization": "yeoja-neun mul-eul masyeo-yo"
+    }
+  ]
+}

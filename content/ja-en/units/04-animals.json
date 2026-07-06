@@ -1,0 +1,131 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in Japanese and how to describe them with simple sentences.",
+  "guidebook": "## Animals in Japanese 🐾\n\nWelcome to the animal unit! In Japanese, animal names are written in **katakana** when borrowed from other languages, and in **kanji** or **hiragana** for native Japanese words.\n\n### Key Patterns\n\n**Saying \"It is a ___\":**\nUse the plain form: **犬です** (inu desu) — \"It is a dog.\"\n\n**Describing animals with adjectives:**\n- **大きい** (ookii) — big\n- **小さい** (chiisai) — small\n- **可愛い** (kawaii) — cute\n\nExample: **猫は可愛いです** (neko wa kawaii desu) — \"The cat is cute.\"\n\n### Useful Particles\n\n- **は** (wa) — topic marker: \"as for the ___...\"\n- **が** (ga) — subject marker, often used with descriptive sentences\n\n### Animal Sounds 🐶\nJapanese has fun onomatopoeia for animal sounds:\n- Dogs: **ワンワン** (wan wan)\n- Cats: **ニャーニャー** (nyaa nyaa)\n- Birds: **ピーピー** (pii pii)\n\nTry combining what you know: **鳥は小さいです** (tori wa chiisai desu) — \"The bird is small.\" Happy learning!",
+  "words": [
+    {
+      "target": "犬",
+      "native": "dog",
+      "emoji": "🐕",
+      "romanization": "inu"
+    },
+    {
+      "target": "猫",
+      "native": "cat",
+      "emoji": "🐈",
+      "romanization": "neko"
+    },
+    {
+      "target": "馬",
+      "native": "horse",
+      "emoji": "🐴",
+      "romanization": "uma"
+    },
+    {
+      "target": "鳥",
+      "native": "bird",
+      "emoji": "🐦",
+      "romanization": "tori"
+    },
+    {
+      "target": "魚",
+      "native": "fish",
+      "emoji": "🐟",
+      "romanization": "sakana"
+    },
+    {
+      "target": "牛",
+      "native": "cow",
+      "emoji": "🐄",
+      "romanization": "ushi"
+    },
+    {
+      "target": "豚",
+      "native": "pig",
+      "emoji": "🐖",
+      "romanization": "buta"
+    },
+    {
+      "target": "兎",
+      "native": "rabbit",
+      "emoji": "🐇",
+      "romanization": "usagi"
+    },
+    {
+      "target": "象",
+      "native": "elephant",
+      "emoji": "🐘",
+      "romanization": "zou"
+    },
+    {
+      "target": "猿",
+      "native": "monkey",
+      "emoji": "🐒",
+      "romanization": "saru"
+    },
+    {
+      "target": "ライオン",
+      "native": "lion",
+      "emoji": "🦁",
+      "romanization": "raion"
+    },
+    {
+      "target": "パンダ",
+      "native": "panda",
+      "emoji": "🐼",
+      "romanization": "panda"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "犬は大きいです。",
+      "native": "The dog is big.",
+      "romanization": "inu wa ookii desu"
+    },
+    {
+      "target": "猫は可愛いです。",
+      "native": "The cat is cute.",
+      "romanization": "neko wa kawaii desu"
+    },
+    {
+      "target": "馬は速いです。",
+      "native": "The horse is fast.",
+      "romanization": "uma wa hayai desu"
+    },
+    {
+      "target": "鳥は小さいです。",
+      "native": "The bird is small.",
+      "romanization": "tori wa chiisai desu"
+    },
+    {
+      "target": "魚は水の中にいます。",
+      "native": "The fish is in the water.",
+      "romanization": "sakana wa mizu no naka ni imasu"
+    },
+    {
+      "target": "牛は農場にいます。",
+      "native": "The cow is on the farm.",
+      "romanization": "ushi wa noujou ni imasu"
+    },
+    {
+      "target": "私は犬が好きです。",
+      "native": "I like dogs.",
+      "romanization": "watashi wa inu ga suki desu"
+    },
+    {
+      "target": "パンダは中国から来ます。",
+      "native": "Pandas come from China.",
+      "romanization": "panda wa chuugoku kara kimasu"
+    },
+    {
+      "target": "象は大きいです。",
+      "native": "The elephant is big.",
+      "romanization": "zou wa ookii desu"
+    },
+    {
+      "target": "兎は白いです。",
+      "native": "The rabbit is white.",
+      "romanization": "usagi wa shiroi desu"
+    }
+  ]
+}

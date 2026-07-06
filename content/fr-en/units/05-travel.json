@@ -1,0 +1,109 @@
+{
+  "title": "Travel",
+  "description": "Learn essential French vocabulary and phrases for getting around cities, using transportation, staying at hotels, and asking for directions.",
+  "guidebook": "## Getting Around in French\n\n**Asking where things are** uses the structure: *Où est... ?* (Where is...?) for singular nouns and *Où sont... ?* for plural. To ask for a specific place, use *Où est la gare ?* (Where is the train station?).\n\n**Giving directions** often starts with *Allez tout droit* (Go straight), *Tournez à gauche/droite* (Turn left/right), or *C'est à côté de...* (It's next to...).\n\n**At the airport or train station**, you'll hear *Le train part à...* (The train leaves at...) and *Le vol est retardé* (The flight is delayed). To buy a ticket, ask *Un billet, s'il vous plaît* (One ticket, please).\n\n**Gender matters!** French nouns are masculine or feminine: *le musée* (m.), *la gare* (f.), *l'hôtel* (m.), *la rue* (f.). Always learn the article with the noun.\n\n**Polite phrases** like *Excusez-moi* and *Merci beaucoup* go a long way when navigating a French-speaking city!",
+  "words": [
+    {
+      "target": "la ville",
+      "native": "the city",
+      "emoji": "🏙️"
+    },
+    {
+      "target": "la rue",
+      "native": "the street",
+      "emoji": "🛣️"
+    },
+    {
+      "target": "la gare",
+      "native": "the train station",
+      "emoji": "🚉"
+    },
+    {
+      "target": "l'aéroport",
+      "native": "the airport",
+      "emoji": "✈️"
+    },
+    {
+      "target": "l'hôtel",
+      "native": "the hotel",
+      "emoji": "🏨"
+    },
+    {
+      "target": "le musée",
+      "native": "the museum",
+      "emoji": "🏛️"
+    },
+    {
+      "target": "le billet",
+      "native": "the ticket",
+      "emoji": "🎫"
+    },
+    {
+      "target": "la carte",
+      "native": "the map",
+      "emoji": "🗺️"
+    },
+    {
+      "target": "le taxi",
+      "native": "the taxi",
+      "emoji": "🚕"
+    },
+    {
+      "target": "la valise",
+      "native": "the suitcase",
+      "emoji": "🧳"
+    },
+    {
+      "target": "la gauche",
+      "native": "the left",
+      "emoji": "⬅️"
+    },
+    {
+      "target": "la droite",
+      "native": "the right",
+      "emoji": "➡️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Où est la gare ?",
+      "native": "Where is the train station?"
+    },
+    {
+      "target": "Je cherche l'hôtel.",
+      "native": "I am looking for the hotel."
+    },
+    {
+      "target": "Où est le musée ?",
+      "native": "Where is the museum?"
+    },
+    {
+      "target": "Allez tout droit.",
+      "native": "Go straight ahead."
+    },
+    {
+      "target": "Tournez à gauche.",
+      "native": "Turn left."
+    },
+    {
+      "target": "C'est à côté de la banque.",
+      "native": "It is next to the bank."
+    },
+    {
+      "target": "Un billet, s'il vous plaît.",
+      "native": "One ticket, please."
+    },
+    {
+      "target": "Le train part à dix heures.",
+      "native": "The train leaves at ten o'clock."
+    },
+    {
+      "target": "J'ai une valise.",
+      "native": "I have a suitcase."
+    },
+    {
+      "target": "Excusez-moi, où est l'aéroport ?",
+      "native": "Excuse me, where is the airport?"
+    }
+  ]
+}

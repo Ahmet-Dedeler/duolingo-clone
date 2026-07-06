@@ -1,0 +1,131 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals in Korean and how to describe them with simple sentences.",
+  "guidebook": "# Animals 🐾\n\nWelcome to the Animals unit! In this lesson, you'll learn the names of common animals in Korean and how to make simple sentences about them.\n\n## Topic Marker\n\nIn Korean, the particle **은/는** is used to mark the topic of a sentence. Use **는** after a vowel and **은** after a consonant.\n\n- 개**는** (gae-neun) — *as for the dog*\n- 말**은** (ma-reun) — *as for the horse*\n\n## Descriptive Verb: ~이다 (to be)\n\nTo say \"X is Y,\" use the pattern: **Noun + 은/는 + Noun + 이에요/예요**.\n\n- Use **이에요** after a consonant: 개는 강아지**예요** (The dog is a puppy).\n- Use **예요** after a vowel: 새는 예뻐요 (The bird is pretty).\n\n## Plural Marker\n\nKorean doesn't always mark plurals, but you can add **들** to make a noun plural:\n\n- 물고기 → 물고기**들** (fish → fishes)\n\n## Sentence Endings\n\n**~이에요/예요** is the polite informal ending, perfect for beginners. Try combining animal names with descriptive verbs like **예뻐요** (is pretty), **커요** (is big), and **좋아요** (is good).",
+  "words": [
+    {
+      "target": "개",
+      "native": "the dog",
+      "emoji": "🐶",
+      "romanization": "gae"
+    },
+    {
+      "target": "고양이",
+      "native": "the cat",
+      "emoji": "🐱",
+      "romanization": "goyangi"
+    },
+    {
+      "target": "말",
+      "native": "the horse",
+      "emoji": "🐴",
+      "romanization": "mal"
+    },
+    {
+      "target": "새",
+      "native": "the bird",
+      "emoji": "🐦",
+      "romanization": "sae"
+    },
+    {
+      "target": "물고기",
+      "native": "the fish",
+      "emoji": "🐟",
+      "romanization": "mulgogi"
+    },
+    {
+      "target": "소",
+      "native": "the cow",
+      "emoji": "🐮",
+      "romanization": "so"
+    },
+    {
+      "target": "토끼",
+      "native": "the rabbit",
+      "emoji": "🐰",
+      "romanization": "tokki"
+    },
+    {
+      "target": "호랑이",
+      "native": "the tiger",
+      "emoji": "🐯",
+      "romanization": "horangi"
+    },
+    {
+      "target": "코끼리",
+      "native": "the elephant",
+      "emoji": "🐘",
+      "romanization": "kokkiri"
+    },
+    {
+      "target": "원숭이",
+      "native": "the monkey",
+      "emoji": "🐵",
+      "romanization": "wonsungi"
+    },
+    {
+      "target": "강아지",
+      "native": "the puppy",
+      "emoji": "🐕",
+      "romanization": "gangaji"
+    },
+    {
+      "target": "새끼 고양이",
+      "native": "the kitten",
+      "emoji": "😺",
+      "romanization": "saekki goyangi"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "개는 귀여워요.",
+      "native": "The dog is cute.",
+      "romanization": "gaeneun gwiyeowoyo"
+    },
+    {
+      "target": "고양이는 작아요.",
+      "native": "The cat is small.",
+      "romanization": "goyangineun jagayo"
+    },
+    {
+      "target": "말은 커요.",
+      "native": "The horse is big.",
+      "romanization": "mareun keoyo"
+    },
+    {
+      "target": "새는 하늘을 날아요.",
+      "native": "The bird flies in the sky.",
+      "romanization": "saeneun haneureul narayo"
+    },
+    {
+      "target": "물고기는 물에 살아요.",
+      "native": "The fish lives in the water.",
+      "romanization": "mulgogineun mure sarayo"
+    },
+    {
+      "target": "소는 우유를 줘요.",
+      "native": "The cow gives milk.",
+      "romanization": "soneun uyureul jwoyo"
+    },
+    {
+      "target": "토끼는 귀가 길어요.",
+      "native": "The rabbit has long ears.",
+      "romanization": "tokkineun gwiga gireoyo"
+    },
+    {
+      "target": "호랑이는 무서워요.",
+      "native": "The tiger is scary.",
+      "romanization": "horangineun museowoyo"
+    },
+    {
+      "target": "코끼리는 코가 길어요.",
+      "native": "The elephant has a long trunk.",
+      "romanization": "kokkirineun koga gireoyo"
+    },
+    {
+      "target": "원숭이는 바나나를 좋아해요.",
+      "native": "The monkey likes bananas.",
+      "romanization": "wonsungineun bananareul joahaeyo"
+    }
+  ]
+}

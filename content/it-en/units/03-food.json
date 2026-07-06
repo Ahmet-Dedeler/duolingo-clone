@@ -1,0 +1,109 @@
+{
+  "title": "Food",
+  "description": "Learn essential Italian food and drink vocabulary, plus how to say you want, eat, and drink.",
+  "guidebook": "Welcome to Italian food basics! 🍝\n\n**Articles matter!** Italian nouns have gender. Masculine words typically end in *-o* (use *il/un*), feminine in *-a* (use *la/una*). For example, *il caffè* (the coffee), *la mela* (the apple).\n\n**Verbs you'll use a lot:**\n- *volere* (to want): *voglio* (I want), *vuoi* (you want)\n- *mangiare* (to eat): *mangio* (I eat), *mangi* (you eat)\n- *bere* (to drink): *bevo* (I drink), *bevi* (you drink)\n\n**Word order:** Italian often drops the subject pronoun since the verb ending tells you who's acting. *Voglio il caffè* = \"I want the coffee.\"\n\n**Useful pattern:** *Voglio + noun* or *Voglio + infinitive* (e.g., *Voglio mangiare* = \"I want to eat\").\n\nEnjoy your meal — *Buon appetito!*",
+  "words": [
+    {
+      "target": "il caffè",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "il riso",
+      "native": "the rice",
+      "emoji": "🍚"
+    },
+    {
+      "target": "l'uovo",
+      "native": "the egg",
+      "emoji": "🥚"
+    },
+    {
+      "target": "il formaggio",
+      "native": "the cheese",
+      "emoji": "🧀"
+    },
+    {
+      "target": "la frutta",
+      "native": "the fruit",
+      "emoji": "🍎"
+    },
+    {
+      "target": "il succo",
+      "native": "the juice",
+      "emoji": "🧃"
+    },
+    {
+      "target": "l'acqua",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "il pane",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "la pasta",
+      "native": "the pasta",
+      "emoji": "🍝"
+    },
+    {
+      "target": "il vino",
+      "native": "the wine",
+      "emoji": "🍷"
+    },
+    {
+      "target": "mangiare",
+      "native": "to eat",
+      "emoji": "🍴"
+    },
+    {
+      "target": "bere",
+      "native": "to drink",
+      "emoji": "🥤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Voglio il caffè.",
+      "native": "I want the coffee."
+    },
+    {
+      "target": "Mangi il pane.",
+      "native": "You eat the bread."
+    },
+    {
+      "target": "Bevo l'acqua.",
+      "native": "I drink the water."
+    },
+    {
+      "target": "Voglio mangiare la pasta.",
+      "native": "I want to eat the pasta."
+    },
+    {
+      "target": "Mi piace il formaggio.",
+      "native": "I like the cheese."
+    },
+    {
+      "target": "Bevi il succo.",
+      "native": "You drink the juice."
+    },
+    {
+      "target": "Voglio un uovo.",
+      "native": "I want an egg."
+    },
+    {
+      "target": "Mangiamo la frutta.",
+      "native": "We eat the fruit."
+    },
+    {
+      "target": "Il vino è buono.",
+      "native": "The wine is good."
+    },
+    {
+      "target": "Voglio bere il caffè.",
+      "native": "I want to drink the coffee."
+    }
+  ]
+}

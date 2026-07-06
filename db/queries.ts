@@ -1,7 +1,8 @@
 import { cache } from "react";
 
-import { auth } from "@clerk/nextjs/server";
 import { eq } from "drizzle-orm";
+
+import { getLocalUserId } from "@/lib/local-user";
 
 import db from "./drizzle";
 import {
@@ -10,10 +11,7 @@ import {
   lessons,
   units,
   userProgress,
-  userSubscription,
 } from "./schema";
-
-const DAY_IN_MS = 86_400_000;
 
 export const getCourses = cache(async () => {
   const data = await db.query.courses.findMany();
@@ -22,9 +20,7 @@ export const getCourses = cache(async () => {
 });
 
 export const getUserProgress = cache(async () => {
-  const { userId } = await auth();
-
-  if (!userId) return null;
+  const userId = getLocalUserId();
 
   const data = await db.query.userProgress.findFirst({
     where: eq(userProgress.userId, userId),
@@ -37,10 +33,10 @@ export const getUserProgress = cache(async () => {
 });
 
 export const getUnits = cache(async () => {
-  const { userId } = await auth();
+  const userId = getLocalUserId();
   const userProgress = await getUserProgress();
 
-  if (!userId || !userProgress?.activeCourseId) return [];
+  if (!userProgress?.activeCourseId) return [];
 
   const data = await db.query.units.findMany({
     where: eq(units.courseId, userProgress.activeCourseId),
@@ -103,10 +99,10 @@ export const getCourseById = cache(async (courseId: number) => {
 });
 
 export const getCourseProgress = cache(async () => {
-  const { userId } = await auth();
+  const userId = getLocalUserId();
   const userProgress = await getUserProgress();
 
-  if (!userId || !userProgress?.activeCourseId) return null;
+  if (!userProgress?.activeCourseId) return null;
 
   const unitsInActiveCourse = await db.query.units.findMany({
     orderBy: (units, { asc }) => [asc(units.order)],
@@ -147,9 +143,7 @@ export const getCourseProgress = cache(async () => {
 });
 
 export const getLesson = cache(async (id?: number) => {
-  const { userId } = await auth();
-
-  if (!userId) return null;
+  const userId = getLocalUserId();
 
   const courseProgress = await getCourseProgress();
   const lessonId = id || courseProgress?.activeLessonId;
@@ -206,30 +200,14 @@ export const getLessonPercentage = cache(async () => {
 });
 
 export const getUserSubscription = cache(async () => {
-  const { userId } = await auth();
-
-  if (!userId) return null;
-
-  const data = await db.query.userSubscription.findFirst({
-    where: eq(userSubscription.userId, userId),
-  });
-
-  if (!data) return null;
-
-  const isActive =
-    data.stripePriceId &&
-    data.stripeCurrentPeriodEnd?.getTime() + DAY_IN_MS > Date.now();
-
   return {
-    ...data,
-    isActive: !!isActive,
+    userId: getLocalUserId(),
+    isActive: true,
   };
 });
 
 export const getTopTenUsers = cache(async () => {
-  const { userId } = await auth();
-
-  if (!userId) return [];
+  const userId = getLocalUserId();
 
   const data = await db.query.userProgress.findMany({
     orderBy: (userProgress, { desc }) => [desc(userProgress.points)],

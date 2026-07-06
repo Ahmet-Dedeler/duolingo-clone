@@ -1,0 +1,109 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential Portuguese greetings and polite expressions for everyday conversations.",
+  "guidebook": "## Greetings in Portuguese 🇧🇷🇵🇹\n\nPortuguese greetings change with the time of day and level of formality.\n\n**Hello / Goodbye**\n- **Olá** = Hello (universal, informal)\n- **Bom dia** = Good morning (until ~noon)\n- **Boa tarde** = Good afternoon (until sunset)\n- **Boa noite** = Good evening / Good night\n\n**How are you?**\n- **Como vai?** = How are you? (formal)\n- **Como estás?** = How are you? (informal, Portugal)\n- **Tudo bem?** = Everything good? (very common)\n- Reply: **Bem, obrigado/a** = Fine, thanks (m/f)\n\n**Politeness**\n- **Por favor** = Please\n- **Obrigado** = Thank you (masc. speaker)\n- **Obrigada** = Thank you (fem. speaker)\n- **De nada** = You're welcome\n- **Desculpe** = Excuse me / Sorry (formal)\n\n**Goodbye**\n- **Tchau** = Bye (informal)\n- **Até logo** = See you later\n- **Até amanhã** = See you tomorrow\n\n💡 Tip: Brazilians often use **beijos** (kisses) and **abraços** (hugs) when greeting friends!",
+  "words": [
+    {
+      "target": "olá",
+      "native": "hello",
+      "emoji": "👋"
+    },
+    {
+      "target": "bom dia",
+      "native": "good morning",
+      "emoji": "🌅"
+    },
+    {
+      "target": "boa tarde",
+      "native": "good afternoon",
+      "emoji": "☀️"
+    },
+    {
+      "target": "boa noite",
+      "native": "good night",
+      "emoji": "🌙"
+    },
+    {
+      "target": "tchau",
+      "native": "goodbye",
+      "emoji": "👋"
+    },
+    {
+      "target": "por favor",
+      "native": "please",
+      "emoji": "🙏"
+    },
+    {
+      "target": "obrigado",
+      "native": "thank you",
+      "emoji": "💐"
+    },
+    {
+      "target": "de nada",
+      "native": "you're welcome",
+      "emoji": "😊"
+    },
+    {
+      "target": "tudo bem",
+      "native": "everything is fine",
+      "emoji": "👍"
+    },
+    {
+      "target": "como vai",
+      "native": "how are you",
+      "emoji": "🤔"
+    },
+    {
+      "target": "até logo",
+      "native": "see you later",
+      "emoji": "👀"
+    },
+    {
+      "target": "desculpe",
+      "native": "excuse me",
+      "emoji": "🙇"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Olá, como vai?",
+      "native": "Hello, how are you?"
+    },
+    {
+      "target": "Bom dia, tudo bem?",
+      "native": "Good morning, how are you?"
+    },
+    {
+      "target": "Boa tarde, obrigado.",
+      "native": "Good afternoon, thank you."
+    },
+    {
+      "target": "Boa noite, até logo.",
+      "native": "Good night, see you later."
+    },
+    {
+      "target": "Tudo bem, obrigado.",
+      "native": "I'm fine, thank you."
+    },
+    {
+      "target": "Muito prazer em conhecê-lo.",
+      "native": "Nice to meet you."
+    },
+    {
+      "target": "Por favor, um café.",
+      "native": "Please, one coffee."
+    },
+    {
+      "target": "De nada, boa sorte.",
+      "native": "You're welcome, good luck."
+    },
+    {
+      "target": "Até amanhã, tchau.",
+      "native": "See you tomorrow, bye."
+    },
+    {
+      "target": "Desculpe, não entendi.",
+      "native": "Sorry, I didn't understand."
+    }
+  ]
+}

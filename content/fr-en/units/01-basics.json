@@ -1,0 +1,109 @@
+{
+  "title": "Basics 1",
+  "description": "Your very first French words and sentences. Learn people, food, drinks, and how to say what you are and what you eat.",
+  "guidebook": "## Welcome to French! 🇫🇷\n\nFrench nouns have a **gender**: they are either **masculine** (*le*) or **feminine** (*la*). You'll learn the article with each noun, so always remember it!\n\n### The verb *être* (to be)\nThis is one of the most important verbs. Here are the basics:\n- **je suis** — I am\n- **tu es** — you are (informal)\n- **il est** — he is / **elle est** — she is\n- **nous sommes** — we are\n\n### Saying what you eat and drink\nFrench uses **manger** (to eat) and **boire** (to drink):\n- *Je mange une pomme.* — I eat an apple.\n- *Je bois de l'eau.* — I drink water.\n\nNotice **de l'eau** instead of *la eau*: after *de*, the article *le/la* becomes **de l'** before a vowel.\n\n### A small but vital word\n**Oui** (yes) and **non** (no) will be your best friends in every conversation. Use them often!",
+  "words": [
+    {
+      "target": "l'homme",
+      "native": "the man",
+      "emoji": "👨"
+    },
+    {
+      "target": "la femme",
+      "native": "the woman",
+      "emoji": "👩"
+    },
+    {
+      "target": "le garçon",
+      "native": "the boy",
+      "emoji": "👦"
+    },
+    {
+      "target": "la fille",
+      "native": "the girl",
+      "emoji": "👧"
+    },
+    {
+      "target": "la pomme",
+      "native": "the apple",
+      "emoji": "🍎"
+    },
+    {
+      "target": "le pain",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "l'eau",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "le lait",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "manger",
+      "native": "to eat",
+      "emoji": "🍽️"
+    },
+    {
+      "target": "boire",
+      "native": "to drink",
+      "emoji": "🥤"
+    },
+    {
+      "target": "oui",
+      "native": "yes",
+      "emoji": "✅"
+    },
+    {
+      "target": "non",
+      "native": "no",
+      "emoji": "❌"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Je suis un homme.",
+      "native": "I am a man."
+    },
+    {
+      "target": "Je suis une femme.",
+      "native": "I am a woman."
+    },
+    {
+      "target": "Il est un garçon.",
+      "native": "He is a boy."
+    },
+    {
+      "target": "Elle est une fille.",
+      "native": "She is a girl."
+    },
+    {
+      "target": "Je mange une pomme.",
+      "native": "I eat an apple."
+    },
+    {
+      "target": "Je mange du pain.",
+      "native": "I eat bread."
+    },
+    {
+      "target": "Je bois de l'eau.",
+      "native": "I drink water."
+    },
+    {
+      "target": "Je bois du lait.",
+      "native": "I drink milk."
+    },
+    {
+      "target": "Oui, je mange.",
+      "native": "Yes, I am eating."
+    },
+    {
+      "target": "Non, merci.",
+      "native": "No, thank you."
+    }
+  ]
+}

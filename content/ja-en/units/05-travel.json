@@ -1,0 +1,131 @@
+{
+  "title": "Travel",
+  "description": "Learn essential Japanese vocabulary and phrases for navigating cities, trains, hotels, airports, and asking for directions.",
+  "guidebook": "## Travel in Japanese 🚆\n\nThis unit covers the basics of getting around Japan. You'll learn vocabulary for transportation, places, and asking for help.\n\n### Key Grammar Points\n\n**は (wa) - Topic marker:** Marks the topic of a sentence. Example: 駅はどこですか (Eki wa doko desu ka) - \"Where is the station?\"\n\n**を (wo) - Object marker:** Used with motion verbs. Example: バスに乗ります (Basu ni norimasu) - \"I ride the bus.\"\n\n**に (ni) - Direction/Destination:** Indicates where you're going. Example: ホテルに行きます (Hoteru ni ikimasu) - \"I go to the hotel.\"\n\n**どこ (doko) - Where:** Combine with desu ka to ask \"where is ___?\"\n\n### Useful Patterns\n\n- ___はどこですか? - \"Where is ___?\"\n- ___に行きます - \"I'm going to ___.\"\n- ___をください - \"Please give me ___\" (when ordering)\n\n### Travel Tips 🗾\n\nJapan has an incredible train system. When asking for directions, politeness goes a long way. Adding すみません (sumimasen) before a question is the standard way to get attention.",
+  "words": [
+    {
+      "target": "駅",
+      "native": "the train station",
+      "emoji": "🚉",
+      "romanization": "eki"
+    },
+    {
+      "target": "空港",
+      "native": "the airport",
+      "emoji": "✈️",
+      "romanization": "kuukou"
+    },
+    {
+      "target": "ホテル",
+      "native": "the hotel",
+      "emoji": "🏨",
+      "romanization": "hoteru"
+    },
+    {
+      "target": "町",
+      "native": "the city",
+      "emoji": "🏙️",
+      "romanization": "machi"
+    },
+    {
+      "target": "道",
+      "native": "the street",
+      "emoji": "🛣️",
+      "romanization": "michi"
+    },
+    {
+      "target": "博物館",
+      "native": "the museum",
+      "emoji": "🏛️",
+      "romanization": "hakubutsukan"
+    },
+    {
+      "target": "地図",
+      "native": "the map",
+      "emoji": "🗺️",
+      "romanization": "chizu"
+    },
+    {
+      "target": "切符",
+      "native": "the ticket",
+      "emoji": "🎫",
+      "romanization": "kippu"
+    },
+    {
+      "target": "電車",
+      "native": "the train",
+      "emoji": "🚆",
+      "romanization": "densha"
+    },
+    {
+      "target": "バス",
+      "native": "the bus",
+      "emoji": "🚌",
+      "romanization": "basu"
+    },
+    {
+      "target": "タクシー",
+      "native": "the taxi",
+      "emoji": "🚕",
+      "romanization": "takushii"
+    },
+    {
+      "target": "荷物",
+      "native": "the luggage",
+      "emoji": "🧳",
+      "romanization": "nimotsu"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "駅はどこですか。",
+      "native": "Where is the train station?",
+      "romanization": "Eki wa doko desu ka."
+    },
+    {
+      "target": "空港に行きます。",
+      "native": "I am going to the airport.",
+      "romanization": "Kuukou ni ikimasu."
+    },
+    {
+      "target": "ホテルに泊まります。",
+      "native": "I am staying at a hotel.",
+      "romanization": "Hoteru ni tomarimasu."
+    },
+    {
+      "target": "切符をください。",
+      "native": "Please give me a ticket.",
+      "romanization": "Kippu wo kudasai."
+    },
+    {
+      "target": "電車で町に行きます。",
+      "native": "I go to the city by train.",
+      "romanization": "Densha de machi ni ikimasu."
+    },
+    {
+      "target": "博物館はどこですか。",
+      "native": "Where is the museum?",
+      "romanization": "Hakubutsukan wa doko desu ka."
+    },
+    {
+      "target": "地図を見てもいいですか。",
+      "native": "May I see the map?",
+      "romanization": "Chizu wo mite mo ii desu ka."
+    },
+    {
+      "target": "タクシーを呼びます。",
+      "native": "I will call a taxi.",
+      "romanization": "Takushii wo yobimasu."
+    },
+    {
+      "target": "すみません、道を教えてください。",
+      "native": "Excuse me, please tell me the way.",
+      "romanization": "Sumimasen, michi wo oshiete kudasai."
+    },
+    {
+      "target": "荷物を預かります。",
+      "native": "I will keep the luggage.",
+      "romanization": "Nimotsu wo azukarimasu."
+    }
+  ]
+}

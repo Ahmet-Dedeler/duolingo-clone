@@ -1,0 +1,131 @@
+{
+  "title": "Basics 1",
+  "description": "Learn your very first Chinese words and sentences! Meet people, name foods, and start talking about what you eat and drink.",
+  "guidebook": "Welcome to your first Chinese lesson! 🎉\n\n**Nouns have no articles** in Chinese. There is no \"a,\" \"an,\" or \"the\" — 男人 means both \"a man\" and \"the man.\"\n\n**Subject + 是 (shì) + Noun** is the basic \"to be\" sentence. 是 means \"am/is/are.\" Example: 我是女孩 (I am a girl).\n\n**Verbs don't conjugate.** 吃 (chī, to eat) and 喝 (hē, to drink) stay the same no matter who does the action. Just say: 我喝水 (I drink water).\n\n**Word order** is usually Subject + Verb + Object, just like English: 我吃面包 (I eat bread).\n\n**Tones matter!** Mandarin has 4 tones plus a neutral tone. The pinyin shows tones with marks (ā, á, ǎ, à). Practice them out loud — they change meanings!\n\nLet's go! 🚀",
+  "words": [
+    {
+      "target": "男人",
+      "native": "the man",
+      "emoji": "👨",
+      "romanization": "nán rén"
+    },
+    {
+      "target": "女人",
+      "native": "the woman",
+      "emoji": "👩",
+      "romanization": "nǚ rén"
+    },
+    {
+      "target": "男孩",
+      "native": "the boy",
+      "emoji": "👦",
+      "romanization": "nán hái"
+    },
+    {
+      "target": "女孩",
+      "native": "the girl",
+      "emoji": "👧",
+      "romanization": "nǚ hái"
+    },
+    {
+      "target": "苹果",
+      "native": "the apple",
+      "emoji": "🍎",
+      "romanization": "píng guǒ"
+    },
+    {
+      "target": "面包",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "miàn bāo"
+    },
+    {
+      "target": "水",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "shuǐ"
+    },
+    {
+      "target": "牛奶",
+      "native": "the milk",
+      "emoji": "🥛",
+      "romanization": "niú nǎi"
+    },
+    {
+      "target": "我",
+      "native": "I / me",
+      "emoji": "🙋",
+      "romanization": "wǒ"
+    },
+    {
+      "target": "是",
+      "native": "am / is / are",
+      "emoji": "✅",
+      "romanization": "shì"
+    },
+    {
+      "target": "吃",
+      "native": "to eat",
+      "emoji": "🍽️",
+      "romanization": "chī"
+    },
+    {
+      "target": "喝",
+      "native": "to drink",
+      "emoji": "🥤",
+      "romanization": "hē"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "我是女孩。",
+      "native": "I am a girl.",
+      "romanization": "wǒ shì nǚ hái."
+    },
+    {
+      "target": "他是男人。",
+      "native": "He is a man.",
+      "romanization": "tā shì nán rén."
+    },
+    {
+      "target": "她是女人。",
+      "native": "She is a woman.",
+      "romanization": "tā shì nǚ rén."
+    },
+    {
+      "target": "他是男孩。",
+      "native": "He is a boy.",
+      "romanization": "tā shì nán hái."
+    },
+    {
+      "target": "我吃苹果。",
+      "native": "I eat an apple.",
+      "romanization": "wǒ chī píng guǒ."
+    },
+    {
+      "target": "我吃面包。",
+      "native": "I eat bread.",
+      "romanization": "wǒ chī miàn bāo."
+    },
+    {
+      "target": "我喝水。",
+      "native": "I drink water.",
+      "romanization": "wǒ hē shuǐ."
+    },
+    {
+      "target": "我喝牛奶。",
+      "native": "I drink milk.",
+      "romanization": "wǒ hē niú nǎi."
+    },
+    {
+      "target": "她吃苹果。",
+      "native": "She eats an apple.",
+      "romanization": "tā chī píng guǒ."
+    },
+    {
+      "target": "他喝水。",
+      "native": "He drinks water.",
+      "romanization": "tā hē shuǐ."
+    }
+  ]
+}

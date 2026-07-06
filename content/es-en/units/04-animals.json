@@ -1,0 +1,109 @@
+{
+  "title": "Animals",
+  "description": "Learn the names of common animals and how to describe what they do.",
+  "guidebook": "Welcome to the animal kingdom! In Spanish, all animals have a grammatical gender, just like other nouns. For example, *el perro* (the dog) is masculine, while *la vaca* (the cow) is feminine. When describing what animals do, we use simple verbs. To say 'the cat drinks milk', we say *El gato bebe leche*. Notice how the verb changes depending on who is doing the action: *bebe* (drinks) or *come* (eats). Remember, fish that are swimming in the water are called *el pez*, but if they are on a plate, they are *el pescado*. Let's stick to the living ones for now! Have fun meeting your new animal friends!",
+  "words": [
+    {
+      "target": "el perro",
+      "native": "the dog",
+      "emoji": "🐶"
+    },
+    {
+      "target": "el gato",
+      "native": "the cat",
+      "emoji": "🐱"
+    },
+    {
+      "target": "el caballo",
+      "native": "the horse",
+      "emoji": "🐴"
+    },
+    {
+      "target": "el pájaro",
+      "native": "the bird",
+      "emoji": "🐦"
+    },
+    {
+      "target": "el pez",
+      "native": "the fish",
+      "emoji": "🐟"
+    },
+    {
+      "target": "la vaca",
+      "native": "the cow",
+      "emoji": "🐮"
+    },
+    {
+      "target": "el ratón",
+      "native": "the mouse",
+      "emoji": "🐭"
+    },
+    {
+      "target": "el pato",
+      "native": "the duck",
+      "emoji": "🦆"
+    },
+    {
+      "target": "el oso",
+      "native": "the bear",
+      "emoji": "🐻"
+    },
+    {
+      "target": "el agua",
+      "native": "the water",
+      "emoji": "💧"
+    },
+    {
+      "target": "la leche",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "la manzana",
+      "native": "the apple",
+      "emoji": "🍎"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "El gato bebe leche.",
+      "native": "The cat drinks milk."
+    },
+    {
+      "target": "El perro come una manzana.",
+      "native": "The dog eats an apple."
+    },
+    {
+      "target": "El caballo bebe agua.",
+      "native": "The horse drinks water."
+    },
+    {
+      "target": "Me gusta el pájaro.",
+      "native": "I like the bird."
+    },
+    {
+      "target": "La vaca come.",
+      "native": "The cow eats."
+    },
+    {
+      "target": "El pato y el perro.",
+      "native": "The duck and the dog."
+    },
+    {
+      "target": "No quiero un ratón.",
+      "native": "I do not want a mouse."
+    },
+    {
+      "target": "El oso come una manzana.",
+      "native": "The bear eats an apple."
+    },
+    {
+      "target": "Quiero un caballo.",
+      "native": "I want a horse."
+    },
+    {
+      "target": "¿Dónde está el pez?",
+      "native": "Where is the fish?"
+    }
+  ]
+}

@@ -1,7 +1,5 @@
-import { SignIn } from "@clerk/nextjs";
+import { redirect } from "next/navigation";
 
-const SignInPage = () => {
-  return <SignIn />;
-};
-
-export default SignInPage;
+export default function SignInPage() {
+  redirect("/courses");
+}

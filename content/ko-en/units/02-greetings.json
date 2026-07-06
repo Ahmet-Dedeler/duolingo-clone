@@ -1,0 +1,131 @@
+{
+  "title": "Greetings",
+  "description": "Learn essential Korean greetings and polite expressions for everyday interactions.",
+  "guidebook": "## Greetings in Korean\n\nKorean greetings often depend on **formality** and **social context**. The most common greeting is **안녕하세요** (annyeonghaseyo), a polite \"hello\" used in most situations.\n\n### Saying Hello & Goodbye\n- **안녕하세요** — the standard polite hello, used any time of day.\n- **안녕** (annyeong) is informal, used with close friends or younger people.\n- **잘 가요** (jal gayo) means \"goodbye\" when *you* are staying.\n- **안녕히 가세요** (annyeonghi gaseyo) is a more respectful \"goodbye\" to someone leaving.\n\n### Morning & Night\n- **좋은 아침입니다** (joeun achimimnida) — \"Good morning\" (formal).\n- **좋은 저녁입니다** — \"Good evening.\"\n- **안녕히 주무세요** — \"Good night\" (to someone going to sleep).\n\n### Politeness Basics\n- **감사합니다** (gamsahamnida) — \"Thank you\" (formal).\n- **고마워요** (gomawoyo) — \"Thank you\" (polite but casual).\n- **죄송합니다** (joesonghamnida) — \"I'm sorry\" (formal).\n- **괜찮아요** (gwaenchanayo) — \"It's okay / I'm fine.\"\n\n### How Are You?\n- **잘 지내세요?** (jal jinaeseyo?) — \"How are you?\" (polite).\n- A common reply: **네, 잘 지내요** (ne, jal jinaeyo) — \"Yes, I'm doing well.\"\n\n💡 **Tip:** When in doubt, use **-요** endings — they're polite but friendly!",
+  "words": [
+    {
+      "target": "안녕하세요",
+      "native": "Hello",
+      "emoji": "👋",
+      "romanization": "annyeonghaseyo"
+    },
+    {
+      "target": "안녕",
+      "native": "Hi (informal)",
+      "emoji": "🙋",
+      "romanization": "annyeong"
+    },
+    {
+      "target": "잘 가요",
+      "native": "Goodbye",
+      "emoji": "👋",
+      "romanization": "jal gayo"
+    },
+    {
+      "target": "감사합니다",
+      "native": "Thank you",
+      "emoji": "🙏",
+      "romanization": "gamsahamnida"
+    },
+    {
+      "target": "고마워요",
+      "native": "Thanks (casual)",
+      "emoji": "😊",
+      "romanization": "gomawoyo"
+    },
+    {
+      "target": "죄송합니다",
+      "native": "I'm sorry",
+      "emoji": "🙇",
+      "romanization": "joesonghamnida"
+    },
+    {
+      "target": "괜찮아요",
+      "native": "It's okay",
+      "emoji": "👍",
+      "romanization": "gwaenchanayo"
+    },
+    {
+      "target": "네",
+      "native": "Yes",
+      "emoji": "✅",
+      "romanization": "ne"
+    },
+    {
+      "target": "아니요",
+      "native": "No",
+      "emoji": "❌",
+      "romanization": "aniyo"
+    },
+    {
+      "target": "아침",
+      "native": "the morning",
+      "emoji": "🌅",
+      "romanization": "achim"
+    },
+    {
+      "target": "저녁",
+      "native": "the evening",
+      "emoji": "🌆",
+      "romanization": "jeonyeok"
+    },
+    {
+      "target": "밤",
+      "native": "the night",
+      "emoji": "🌙",
+      "romanization": "bam"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "안녕하세요, 잘 지내세요?",
+      "native": "Hello, how are you?",
+      "romanization": "annyeonghaseyo, jal jinaeseyo?"
+    },
+    {
+      "target": "네, 잘 지내요.",
+      "native": "Yes, I am doing well.",
+      "romanization": "ne, jal jinaeyo."
+    },
+    {
+      "target": "안녕히 가세요.",
+      "native": "Goodbye (to someone leaving).",
+      "romanization": "annyeonghi gaseyo."
+    },
+    {
+      "target": "좋은 아침입니다.",
+      "native": "Good morning.",
+      "romanization": "joeun achimimnida."
+    },
+    {
+      "target": "좋은 저녁 보내세요.",
+      "native": "Have a good evening.",
+      "romanization": "joeun jeonyeok bonaeseyo."
+    },
+    {
+      "target": "안녕히 주무세요.",
+      "native": "Good night.",
+      "romanization": "annyeonghi jumuseyo."
+    },
+    {
+      "target": "감사합니다, 선생님.",
+      "native": "Thank you, teacher.",
+      "romanization": "gamsahamnida, seonsaengnim."
+    },
+    {
+      "target": "죄송합니다, 다시 한 번 말해 주세요.",
+      "native": "I'm sorry, please say it again.",
+      "romanization": "joesonghamnida, dasi han beon malhae juseyo."
+    },
+    {
+      "target": "만나서 반갑습니다.",
+      "native": "Nice to meet you.",
+      "romanization": "mannaseo bangapseumnida."
+    },
+    {
+      "target": "저는 학생이에요.",
+      "native": "I am a student.",
+      "romanization": "jeoneun haksaengieyo."
+    }
+  ]
+}

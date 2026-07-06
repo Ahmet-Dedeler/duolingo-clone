@@ -1,9 +1,8 @@
-import { ClerkLoading, ClerkLoaded, UserButton } from "@clerk/nextjs";
-import { Loader } from "lucide-react";
 import Image from "next/image";
 import Link from "next/link";
 
 import { cn } from "@/lib/utils";
+import { LOCAL_USER } from "@/lib/local-user";
 
 import { SidebarItem } from "./sidebar-item";
 
@@ -38,20 +37,18 @@ export const Sidebar = ({ className }: SidebarProps) => {
         />
         <SidebarItem label="Quests" href="/quests" iconSrc="/quests.svg" />
         <SidebarItem label="Shop" href="/shop" iconSrc="/shop.svg" />
+        <SidebarItem label="Admin" href="/admin" iconSrc="/quests.svg" />
       </div>
 
-      <div className="p-4">
-        <ClerkLoading>
-          <Loader className="h-5 w-5 animate-spin text-muted-foreground" />
-        </ClerkLoading>
-
-        <ClerkLoaded>
-          <UserButton
-            appearance={{
-              elements: { userButtonPopoverCard: { pointerEvents: "initial" } },
-            }}
-          />
-        </ClerkLoaded>
+      <div className="flex items-center gap-x-3 p-4">
+        <Image
+          src={LOCAL_USER.imageSrc}
+          alt={LOCAL_USER.name}
+          height={32}
+          width={32}
+          className="rounded-full"
+        />
+        <span className="font-semibold text-neutral-700">{LOCAL_USER.name}</span>
       </div>
     </div>
   );

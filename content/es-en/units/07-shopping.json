@@ -1,0 +1,109 @@
+{
+  "title": "Shopping",
+  "description": "Learn how to shop in Spanish! Talk about stores, prices, and buying things you want.",
+  "guidebook": "## Shopping in Spanish 🛍️\n\nWelcome to the market! In this unit, you'll learn how to navigate stores and talk about prices.\n\n### Nouns with articles\nSpanish nouns always come with an article. **El** is used with most masculine nouns (*el mercado*, *el dinero*), while **la** is used with feminine nouns (*la tienda*, *la camisa*). Notice that *el problema* and *el día* use **el** even though they end in **-a** — these are exceptions to memorize!\n\n### Adjective agreement\nAdjectives must match the noun they describe in **gender** and **number**. *Caro* (expensive) becomes *cara* with feminine nouns: *la camisa cara*. Add **-s** for plurals: *los zapatos caros*.\n\n### Key verbs\n- **Quiero** = I want (from *querer*)\n- **Compro** = I buy (from *comprar*)\n- **Vendo** = I sell (from *vender*)\n\n### Asking prices\n**¿Cuánto cuesta?** = How much does it cost? Use **¿Cuánto?** with masculine nouns and **¿Cuánta?** with feminine nouns. ¡A comprar!",
+  "words": [
+    {
+      "target": "la tienda",
+      "native": "the store",
+      "emoji": "🏬"
+    },
+    {
+      "target": "el mercado",
+      "native": "the market",
+      "emoji": "🛒"
+    },
+    {
+      "target": "el dinero",
+      "native": "the money",
+      "emoji": "💵"
+    },
+    {
+      "target": "la camisa",
+      "native": "the shirt",
+      "emoji": "👕"
+    },
+    {
+      "target": "los zapatos",
+      "native": "the shoes",
+      "emoji": "👟"
+    },
+    {
+      "target": "el precio",
+      "native": "the price",
+      "emoji": "🏷️"
+    },
+    {
+      "target": "caro",
+      "native": "expensive",
+      "emoji": "💰"
+    },
+    {
+      "target": "barato",
+      "native": "cheap",
+      "emoji": "🪙"
+    },
+    {
+      "target": "comprar",
+      "native": "to buy",
+      "emoji": "🛍️"
+    },
+    {
+      "target": "vender",
+      "native": "to sell",
+      "emoji": "💳"
+    },
+    {
+      "target": "quiero",
+      "native": "I want",
+      "emoji": "❤️"
+    },
+    {
+      "target": "cuánto",
+      "native": "how much",
+      "emoji": "❓"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Quiero comprar una camisa.",
+      "native": "I want to buy a shirt."
+    },
+    {
+      "target": "Los zapatos son caros.",
+      "native": "The shoes are expensive."
+    },
+    {
+      "target": "El precio es barato.",
+      "native": "The price is cheap."
+    },
+    {
+      "target": "¿Cuánto cuesta la tienda?",
+      "native": "How much does the store cost?"
+    },
+    {
+      "target": "Voy al mercado.",
+      "native": "I go to the market."
+    },
+    {
+      "target": "No tengo dinero.",
+      "native": "I don't have money."
+    },
+    {
+      "target": "La camisa y los zapatos.",
+      "native": "The shirt and the shoes."
+    },
+    {
+      "target": "¿Dónde está la tienda?",
+      "native": "Where is the store?"
+    },
+    {
+      "target": "Quiero vender el mercado.",
+      "native": "I want to sell the market."
+    },
+    {
+      "target": "Me gusta comprar barato.",
+      "native": "I like to buy cheap."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Food",
+  "description": "Learn essential Japanese words for common foods and drinks, plus how to say you want to eat and drink them.",
+  "guidebook": "Welcome to the Food unit! 🍱\n\nIn this unit, you'll learn common food and drink vocabulary. Japanese nouns don't have articles like \"a\" or \"the,\" so コーヒー means both \"coffee\" and \"the coffee.\"\n\n**Wanting things** uses the verb ほしい (hoshii). To say \"I want coffee,\" say コーヒーがほしい (kōhī ga hoshii). The particle **が (ga)** marks what you want.\n\n**Eating and drinking** use 食べる (taberu, \"to eat\") and 飲む (nomu, \"to drink\"). To say \"I eat rice,\" use ごはんをたべる (gohan o taberu). The particle **を (o)** marks the direct object.\n\n**Polite form**: Adding ます (masu) makes sentences polite. のみます (nomimasu) = \"drink (polite).\"\n\n**Word order** is Subject + Object + Verb: わたしはパンをたべます (Watashi wa pan o tabemasu) = \"I eat bread.\"\n\nEnjoy your meal — itadakimasu! 🍣",
+  "words": [
+    {
+      "target": "コーヒー",
+      "native": "the coffee",
+      "emoji": "☕",
+      "romanization": "kōhī"
+    },
+    {
+      "target": "おちゃ",
+      "native": "the tea",
+      "emoji": "🍵",
+      "romanization": "ocha"
+    },
+    {
+      "target": "ジュース",
+      "native": "the juice",
+      "emoji": "🧃",
+      "romanization": "jūsu"
+    },
+    {
+      "target": "みず",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "mizu"
+    },
+    {
+      "target": "ごはん",
+      "native": "the rice",
+      "emoji": "🍚",
+      "romanization": "gohan"
+    },
+    {
+      "target": "パン",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "pan"
+    },
+    {
+      "target": "たまご",
+      "native": "the egg",
+      "emoji": "🥚",
+      "romanization": "tamago"
+    },
+    {
+      "target": "チーズ",
+      "native": "the cheese",
+      "emoji": "🧀",
+      "romanization": "chīzu"
+    },
+    {
+      "target": "くだもの",
+      "native": "the fruit",
+      "emoji": "🍎",
+      "romanization": "kudamono"
+    },
+    {
+      "target": "さかな",
+      "native": "the fish",
+      "emoji": "🐟",
+      "romanization": "sakana"
+    },
+    {
+      "target": "にく",
+      "native": "the meat",
+      "emoji": "🥩",
+      "romanization": "niku"
+    },
+    {
+      "target": "ケーキ",
+      "native": "the cake",
+      "emoji": "🍰",
+      "romanization": "kēki"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "コーヒーがのみたいです。",
+      "native": "I want to drink coffee.",
+      "romanization": "Kōhī ga nomitai desu."
+    },
+    {
+      "target": "ごはんをたべます。",
+      "native": "I eat rice.",
+      "romanization": "Gohan o tabemasu."
+    },
+    {
+      "target": "みずをください。",
+      "native": "Water, please.",
+      "romanization": "Mizu o kudasai."
+    },
+    {
+      "target": "たまごがすきです。",
+      "native": "I like eggs.",
+      "romanization": "Tamago ga suki desu."
+    },
+    {
+      "target": "パンをたべました。",
+      "native": "I ate bread.",
+      "romanization": "Pan o tabemashita."
+    },
+    {
+      "target": "ジュースをのみます。",
+      "native": "I drink juice.",
+      "romanization": "Jūsu o nomimasu."
+    },
+    {
+      "target": "くだものがほしいです。",
+      "native": "I want fruit.",
+      "romanization": "Kudamono ga hoshii desu."
+    },
+    {
+      "target": "おちゃをのみませんか。",
+      "native": "Would you like tea?",
+      "romanization": "Ocha o nomimasen ka."
+    },
+    {
+      "target": "さかなはおいしいです。",
+      "native": "The fish is delicious.",
+      "romanization": "Sakana wa oishii desu."
+    },
+    {
+      "target": "あさごはんをたべます。",
+      "native": "I eat breakfast.",
+      "romanization": "Asagohan o tabemasu."
+    }
+  ]
+}

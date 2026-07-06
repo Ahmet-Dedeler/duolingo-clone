@@ -1,0 +1,109 @@
+{
+  "title": "Weather",
+  "description": "Talk about the weather and seasons in Spanish — sun, rain, snow, and more!",
+  "guidebook": "## Talking about the weather\n\nSpanish uses a few different verbs for weather, and the choice depends on what you're describing.\n\n**Hacer** (to make) is used for temperature and general conditions:\n- **Hace calor** — It's hot\n- **Hace frío** — It's cold\n- **Hace sol** — It's sunny\n- **Hace viento** — It's windy\n\n**Estar** is used for ongoing states and precipitation:\n- **Está lloviendo** — It's raining\n- **Está nevando** — It's snowing\n- **Está nublado** — It's cloudy\n\n**Ser** is used for seasons, which are nouns:\n- **Es verano** — It's summer\n- **Es invierno** — It's winter\n- **Es primavera** — It's spring\n- **Es otoño** — It's autumn\n\n### Quick tips\n- Weather phrases often start with the verb: **Hace frío** (not *\"It makes cold\"*).\n- **Me gusta** + noun works great for preferences: *Me gusta el verano* (I like summer).\n- **No me gusta** + noun for dislikes: *No me gusta la lluvia*.\n- Use **y** (and) to chain conditions: *Hace calor y hace sol*.\n\n¡Buena suerte! ☀️",
+  "words": [
+    {
+      "target": "el sol",
+      "native": "the sun",
+      "emoji": "☀️"
+    },
+    {
+      "target": "la lluvia",
+      "native": "the rain",
+      "emoji": "🌧️"
+    },
+    {
+      "target": "la nieve",
+      "native": "the snow",
+      "emoji": "❄️"
+    },
+    {
+      "target": "el calor",
+      "native": "the heat",
+      "emoji": "🔥"
+    },
+    {
+      "target": "el frío",
+      "native": "the cold",
+      "emoji": "🥶"
+    },
+    {
+      "target": "el viento",
+      "native": "the wind",
+      "emoji": "💨"
+    },
+    {
+      "target": "la nube",
+      "native": "the cloud",
+      "emoji": "☁️"
+    },
+    {
+      "target": "el verano",
+      "native": "the summer",
+      "emoji": "🌞"
+    },
+    {
+      "target": "el invierno",
+      "native": "the winter",
+      "emoji": "⛄"
+    },
+    {
+      "target": "la primavera",
+      "native": "the spring",
+      "emoji": "🌸"
+    },
+    {
+      "target": "el otoño",
+      "native": "the autumn",
+      "emoji": "🍂"
+    },
+    {
+      "target": "la tormenta",
+      "native": "the storm",
+      "emoji": "⛈️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Hace calor",
+      "native": "It is hot"
+    },
+    {
+      "target": "Hace frío",
+      "native": "It is cold"
+    },
+    {
+      "target": "Hace sol",
+      "native": "It is sunny"
+    },
+    {
+      "target": "Hace viento",
+      "native": "It is windy"
+    },
+    {
+      "target": "Está lloviendo",
+      "native": "It is raining"
+    },
+    {
+      "target": "Está nevando",
+      "native": "It is snowing"
+    },
+    {
+      "target": "Es verano",
+      "native": "It is summer"
+    },
+    {
+      "target": "Es invierno",
+      "native": "It is winter"
+    },
+    {
+      "target": "Me gusta el sol",
+      "native": "I like the sun"
+    },
+    {
+      "target": "No me gusta la lluvia",
+      "native": "I don't like the rain"
+    }
+  ]
+}

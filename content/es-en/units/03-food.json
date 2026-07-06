@@ -1,0 +1,109 @@
+{
+  "title": "Food",
+  "description": "Learn how to order and talk about your favorite foods and drinks in Spanish.",
+  "guidebook": "Welcome to the Food unit! Let's learn how to express what you want to eat and drink. To say \"I want,\" use **quiero**. For example: *Quiero un café* (I want a coffee). To say \"I like,\" use **me gusta** followed by the item. For singular items, use *me gusta* (e.g., *Me gusta el queso*). For plural items, use *me gustan* (e.g., *Me gustan las manzanas*). Remember that nouns in Spanish have gender. Masculine nouns usually end in *-o* and use **el** or **un** (like *el huevo* or *un jugo*). Feminine nouns often end in *-a* and use **la** or **una** (like *la manzana* or *una fruta*). ¡Buen provecho!",
+  "words": [
+    {
+      "target": "el café",
+      "native": "the coffee",
+      "emoji": "☕"
+    },
+    {
+      "target": "el arroz",
+      "native": "the rice",
+      "emoji": "🍚"
+    },
+    {
+      "target": "el huevo",
+      "native": "the egg",
+      "emoji": "🥚"
+    },
+    {
+      "target": "el queso",
+      "native": "the cheese",
+      "emoji": "🧀"
+    },
+    {
+      "target": "la fruta",
+      "native": "the fruit",
+      "emoji": "🍉"
+    },
+    {
+      "target": "el jugo",
+      "native": "the juice",
+      "emoji": "🧃"
+    },
+    {
+      "target": "el pan",
+      "native": "the bread",
+      "emoji": "🍞"
+    },
+    {
+      "target": "la leche",
+      "native": "the milk",
+      "emoji": "🥛"
+    },
+    {
+      "target": "la manzana",
+      "native": "the apple",
+      "emoji": "🍎"
+    },
+    {
+      "target": "el té",
+      "native": "the tea",
+      "emoji": "🍵"
+    },
+    {
+      "target": "la sopa",
+      "native": "the soup",
+      "emoji": "🥣"
+    },
+    {
+      "target": "el pollo",
+      "native": "the chicken",
+      "emoji": "🍗"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Quiero café y leche.",
+      "native": "I want coffee and milk."
+    },
+    {
+      "target": "Quiero comer pollo y arroz.",
+      "native": "I want to eat chicken and rice."
+    },
+    {
+      "target": "No quiero beber té.",
+      "native": "I do not want to drink tea."
+    },
+    {
+      "target": "Me gusta el queso.",
+      "native": "I like the cheese."
+    },
+    {
+      "target": "¿Donde está el pan?",
+      "native": "Where is the bread?"
+    },
+    {
+      "target": "Quiero una manzana y un jugo.",
+      "native": "I want an apple and a juice."
+    },
+    {
+      "target": "La sopa y el pan son buenos.",
+      "native": "The soup and the bread are good."
+    },
+    {
+      "target": "No me gusta el huevo.",
+      "native": "I do not like the egg."
+    },
+    {
+      "target": "Me gusta comer fruta.",
+      "native": "I like to eat fruit."
+    },
+    {
+      "target": "¿Donde está el café?",
+      "native": "Where is the coffee?"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Travel",
+  "description": "Learn essential Chinese vocabulary and phrases for navigating cities, transportation, hotels, and airports.",
+  "guidebook": "## Getting Around in Chinese 🗺️\n\nThis unit covers the essentials of travel in Chinese-speaking regions. You'll learn how to ask for directions and identify key places.\n\n**Asking \"Where is...?\"**\nThe most useful phrase is **在哪里?** (zài nǎlǐ?), meaning \"Where is it?\" Simply place a noun before it:\n- **酒店在哪里?** (jiǔdiàn zài nǎlǐ?) — Where is the hotel?\n- **机场在哪里?** (jīchǎng zài nǎlǐ?) — Where is the airport?\n\n**Using 在 (zài) for location**\nThe verb **在** means \"to be located at.\" Structure: **Place + 在 + Location**\n- **酒店在城市里** (jiǔdiàn zài chéngshì lǐ) — The hotel is in the city.\n\n**Going places with 去 (qù)**\nTo say you're going somewhere, use **去** (qù, \"to go\"):\n- **我去机场** (wǒ qù jīchǎng) — I go to the airport.\n\n**Tones matter!** Mandarin has four tones that change word meaning entirely. Practice with the pinyin provided. 加油! (jiāyóu!) — Keep it up!",
+  "words": [
+    {
+      "target": "城市",
+      "native": "the city",
+      "emoji": "🏙️",
+      "romanization": "chéngshì"
+    },
+    {
+      "target": "酒店",
+      "native": "the hotel",
+      "emoji": "🏨",
+      "romanization": "jiǔdiàn"
+    },
+    {
+      "target": "机场",
+      "native": "the airport",
+      "emoji": "✈️",
+      "romanization": "jīchǎng"
+    },
+    {
+      "target": "火车站",
+      "native": "the train station",
+      "emoji": "🚉",
+      "romanization": "huǒchē zhàn"
+    },
+    {
+      "target": "地铁",
+      "native": "the subway",
+      "emoji": "🚇",
+      "romanization": "dìtiě"
+    },
+    {
+      "target": "出租车",
+      "native": "the taxi",
+      "emoji": "🚕",
+      "romanization": "chūzū chē"
+    },
+    {
+      "target": "街道",
+      "native": "the street",
+      "emoji": "🛣️",
+      "romanization": "jiēdào"
+    },
+    {
+      "target": "博物馆",
+      "native": "the museum",
+      "emoji": "🏛️",
+      "romanization": "bówùguǎn"
+    },
+    {
+      "target": "公园",
+      "native": "the park",
+      "emoji": "🌳",
+      "romanization": "gōngyuán"
+    },
+    {
+      "target": "地图",
+      "native": "the map",
+      "emoji": "🗺️",
+      "romanization": "dìtú"
+    },
+    {
+      "target": "护照",
+      "native": "the passport",
+      "emoji": "📔",
+      "romanization": "hùzhào"
+    },
+    {
+      "target": "行李",
+      "native": "the luggage",
+      "emoji": "🧳",
+      "romanization": "xínglǐ"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "酒店在哪里?",
+      "native": "Where is the hotel?",
+      "romanization": "jiǔdiàn zài nǎlǐ?"
+    },
+    {
+      "target": "机场在哪里?",
+      "native": "Where is the airport?",
+      "romanization": "jīchǎng zài nǎlǐ?"
+    },
+    {
+      "target": "火车站在哪里?",
+      "native": "Where is the train station?",
+      "romanization": "huǒchē zhàn zài nǎlǐ?"
+    },
+    {
+      "target": "博物馆在哪里?",
+      "native": "Where is the museum?",
+      "romanization": "bówùguǎn zài nǎlǐ?"
+    },
+    {
+      "target": "地铁站在哪里?",
+      "native": "Where is the subway station?",
+      "romanization": "dìtiě zhàn zài nǎlǐ?"
+    },
+    {
+      "target": "我去机场。",
+      "native": "I am going to the airport.",
+      "romanization": "wǒ qù jīchǎng."
+    },
+    {
+      "target": "请给我一张地图。",
+      "native": "Please give me a map.",
+      "romanization": "qǐng gěi wǒ yì zhāng dìtú."
+    },
+    {
+      "target": "出租车在城市里。",
+      "native": "The taxi is in the city.",
+      "romanization": "chūzū chē zài chéngshì lǐ."
+    },
+    {
+      "target": "我的行李在酒店。",
+      "native": "My luggage is at the hotel.",
+      "romanization": "wǒ de xínglǐ zài jiǔdiàn."
+    },
+    {
+      "target": "公园在街道旁边。",
+      "native": "The park is next to the street.",
+      "romanization": "gōngyuán zài jiēdào pángbiān."
+    }
+  ]
+}

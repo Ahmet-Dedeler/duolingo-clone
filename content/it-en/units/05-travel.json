@@ -1,0 +1,109 @@
+{
+  "title": "Travel",
+  "description": "Learn essential Italian words and phrases for getting around: in the city, at the train station, hotel, airport, and asking for directions.",
+  "guidebook": "## Getting Around in Italy\n\n**Articles matter!** Italian nouns have gender. Masculine words typically end in **-o** and use *il* (singular) or *i* (plural): *il treno* (the train), *i treni*. Feminine words usually end in **-a** and use *la* or *le*: *la stazione* (the station), *le stazioni*.\n\n**Asking where things are** uses *Dov'è...?* (Where is...?) for singular, or *Dove sono...?* (Where are...?) for plural. You can follow with *qui* (here) or *là* (there).\n\n**Prepositions are key:** *a* (to/at, for cities), *in* (to/in, for countries), *da* (from). Example: *Vado a Roma* (I'm going to Rome), *Vengo da Milano* (I come from Milan).\n\n**Verbs you'll use a lot:** *andare* (to go), *arrivare* (to arrive), *partire* (to leave), *trovare* (to find). Conjugate with the subject: *io vado, tu vai, lui/lei va*.",
+  "words": [
+    {
+      "target": "la città",
+      "native": "the city",
+      "emoji": "🏙️"
+    },
+    {
+      "target": "il treno",
+      "native": "the train",
+      "emoji": "🚆"
+    },
+    {
+      "target": "la stazione",
+      "native": "the station",
+      "emoji": "🚉"
+    },
+    {
+      "target": "l'aeroporto",
+      "native": "the airport",
+      "emoji": "✈️"
+    },
+    {
+      "target": "l'albergo",
+      "native": "the hotel",
+      "emoji": "🏨"
+    },
+    {
+      "target": "la strada",
+      "native": "the street",
+      "emoji": "🛣️"
+    },
+    {
+      "target": "il museo",
+      "native": "the museum",
+      "emoji": "🏛️"
+    },
+    {
+      "target": "la mappa",
+      "native": "the map",
+      "emoji": "🗺️"
+    },
+    {
+      "target": "il biglietto",
+      "native": "the ticket",
+      "emoji": "🎫"
+    },
+    {
+      "target": "la valigia",
+      "native": "the suitcase",
+      "emoji": "🧳"
+    },
+    {
+      "target": "l'autobus",
+      "native": "the bus",
+      "emoji": "🚌"
+    },
+    {
+      "target": "il viaggio",
+      "native": "the trip",
+      "emoji": "🧭"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Dov'è la stazione?",
+      "native": "Where is the station?"
+    },
+    {
+      "target": "Vado a Roma in treno.",
+      "native": "I'm going to Rome by train."
+    },
+    {
+      "target": "Ho un biglietto per Milano.",
+      "native": "I have a ticket for Milan."
+    },
+    {
+      "target": "L'albergo è vicino al museo.",
+      "native": "The hotel is near the museum."
+    },
+    {
+      "target": "A che ora parte il treno?",
+      "native": "What time does the train leave?"
+    },
+    {
+      "target": "Cerco una valigia.",
+      "native": "I'm looking for a suitcase."
+    },
+    {
+      "target": "Dove sono le strade principali?",
+      "native": "Where are the main streets?"
+    },
+    {
+      "target": "L'aeroporto è lontano.",
+      "native": "The airport is far away."
+    },
+    {
+      "target": "Mi serve una mappa della città.",
+      "native": "I need a map of the city."
+    },
+    {
+      "target": "Il viaggio è molto bello.",
+      "native": "The trip is very beautiful."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Travel",
+  "description": "Learn essential Korean vocabulary and phrases for getting around cities, using transportation, staying at hotels, and finding places.",
+  "guidebook": "## Getting Around in Korean\n\nThis unit covers essential travel vocabulary. Korean uses **postpositional particles** that come after nouns to show their role in a sentence.\n\n**Key particles to know:**\n- **은/는** (eun/neun) — topic marker: \"as for...\"\n- **이/가** (i/ga) — subject marker: identifies the doer\n- **을/를** (eul/reul) — object marker: marks what receives the action\n- **에** (e) — location or time marker: \"at/in/to\"\n- **에서** (eseo) — \"at/from (a place)\"\n\n**Asking where things are:**\nUse **어디에 있어요?** (eodi-e isseoyo?) — \"Where is it?\"\nPattern: **Noun + 에 + 있어요** — \"It is at [place].\"\nExample: **호텔에 있어요** (hotel-e isseoyo) — \"It is at the hotel.\"\n\n**Getting around:**\n- **~에 가다** (e gada) — \"to go to~\"\n- **~에서 ~까지** (eseo ~ kkaji) — \"from ~ to~\"\n\n**Politeness:** All phrases use **-요** (-yo) style, the standard polite speech suitable for travelers. Keep practicing — you're doing great!",
+  "words": [
+    {
+      "target": "도시",
+      "native": "the city",
+      "emoji": "🏙️",
+      "romanization": "dosi"
+    },
+    {
+      "target": "기차",
+      "native": "the train",
+      "emoji": "🚆",
+      "romanization": "gicha"
+    },
+    {
+      "target": "비행기",
+      "native": "the airplane",
+      "emoji": "✈️",
+      "romanization": "bihaenggi"
+    },
+    {
+      "target": "공항",
+      "native": "the airport",
+      "emoji": "🛫",
+      "romanization": "gonghang"
+    },
+    {
+      "target": "호텔",
+      "native": "the hotel",
+      "emoji": "🏨",
+      "romanization": "hotel"
+    },
+    {
+      "target": "거리",
+      "native": "the street",
+      "emoji": "🛣️",
+      "romanization": "geori"
+    },
+    {
+      "target": "박물관",
+      "native": "the museum",
+      "emoji": "🏛️",
+      "romanization": "bangmulgwan"
+    },
+    {
+      "target": "지하철",
+      "native": "the subway",
+      "emoji": "🚇",
+      "romanization": "jihacheol"
+    },
+    {
+      "target": "버스",
+      "native": "the bus",
+      "emoji": "🚌",
+      "romanization": "beoseu"
+    },
+    {
+      "target": "택시",
+      "native": "the taxi",
+      "emoji": "🚕",
+      "romanization": "taeksi"
+    },
+    {
+      "target": "여권",
+      "native": "the passport",
+      "emoji": "🛂",
+      "romanization": "yeogwon"
+    },
+    {
+      "target": "지도",
+      "native": "the map",
+      "emoji": "🗺️",
+      "romanization": "jido"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "어디에 가요?",
+      "native": "Where are you going?",
+      "romanization": "eodi-e gayo?"
+    },
+    {
+      "target": "호텔에 가요.",
+      "native": "I am going to the hotel.",
+      "romanization": "hotel-e gayo."
+    },
+    {
+      "target": "공항이 어디예요?",
+      "native": "Where is the airport?",
+      "romanization": "gonghang-i eodi-yeyo?"
+    },
+    {
+      "target": "지하철역이 저기에 있어요.",
+      "native": "The subway station is over there.",
+      "romanization": "jihacheol-yeogi jeogi-e isseoyo."
+    },
+    {
+      "target": "박물관에 가고 싶어요.",
+      "native": "I want to go to the museum.",
+      "romanization": "bangmulgwan-e gago sipeoyo."
+    },
+    {
+      "target": "서울에서 부산까지 기차를 타요.",
+      "native": "I take the train from Seoul to Busan.",
+      "romanization": "seoul-eseo busan-kkaji gicha-reul tayo."
+    },
+    {
+      "target": "여권을 보여 주세요.",
+      "native": "Please show me your passport.",
+      "romanization": "yeogwon-eul boyeo juseyo."
+    },
+    {
+      "target": "이 근처에 호텔이 있어요?",
+      "native": "Is there a hotel near here?",
+      "romanization": "i geuncheo-e hotel-i isseoyo?"
+    },
+    {
+      "target": "버스를 타고 공항에 가요.",
+      "native": "I go to the airport by bus.",
+      "romanization": "beoseu-reul tago gonghang-e gayo."
+    },
+    {
+      "target": "지도를 보고 있어요.",
+      "native": "I am looking at the map.",
+      "romanization": "jido-reul bogo isseoyo."
+    }
+  ]
+}

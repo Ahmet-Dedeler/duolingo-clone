@@ -1,0 +1,131 @@
+{
+  "title": "Basics 1",
+  "description": "Learn your very first Japanese words and simple sentences using です (to be), たべます (to eat), and のみます (to drink).",
+  "guidebook": "Welcome to Japanese! 🎌\n\n**People & things**\n- 男の人 (おとこのひと) means \"man\" and 女の人 (おんなのひと) means \"woman.\" For kids, use 男の子 (おとこのこ, boy) and 女の子 (おんなのこ, girl).\n- りんご (apple) and パン (bread) are written in hiragana and katakana — Japanese uses both!\n- みず (water) and ぎゅうにゅう (milk) are everyday drinks.\n\n**The verb です (desu)**\nです is like \"am/is/are.\" Attach it to a noun: りんご**です** = \"It is an apple.\" To say \"I am a student,\" use わたしは がくせいです.\n\n**Eating & drinking**\n- たべます (tabemasu) = \"eat\" → りんごを たべます = \"I eat an apple.\"\n- のみます (nomimasu) = \"drink\" → みずを のみます = \"I drink water.\"\n\n**Particles**\n- は marks the topic (\"as for me…\").\n- を marks the object of an action.\n\nTry reading each phrase out loud! がんばって!",
+  "words": [
+    {
+      "target": "男の人",
+      "native": "the man",
+      "emoji": "👨",
+      "romanization": "otoko no hito"
+    },
+    {
+      "target": "女の人",
+      "native": "the woman",
+      "emoji": "👩",
+      "romanization": "onna no hito"
+    },
+    {
+      "target": "男の子",
+      "native": "the boy",
+      "emoji": "👦",
+      "romanization": "otoko no ko"
+    },
+    {
+      "target": "女の子",
+      "native": "the girl",
+      "emoji": "👧",
+      "romanization": "onna no ko"
+    },
+    {
+      "target": "りんご",
+      "native": "the apple",
+      "emoji": "🍎",
+      "romanization": "ringo"
+    },
+    {
+      "target": "パン",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "pan"
+    },
+    {
+      "target": "みず",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "mizu"
+    },
+    {
+      "target": "ぎゅうにゅう",
+      "native": "the milk",
+      "emoji": "🥛",
+      "romanization": "gyuunyuu"
+    },
+    {
+      "target": "たべます",
+      "native": "to eat",
+      "emoji": "🍽️",
+      "romanization": "tabemasu"
+    },
+    {
+      "target": "のみます",
+      "native": "to drink",
+      "emoji": "🥤",
+      "romanization": "nomimasu"
+    },
+    {
+      "target": "です",
+      "native": "to be (polite)",
+      "emoji": "✅",
+      "romanization": "desu"
+    },
+    {
+      "target": "わたし",
+      "native": "I / me",
+      "emoji": "🙋",
+      "romanization": "watashi"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "わたしは がくせいです。",
+      "native": "I am a student.",
+      "romanization": "watashi wa gakusee desu"
+    },
+    {
+      "target": "あの ひとは 男の 人です。",
+      "native": "That person is a man.",
+      "romanization": "ano hito wa otoko no hito desu"
+    },
+    {
+      "target": "あの ひとは 女の 人です。",
+      "native": "That person is a woman.",
+      "romanization": "ano hito wa onna no hito desu"
+    },
+    {
+      "target": "あの 子は 男の 子です。",
+      "native": "That child is a boy.",
+      "romanization": "ano ko wa otoko no ko desu"
+    },
+    {
+      "target": "あの 子は 女の 子です。",
+      "native": "That child is a girl.",
+      "romanization": "ano ko wa onna no ko desu"
+    },
+    {
+      "target": "りんごを たべます。",
+      "native": "I eat an apple.",
+      "romanization": "ringo wo tabemasu"
+    },
+    {
+      "target": "パンを たべます。",
+      "native": "I eat bread.",
+      "romanization": "pan wo tabemasu"
+    },
+    {
+      "target": "みずを のみます。",
+      "native": "I drink water.",
+      "romanization": "mizu wo nomimasu"
+    },
+    {
+      "target": "ぎゅうにゅうを のみます。",
+      "native": "I drink milk.",
+      "romanization": "gyuunyuu wo nomimasu"
+    },
+    {
+      "target": "これは りんごです。",
+      "native": "This is an apple.",
+      "romanization": "kore wa ringo desu"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Food",
+  "description": "Learn essential food and drink vocabulary in Korean, plus how to say what you want, eat, and drink.",
+  "guidebook": "## Talking About Food in Korean 🍚\n\nKorean has no separate word for \"a\" or \"the\" — context tells you which is meant. So **밥** (*bap*) can mean \"rice,\" \"the rice,\" or just \"a meal.\"\n\n**Saying what you want:** Use **~을/를 주세요** (*~eul/reul juseyo*), meaning \"please give me~\". Pick **을** after a consonant (밥을) and **를** after a vowel (커피를). Example: **커피를 주세요** — \"Coffee, please.\"\n\n**Saying you eat/drink:** Use **먹어요** (*meogeoyo*, \"eat\") and **마셔요** (*masyeoyo*, \"drink\"). Both end in **-어요**, the friendly present tense ending.\n\n- **저는 밥을 먹어요** — \"I eat rice.\"\n- **저는 물을 마셔요** — \"I drink water.\"\n\n**Topic marker:** **저는** (*jeoneun*) means \"as for me / I.\" The **는** highlights the topic of your sentence.\n\n**Quick tip:** 🥚 계란 and 달걀 both mean \"egg\" — 계란 is more common in everyday speech. Practice ordering: \"**저는 ___ 주세요**\" works for almost any food or drink!",
+  "words": [
+    {
+      "target": "밥",
+      "native": "the rice",
+      "emoji": "🍚",
+      "romanization": "bap"
+    },
+    {
+      "target": "빵",
+      "native": "the bread",
+      "emoji": "🍞",
+      "romanization": "ppang"
+    },
+    {
+      "target": "고기",
+      "native": "the meat",
+      "emoji": "🥩",
+      "romanization": "gogi"
+    },
+    {
+      "target": "생선",
+      "native": "the fish",
+      "emoji": "🐟",
+      "romanization": "saengseon"
+    },
+    {
+      "target": "계란",
+      "native": "the egg",
+      "emoji": "🥚",
+      "romanization": "gyeran"
+    },
+    {
+      "target": "치즈",
+      "native": "the cheese",
+      "emoji": "🧀",
+      "romanization": "chijeu"
+    },
+    {
+      "target": "과일",
+      "native": "the fruit",
+      "emoji": "🍎",
+      "romanization": "gwail"
+    },
+    {
+      "target": "커피",
+      "native": "the coffee",
+      "emoji": "☕",
+      "romanization": "keopi"
+    },
+    {
+      "target": "주스",
+      "native": "the juice",
+      "emoji": "🧃",
+      "romanization": "juseu"
+    },
+    {
+      "target": "물",
+      "native": "the water",
+      "emoji": "💧",
+      "romanization": "mul"
+    },
+    {
+      "target": "우유",
+      "native": "the milk",
+      "emoji": "🥛",
+      "romanization": "uyu"
+    },
+    {
+      "target": "차",
+      "native": "the tea",
+      "emoji": "🍵",
+      "romanization": "cha"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "저는 밥을 먹어요.",
+      "native": "I eat rice.",
+      "romanization": "jeoneun bapeul meogeoyo"
+    },
+    {
+      "target": "저는 커피를 마셔요.",
+      "native": "I drink coffee.",
+      "romanization": "jeoneun keopireul masyeoyo"
+    },
+    {
+      "target": "커피를 주세요.",
+      "native": "Coffee, please.",
+      "romanization": "keopireul juseyo"
+    },
+    {
+      "target": "물 주세요.",
+      "native": "Water, please.",
+      "romanization": "mul juseyo"
+    },
+    {
+      "target": "저는 빵을 먹어요.",
+      "native": "I eat bread.",
+      "romanization": "jeoneun ppangeul meogeoyo"
+    },
+    {
+      "target": "저는 차를 마셔요.",
+      "native": "I drink tea.",
+      "romanization": "jeoneun chareul masyeoyo"
+    },
+    {
+      "target": "저는 과일을 좋아해요.",
+      "native": "I like fruit.",
+      "romanization": "jeoneun gwaireul joahaeyo"
+    },
+    {
+      "target": "저는 우유를 마셔요.",
+      "native": "I drink milk.",
+      "romanization": "jeoneun uyureul masyeoyo"
+    },
+    {
+      "target": "치즈 주세요.",
+      "native": "Cheese, please.",
+      "romanization": "chijeu juseyo"
+    },
+    {
+      "target": "저는 계란을 먹어요.",
+      "native": "I eat eggs.",
+      "romanization": "jeoneun gyeraneul meogeoyo"
+    }
+  ]
+}
