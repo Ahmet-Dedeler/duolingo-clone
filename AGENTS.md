@@ -1,7 +1,19 @@
 # Project Notes
 
-Duolingo-style language learning. **The React Native app in `mobile/` is the product
-we're building.** Everything else supports it.
+Duolingo-style language learning by Open Apps Studio. **The React Native app in
+`mobile/` is the product we're building.** Everything else supports it.
+
+- **Live on the App Store**: "(Open Source) Lingo Lessons",
+  https://apps.apple.com/app/id6781818623 (bundle `com.ahmet.lingo`). The new
+  store title is in `mobile/store.config.json` and ships with the next release —
+  do not submit a release without Ahmet's go-ahead.
+- **Repo layout warning**: `mobile/` is its own git repo
+  (Open-Apps-Studio/lingo-lessons, private). This outer repo's `origin` is
+  Ahmet's **public** fork of the upstream clone — commit locally but do NOT
+  push the outer repo until Ahmet open-sources things.
+- **No hearts/energy mechanic.** It was removed on purpose (see kill list in
+  docs/plan.md); wrong answers feed mistake review + SRS instead. Do not
+  re-add gating.
 
 - **`mobile/` (Expo SDK 56)** — the learner app. **8 languages** for English
   speakers (Spanish, French, German, Italian, Portuguese, Japanese, Korean,
