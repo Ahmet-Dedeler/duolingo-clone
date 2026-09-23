@@ -63,6 +63,9 @@ function pickDistinct<T>(
   return shuffled(pool.filter((item) => !exclude(item)), rand).slice(0, count);
 }
 
+/** Copulas teach nothing as a fill-in answer; blank a content word instead. */
+const CJK_COPULAS = new Set(["です", "でした", "예요", "이에요", "입니다", "이다"]);
+
 function stripPunctuation(token: string) {
   return token.replace(/[.,!?¿¡;:"'、。！？]/g, "");
 }
@@ -151,24 +154,67 @@ function buildLesson(
   const fillPhrase = focusPhrases[0];
   if (fillPhrase) {
     const tokens = fillPhrase.target.split(/\s+/);
-    const candidates = tokens
-      .map((token, index) => ({
-        token,
-        index,
-        clean: stripPunctuation(token).toLowerCase(),
-      }))
-      .filter((t) => t.clean.length > (cjk ? 1 : 3) && !glueWords.has(t.clean));
-    if (candidates.length > 0) {
-      const target = candidates[Math.floor(rand() * candidates.length)];
-      const correctWord = stripPunctuation(tokens[target.index]);
-      const singleTargetWords = [
-        ...new Set(unit.words.map((w) => w.target.split(" ").pop()!)),
-      ];
+    const unitTargets = [...new Set(unit.words.map((w) => w.target))];
+    // `blank` is the answer; `sentence` has it replaced by ___.
+    let blank: { correctWord: string; sentence: string; distractorPool: string[] } | null = null;
+
+    // CJK particles attach to words (わたしは, 학생이에요) and zh/ja often have no
+    // spaces at all, so blank a unit word found inside the phrase instead of a
+    // whitespace token. Longest match first avoids blanking 女 inside 女の人.
+    const inPhrase = cjk
+      ? unitTargets
+          .filter((w) => fillPhrase.target.includes(w))
+          .filter((w, _, all) => !all.some((o) => o !== w && o.includes(w)))
+          .filter((w) => !CJK_COPULAS.has(w))
+      : [];
+    if (inPhrase.length > 0) {
+      {
+        // Prefer the longest (most contentful) word; random among ties.
+        const longest = Math.max(...inPhrase.map((w) => w.length));
+        const top = inPhrase.filter((w) => w.length === longest);
+        const word = top[Math.floor(rand() * top.length)];
+        blank = {
+          correctWord: word,
+          sentence: fillPhrase.target.replace(word, "___"),
+          distractorPool: unitTargets.filter((w) => !fillPhrase.target.includes(w)),
+        };
+      }
+    } else if (!cjk || tokens.length > 1) {
+      const candidates = tokens
+        .map((token, index) => ({
+          token,
+          index,
+          clean: stripPunctuation(token).toLowerCase(),
+        }))
+        // Skip elisions (l'acqua, s'appelle): stripping the apostrophe would
+        // make both the blank and the answer option misspelled.
+        .filter(
+          (t) =>
+            tokens.length > 1 &&
+            !/['’]/.test(t.token) &&
+            t.clean.length > (cjk ? 1 : 3) &&
+            !glueWords.has(t.clean)
+        );
+      if (candidates.length > 0) {
+        const target = candidates[Math.floor(rand() * candidates.length)];
+        const correctWord = stripPunctuation(tokens[target.index]);
+        blank = {
+          correctWord,
+          sentence: tokens
+            .map((t, i) => (i === target.index ? t.replace(stripPunctuation(t), "___") : t))
+            .join(" "),
+          distractorPool: [...new Set(unit.words.map((w) => w.target.split(" ").pop()!))],
+        };
+      }
+    }
+
+    if (blank) {
+      const { correctWord, sentence } = blank;
       const options = shuffled(
         [
           correctWord,
           ...pickDistinct(
-            singleTargetWords,
+            blank.distractorPool,
             3,
             rand,
             (w) => w.toLowerCase() === correctWord.toLowerCase()
@@ -176,9 +222,6 @@ function buildLesson(
         ],
         rand
       );
-      const sentence = tokens
-        .map((t, i) => (i === target.index ? t.replace(stripPunctuation(t), "___") : t))
-        .join(cjk ? "" : " ");
       exercises.push({
         type: "fillBlank",
         id: eid(),
