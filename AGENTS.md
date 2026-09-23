@@ -4,13 +4,14 @@ Duolingo-style language learning by Open Apps Studio. **The React Native app in
 `mobile/` is the product we're building.** Everything else supports it.
 
 - **Live on the App Store**: "(Open Source) Lingo Lessons",
-  https://apps.apple.com/app/id6781818623 (bundle `com.ahmet.lingo`). The new
-  store title is in `mobile/store.config.json` and ships with the next release —
-  do not submit a release without Ahmet's go-ahead.
-- **Repo layout warning**: `mobile/` is its own git repo
-  (Open-Apps-Studio/lingo-lessons, private). This outer repo's `origin` is
-  Ahmet's **public** fork of the upstream clone — commit locally but do NOT
-  push the outer repo until Ahmet open-sources things.
+  https://apps.apple.com/app/id6781818623 (bundle `com.ahmet.lingo`). Store
+  metadata lives in `mobile/store.config.json`. Do not submit a release
+  without Ahmet's go-ahead.
+- **Repo layout**: `mobile/` is its own git repo
+  (Open-Apps-Studio/lingo-lessons, public). This outer repo is Ahmet's public
+  fork of the upstream Next.js clone (Ahmet-Dedeler/duolingo-clone); it tracks
+  `mobile/` as a gitlink and holds the content pipeline. Commit app changes in
+  `mobile/` first, then bump the gitlink here.
 - **No hearts/energy mechanic.** It was removed on purpose (see kill list in
   docs/plan.md); wrong answers feed mistake review + SRS instead. Do not
   re-add gating.
