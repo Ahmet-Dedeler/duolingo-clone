@@ -1,0 +1,109 @@
+{
+  "title": "Health",
+  "description": "Learn to talk about your body, describe symptoms, and visit the doctor in Italian.",
+  "guidebook": "### Talking About Aches and Pains\n\nIn Italian, there are two primary ways to express physical pain:\n\n1. **Avere mal di...**: Literally \"to have ache of...\"\n   - *Ho mal di testa.* (I have a headache.)\n   - *Hai mal di gola?* (Do you have a sore throat?)\n\n2. **Fare male**: Literally \"to make hurt.\" The verb agrees with what hurts:\n   - *Mi fa male la mano.* (My hand hurts. - singular)\n   - *Mi fanno male le gambe.* (My legs hurt. - plural)\n\n### Describing How You Feel\nUse the verb **essere** with adjectives like **stanco** (tired) or **malato** (sick). Remember to match the gender and number:\n- *Marco è stanco.* (Marco is tired.)\n- *Giulia è malata.* (Giulia is sick.)",
+  "words": [
+    {
+      "target": "la testa",
+      "native": "the head",
+      "emoji": "🗣️"
+    },
+    {
+      "target": "la mano",
+      "native": "the hand",
+      "emoji": "✋"
+    },
+    {
+      "target": "il braccio",
+      "native": "the arm",
+      "emoji": "💪"
+    },
+    {
+      "target": "la gamba",
+      "native": "the leg",
+      "emoji": "🦵"
+    },
+    {
+      "target": "il corpo",
+      "native": "the body",
+      "emoji": "🧍"
+    },
+    {
+      "target": "malato",
+      "native": "sick",
+      "emoji": "🤒"
+    },
+    {
+      "target": "stanco",
+      "native": "tired",
+      "emoji": "🥱"
+    },
+    {
+      "target": "la medicina",
+      "native": "the medicine",
+      "emoji": "💊"
+    },
+    {
+      "target": "l'ospedale",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "il medico",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "la febbre",
+      "native": "the fever",
+      "emoji": "🌡️"
+    },
+    {
+      "target": "il dolore",
+      "native": "the pain",
+      "emoji": "🤕"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Ho mal di testa.",
+      "native": "I have a headache."
+    },
+    {
+      "target": "Lui è molto stanco oggi.",
+      "native": "He is very tired today."
+    },
+    {
+      "target": "Dov'è l'ospedale più vicino?",
+      "native": "Where is the nearest hospital?"
+    },
+    {
+      "target": "Prendo la medicina ogni mattina.",
+      "native": "I take the medicine every morning."
+    },
+    {
+      "target": "Sei malato o solo stanco?",
+      "native": "Are you sick or just tired?"
+    },
+    {
+      "target": "Mi fa male la mano.",
+      "native": "My hand hurts."
+    },
+    {
+      "target": "Il medico visita il paziente.",
+      "native": "The doctor examines the patient."
+    },
+    {
+      "target": "Ho la febbre alta.",
+      "native": "I have a high fever."
+    },
+    {
+      "target": "Lei va all'ospedale adesso.",
+      "native": "She is going to the hospital now."
+    },
+    {
+      "target": "Ti fa male la gamba?",
+      "native": "Does your leg hurt?"
+    }
+  ]
+}

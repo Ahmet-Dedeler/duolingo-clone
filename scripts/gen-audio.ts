@@ -121,10 +121,11 @@ async function synth(
   text: string,
   outPath: string,
   targetCode: string,
-  apiKey: string
+  apiKey: string | undefined
 ): Promise<boolean> {
   const lang = getLanguage(targetCode);
   if (lang.mistralVoice) {
+    if (!apiKey) return false;
     return synthMistral(text, outPath, lang.mistralVoice, apiKey);
   }
   const edgeVoice = lang.edgeVoice;
@@ -135,16 +136,14 @@ async function synth(
 
 async function main() {
   const apiKey = process.env.MISTRAL_API_KEY;
-  if (!apiKey) {
-    console.error("Set MISTRAL_API_KEY env var");
-    process.exit(1);
-  }
 
   const requested = process.argv.slice(2);
-  const packFiles = readdirSync(PACKS_DIR)
+  const allPacks = readdirSync(PACKS_DIR)
     .filter((f) => f.endsWith(".json"))
-    .map((f) => f.replace(".json", ""))
-    .filter((id) => requested.length === 0 || requested.some((r) => id.startsWith(r)));
+    .map((f) => f.replace(".json", ""));
+  const packFiles = allPacks.filter(
+    (id) => requested.length === 0 || requested.some((r) => id.startsWith(r))
+  );
 
   type Job = { courseId: string; text: string; outPath: string; targetCode: string };
   const jobs: Job[] = [];
@@ -164,6 +163,10 @@ async function main() {
   }
 
   console.log(`${jobs.length} utterances to generate across ${packFiles.length} courses.`);
+  if (!apiKey && jobs.some((j) => getLanguage(j.targetCode).mistralVoice)) {
+    console.error("Set MISTRAL_API_KEY for es/fr/de/it/pt audio (or pass only ja/ko/zh course ids).");
+    process.exit(1);
+  }
 
   let failed = 0;
   let done = 0;
@@ -180,8 +183,9 @@ async function main() {
     })
   );
 
+  // The manifest always covers every course, so a partial run never drops clips.
   const entries: string[] = [];
-  for (const courseId of packFiles) {
+  for (const courseId of allPacks) {
     const pack = JSON.parse(
       readFileSync(join(PACKS_DIR, `${courseId}.json`), "utf8")
     ) as Pack;

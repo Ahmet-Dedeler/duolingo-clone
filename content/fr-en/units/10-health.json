@@ -1,0 +1,109 @@
+{
+  "title": "Health",
+  "description": "Talk about body parts, common ailments, and visiting the doctor.",
+  "guidebook": "### Expressing Pain\nTo say that something hurts in French, use the expression **avoir mal à** followed by the body part.\n\nRemember to contract **à** with definite articles:\n- **à + le = au**: *J'ai mal au dos.* (My back hurts.)\n- **à + la = à la**: *J'ai mal à la tête.* (I have a headache.)\n- **à + les = aux**: *J'ai mal aux dents.* (My teeth hurt.)\n- **à + l' = à l'**: *J'ai mal à l'épaule.* (My shoulder hurts.)\n\n### Describing How You Feel\nUse the verb **être** with adjectives like **malade** (sick) or **fatigué** (tired). Don't forget that adjectives agree with gender:\n- *Il est fatigué.* (He is tired.)\n- *Elle est fatiguée.* (She is tired.)",
+  "words": [
+    {
+      "target": "la tête",
+      "native": "the head",
+      "emoji": "🗣️"
+    },
+    {
+      "target": "la main",
+      "native": "the hand",
+      "emoji": "✋"
+    },
+    {
+      "target": "le bras",
+      "native": "the arm",
+      "emoji": "💪"
+    },
+    {
+      "target": "la jambe",
+      "native": "the leg",
+      "emoji": "🦵"
+    },
+    {
+      "target": "le dos",
+      "native": "the back",
+      "emoji": "🧍"
+    },
+    {
+      "target": "le ventre",
+      "native": "the stomach",
+      "emoji": "🫄"
+    },
+    {
+      "target": "malade",
+      "native": "sick",
+      "emoji": "🤒"
+    },
+    {
+      "target": "fatigué",
+      "native": "tired",
+      "emoji": "🥱"
+    },
+    {
+      "target": "le médicament",
+      "native": "the medicine",
+      "emoji": "💊"
+    },
+    {
+      "target": "l'hôpital",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "le médecin",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "la fièvre",
+      "native": "the fever",
+      "emoji": "🌡️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "J'ai très mal à la tête.",
+      "native": "I have a bad headache."
+    },
+    {
+      "target": "Il est très malade aujourd'hui.",
+      "native": "He is very sick today."
+    },
+    {
+      "target": "Elle va vite à l'hôpital.",
+      "native": "She is going quickly to the hospital."
+    },
+    {
+      "target": "Est-ce que tu as de la fièvre ?",
+      "native": "Do you have a fever?"
+    },
+    {
+      "target": "Prenez ce médicament le soir.",
+      "native": "Take this medicine in the evening."
+    },
+    {
+      "target": "Je suis fatigué ce soir.",
+      "native": "I am tired this evening."
+    },
+    {
+      "target": "J'ai mal au dos depuis hier.",
+      "native": "My back has hurt since yesterday."
+    },
+    {
+      "target": "Le médecin arrive bientôt.",
+      "native": "The doctor is arriving soon."
+    },
+    {
+      "target": "Elle a mal à la main.",
+      "native": "Her hand hurts."
+    },
+    {
+      "target": "Nous devons aller à l'hôpital.",
+      "native": "We have to go to the hospital."
+    }
+  ]
+}

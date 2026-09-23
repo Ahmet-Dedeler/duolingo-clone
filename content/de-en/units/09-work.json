@@ -1,0 +1,109 @@
+{
+  "title": "Work & School",
+  "description": "Talk about jobs, daily work routines, classes, and school life in German.",
+  "guidebook": "### Talking About Jobs & School in German\n\nWhen stating your profession in German, you typically **omit the article**! While English requires \"I am *a* doctor\", German speakers simply say **\"Ich bin Arzt\"** or **\"Ich bin Ärztin\"**.\n\n#### Job Titles and Gender\nMost job titles change based on gender by adding the suffix **-in** for women (and sometimes adding an umlaut):\n- **der Lehrer** (male teacher) → **die Lehrerin** (female teacher)\n- **der Student** (male student) → **die Studentin** (female student)\n\n#### Everyday Locations\nPay attention to handy preposition contractions when talking about your daily routine:\n- **zur Schule** (to school)\n- **zur Arbeit** (to work)\n- **im Büro** (in the office)",
+  "words": [
+    {
+      "target": "der Lehrer",
+      "native": "the teacher",
+      "emoji": "👨‍🏫"
+    },
+    {
+      "target": "der Arzt",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "der Student",
+      "native": "the student",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "target": "die Schule",
+      "native": "the school",
+      "emoji": "🏫"
+    },
+    {
+      "target": "das Büro",
+      "native": "the office",
+      "emoji": "🏢"
+    },
+    {
+      "target": "die Klasse",
+      "native": "the class",
+      "emoji": "👥"
+    },
+    {
+      "target": "die Hausaufgabe",
+      "native": "the homework",
+      "emoji": "📝"
+    },
+    {
+      "target": "die Arbeit",
+      "native": "the work",
+      "emoji": "💼"
+    },
+    {
+      "target": "der Chef",
+      "native": "the boss",
+      "emoji": "👔"
+    },
+    {
+      "target": "der Kollege",
+      "native": "the colleague",
+      "emoji": "🤝"
+    },
+    {
+      "target": "der Schreibtisch",
+      "native": "the desk",
+      "emoji": "🖥️"
+    },
+    {
+      "target": "die Prüfung",
+      "native": "the exam",
+      "emoji": "📋"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Ich gehe jetzt zur Schule.",
+      "native": "I am going to school now."
+    },
+    {
+      "target": "Der Arzt arbeitet im Krankenhaus.",
+      "native": "The doctor works in the hospital."
+    },
+    {
+      "target": "Wir haben heute eine Prüfung.",
+      "native": "We have an exam today."
+    },
+    {
+      "target": "Mein Chef ist sehr nett.",
+      "native": "My boss is very nice."
+    },
+    {
+      "target": "Hast du deine Hausaufgabe gemacht?",
+      "native": "Did you do your homework?"
+    },
+    {
+      "target": "Der Lehrer erklärt die Aufgabe.",
+      "native": "The teacher explains the exercise."
+    },
+    {
+      "target": "Er sitzt an seinem Schreibtisch.",
+      "native": "He is sitting at his desk."
+    },
+    {
+      "target": "Mein Kollege trinkt gerne Kaffee.",
+      "native": "My colleague likes to drink coffee."
+    },
+    {
+      "target": "Die Studenten lernen in der Bibliothek.",
+      "native": "The students study in the library."
+    },
+    {
+      "target": "Ich fahre morgen ins Büro.",
+      "native": "I am driving to the office tomorrow."
+    }
+  ]
+}

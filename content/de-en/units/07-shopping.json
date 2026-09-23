@@ -1,0 +1,109 @@
+{
+  "title": "Shopping",
+  "description": "Learn how to navigate stores, ask for prices, and pay for items in German.",
+  "guidebook": "Welcome to shopping in German! Asking about prices is simple: use **Wie viel kostet...?** for a single item (*Wie viel kostet das Brot?*) and **Wie viel kosten...?** for plurals (*Wie viel kosten die Äpfel?*).\n\nWhen you reach the register (**die Kasse**), cashiers frequently ask: **\"Bar oder mit Karte?\"** (Cash or card?). Cash is still very popular in Germany, especially at local bakeries and open-air markets (**der Markt**).\n\n*Helpful tip:* Most supermarkets charge for shopping bags (**die Tasche**), so locals almost always bring their own reusable bags! Also, note that most retail stores in Germany remain closed on Sundays.",
+  "words": [
+    {
+      "target": "der Laden",
+      "native": "the shop",
+      "emoji": "🏪"
+    },
+    {
+      "target": "der Markt",
+      "native": "the market",
+      "emoji": "🎪"
+    },
+    {
+      "target": "das Geld",
+      "native": "the money",
+      "emoji": "💵"
+    },
+    {
+      "target": "der Preis",
+      "native": "the price",
+      "emoji": "🏷️"
+    },
+    {
+      "target": "teuer",
+      "native": "expensive",
+      "emoji": "💎"
+    },
+    {
+      "target": "billig",
+      "native": "cheap",
+      "emoji": "🪙"
+    },
+    {
+      "target": "kaufen",
+      "native": "to buy",
+      "emoji": "🛍️"
+    },
+    {
+      "target": "bezahlen",
+      "native": "to pay",
+      "emoji": "💳"
+    },
+    {
+      "target": "die Kasse",
+      "native": "the checkout",
+      "emoji": "🧾"
+    },
+    {
+      "target": "die Tasche",
+      "native": "the bag",
+      "emoji": "👜"
+    },
+    {
+      "target": "kosten",
+      "native": "to cost",
+      "emoji": "💲"
+    },
+    {
+      "target": "der Supermarkt",
+      "native": "the supermarket",
+      "emoji": "🛒"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Wie viel kostet das?",
+      "native": "How much does that cost?"
+    },
+    {
+      "target": "Das ist sehr teuer.",
+      "native": "That is very expensive."
+    },
+    {
+      "target": "Ich möchte eine Tasche kaufen.",
+      "native": "I would like to buy a bag."
+    },
+    {
+      "target": "Kann ich mit Karte bezahlen?",
+      "native": "Can I pay with card?"
+    },
+    {
+      "target": "Wo ist die Kasse, bitte?",
+      "native": "Where is the checkout, please?"
+    },
+    {
+      "target": "Der Apfel ist wirklich billig.",
+      "native": "The apple is really cheap."
+    },
+    {
+      "target": "Wir gehen heute zum Markt.",
+      "native": "We are going to the market today."
+    },
+    {
+      "target": "Ich bezahle lieber bar.",
+      "native": "I prefer to pay cash."
+    },
+    {
+      "target": "Der Supermarkt ist sehr groß.",
+      "native": "The supermarket is very large."
+    },
+    {
+      "target": "Der Preis ist wirklich gut.",
+      "native": "The price is really good."
+    }
+  ]
+}

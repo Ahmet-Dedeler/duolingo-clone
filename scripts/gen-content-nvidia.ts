@@ -4,6 +4,11 @@
  * Usage:
  *   NVIDIA_API_KEY=nvapi-... bun scripts/gen-content-nvidia.ts [course-id] [unit-slug ...]
  *
+ * Any OpenAI-compatible endpoint works via env overrides, e.g. Hack Club AI:
+ *   CONTENT_API_URL=https://ai.hackclub.com/proxy/v1/chat/completions \
+ *   CONTENT_API_KEY=$HCAI_API_KEY CONTENT_MODEL=google/gemini-3.8-flash \
+ *   bun scripts/gen-content-nvidia.ts fr-en
+ *
  * Examples:
  *   bun scripts/gen-content-nvidia.ts fr-en              # all missing units for French
  *   bun scripts/gen-content-nvidia.ts ja-en 01-basics     # one unit
@@ -14,8 +19,9 @@ import { join } from "path";
 import { COURSES, getLanguage, UNIT_TOPICS, type LanguageConfig } from "../content/languages";
 
 const ROOT = join(import.meta.dir, "..");
-const API_URL = "https://integrate.api.nvidia.com/v1/chat/completions";
-const MODEL = "minimaxai/minimax-m3";
+const API_URL =
+  process.env.CONTENT_API_URL ?? "https://integrate.api.nvidia.com/v1/chat/completions";
+const MODEL = process.env.CONTENT_MODEL ?? "minimaxai/minimax-m3";
 
 function systemPrompt(lang: LanguageConfig): string {
   const cjkNote = lang.cjk
@@ -47,8 +53,8 @@ async function generateUnit(
   lang: LanguageConfig,
   topic: (typeof UNIT_TOPICS)[number]
 ): Promise<object> {
-  const key = process.env.NVIDIA_API_KEY;
-  if (!key) throw new Error("Set NVIDIA_API_KEY env var");
+  const key = process.env.CONTENT_API_KEY ?? process.env.NVIDIA_API_KEY;
+  if (!key) throw new Error("Set NVIDIA_API_KEY (or CONTENT_API_KEY) env var");
 
   const res = await fetch(API_URL, {
     method: "POST",
@@ -74,7 +80,7 @@ async function generateUnit(
 
   if (!res.ok) {
     const text = await res.text();
-    throw new Error(`NVIDIA API ${res.status}: ${text.slice(0, 400)}`);
+    throw new Error(`Content API ${res.status}: ${text.slice(0, 400)}`);
   }
 
   const data = (await res.json()) as {
@@ -99,8 +105,8 @@ async function main() {
     process.exit(1);
   }
 
-  // Generate 5 core units for new languages; Spanish already has 10.
-  const defaultTopics = UNIT_TOPICS.slice(0, 5);
+  // Generate every topic that doesn't have a unit file yet (existing ones are skipped).
+  const defaultTopics = UNIT_TOPICS;
 
   for (const course of courses) {
     const lang = getLanguage(course.targetCode);

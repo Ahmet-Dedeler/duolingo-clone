@@ -1,0 +1,109 @@
+{
+  "title": "Shopping",
+  "description": "Learn how to navigate stores, ask for prices, and buy goods in French.",
+  "guidebook": "### Going Shopping in French!\n\nWhen browsing a boutique or an outdoor market (*le marché*), asking prices is simple. Just say **« C'est combien ? »** (*How much is it?*) or **« Combien coûte ceci ? »** (*How much does this cost?*).\n\n#### Expressing Value\nRemember that adjectives agree with gender:\n- **Ce sac est cher.** (*This bag is expensive.* - masculine)\n- **Cette montre est chère.** (*This watch is expensive.* - feminine)\n- For bargain finds, use **bon marché** or **pas cher** (*inexpensive*).\n\n#### At the Register\nWhen you are ready to pay (*payer*), specify your method:\n- **Par carte** (*by card*)\n- **En espèces** (*in cash*)\n\nDon't forget a polite *« Merci, bonne journée ! »* when leaving!",
+  "words": [
+    {
+      "target": "le magasin",
+      "native": "the shop",
+      "emoji": "🏪"
+    },
+    {
+      "target": "le marché",
+      "native": "the market",
+      "emoji": "🍎"
+    },
+    {
+      "target": "l'argent",
+      "native": "the money",
+      "emoji": "💰"
+    },
+    {
+      "target": "le prix",
+      "native": "the price",
+      "emoji": "🏷️"
+    },
+    {
+      "target": "cher",
+      "native": "expensive",
+      "emoji": "💎"
+    },
+    {
+      "target": "pas cher",
+      "native": "cheap",
+      "emoji": "🪙"
+    },
+    {
+      "target": "acheter",
+      "native": "to buy",
+      "emoji": "🛍️"
+    },
+    {
+      "target": "payer",
+      "native": "to pay",
+      "emoji": "🧾"
+    },
+    {
+      "target": "combien",
+      "native": "how much",
+      "emoji": "❓"
+    },
+    {
+      "target": "l'euro",
+      "native": "the euro",
+      "emoji": "💶"
+    },
+    {
+      "target": "la carte",
+      "native": "the card",
+      "emoji": "💳"
+    },
+    {
+      "target": "le client",
+      "native": "the customer",
+      "emoji": "👤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "C'est combien, s'il vous plaît ?",
+      "native": "How much is it, please?"
+    },
+    {
+      "target": "Ce manteau est très cher.",
+      "native": "This coat is very expensive."
+    },
+    {
+      "target": "Je voudrais payer par carte.",
+      "native": "I would like to pay by card."
+    },
+    {
+      "target": "Nous allons au marché dimanche.",
+      "native": "We are going to the market on Sunday."
+    },
+    {
+      "target": "Le magasin est ouvert aujourd'hui.",
+      "native": "The shop is open today."
+    },
+    {
+      "target": "Tu as assez d'argent ?",
+      "native": "Do you have enough money?"
+    },
+    {
+      "target": "Les fruits ne sont pas chers.",
+      "native": "The fruits are not expensive."
+    },
+    {
+      "target": "Je veux acheter ce livre.",
+      "native": "I want to buy this book."
+    },
+    {
+      "target": "Quel est le prix total ?",
+      "native": "What is the total price?"
+    },
+    {
+      "target": "Elle paie en espèces.",
+      "native": "She is paying in cash."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Work & School",
+  "description": "Talk about jobs, workplaces, school life, and daily tasks in Japanese.",
+  "guidebook": "Welcome to Work & School! Here you will learn how to discuss careers, classes, and daily study habits.\n\n### Talking About Professions\nTo state someone's occupation, use the basic sentence frame: **[Person] は [Profession] です** (*[Person] wa [Profession] desu*). For example: 私は学生です (*Watashi wa gakusei desu* – \"I am a student\").\n\n### The Honorific Title 先生 (*Sensei*)\n**先生** is an honorific title reserved for teachers, doctors, and authors. Address your teacher as *Tanaka-sensei*, never *Tanaka-san*! When describing your own profession, avoid calling yourself *sensei*; instead, use 医者 (*isha*) for doctor or 教師 (*kyoushi*) for teacher.\n\n### Location of Action: Particle で (*de*)\nUse the particle **で** to mark the place where an activity happens: 病院**で**働きます (*Byouin de hatarakimasu* – \"I work at a hospital\").",
+  "words": [
+    {
+      "target": "先生",
+      "native": "the teacher",
+      "emoji": "👨‍🏫",
+      "romanization": "sensei"
+    },
+    {
+      "target": "学生",
+      "native": "the student",
+      "emoji": "🧑‍🎓",
+      "romanization": "gakusei"
+    },
+    {
+      "target": "医者",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "isha"
+    },
+    {
+      "target": "会社員",
+      "native": "the office worker",
+      "emoji": "💼",
+      "romanization": "kaishain"
+    },
+    {
+      "target": "学校",
+      "native": "the school",
+      "emoji": "🏫",
+      "romanization": "gakkou"
+    },
+    {
+      "target": "事務所",
+      "native": "the office",
+      "emoji": "🏢",
+      "romanization": "jimusho"
+    },
+    {
+      "target": "授業",
+      "native": "the class",
+      "emoji": "📖",
+      "romanization": "jugyou"
+    },
+    {
+      "target": "宿題",
+      "native": "the homework",
+      "emoji": "📝",
+      "romanization": "shukudai"
+    },
+    {
+      "target": "仕事",
+      "native": "the work",
+      "emoji": "💻",
+      "romanization": "shigoto"
+    },
+    {
+      "target": "病院",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "byouin"
+    },
+    {
+      "target": "教室",
+      "native": "the classroom",
+      "emoji": "🪑",
+      "romanization": "kyoushitsu"
+    },
+    {
+      "target": "会社",
+      "native": "the company",
+      "emoji": "🏬",
+      "romanization": "kaisha"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "私は学生です。",
+      "native": "I am a student.",
+      "romanization": "Watashi wa gakusei desu."
+    },
+    {
+      "target": "田中先生は優しいです。",
+      "native": "Teacher Tanaka is kind.",
+      "romanization": "Tanaka-sensei wa yasashii desu."
+    },
+    {
+      "target": "父は病院で働いています。",
+      "native": "My father works at a hospital.",
+      "romanization": "Chichi wa byouin de hataraite imasu."
+    },
+    {
+      "target": "明日学校へ行きます。",
+      "native": "I will go to school tomorrow.",
+      "romanization": "Ashita gakkou e ikimasu."
+    },
+    {
+      "target": "宿題を忘れました。",
+      "native": "I forgot the homework.",
+      "romanization": "Shukudai o wasuremashita."
+    },
+    {
+      "target": "教室はとても広いです。",
+      "native": "The classroom is very spacious.",
+      "romanization": "Kyoushitsu wa totemo hiroi desu."
+    },
+    {
+      "target": "事務所で書類を書きます。",
+      "native": "I write documents in the office.",
+      "romanization": "Jimusho de shorui o kakimasu."
+    },
+    {
+      "target": "兄は会社員です。",
+      "native": "My older brother is an office worker.",
+      "romanization": "Ani wa kaishain desu."
+    },
+    {
+      "target": "今日の授業は楽しかったです。",
+      "native": "Today's class was fun.",
+      "romanization": "Kyou no jugyou wa tanoshikatta desu."
+    },
+    {
+      "target": "仕事は五時に終わります。",
+      "native": "Work finishes at five o'clock.",
+      "romanization": "Shigoto wa goji ni owarimasu."
+    }
+  ]
+}

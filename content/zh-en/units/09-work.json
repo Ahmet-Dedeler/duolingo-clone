@@ -1,0 +1,131 @@
+{
+  "title": "Work & School",
+  "description": "Talk about occupations, daily duties, and school life in Mandarin Chinese.",
+  "guidebook": "### Talking About Occupations\nIn Chinese, stating your profession is straightforward using **是 (shì)**. Unlike English, you do not need articles like \"a\" or \"an\":\n* **我是老师。** (*Wǒ shì lǎoshī.*) — I am a teacher.\n\n### Indicating Where You Work\nTo describe working or studying somewhere, use the pattern **Subject + 在 (zài) + Location + Action**:\n* **他在医院工作。** (*Tā zài yīyuàn gōngzuò.*) — He works at the hospital.\n* **我们在学校上课。** (*Wǒmen zài xuéxiào shàngkè.*) — We attend class at school.\n\n### School Essentials\nCombine **上 (shàng)** with **课 (kè)** to say \"attend class\" (**上课**). When doing homework, use the verb **写 (xiě)**: **写作业** (*xiě zuòyè*).",
+  "words": [
+    {
+      "target": "老师",
+      "native": "the teacher",
+      "emoji": "👨‍🏫",
+      "romanization": "lǎoshī"
+    },
+    {
+      "target": "学生",
+      "native": "the student",
+      "emoji": "🎒",
+      "romanization": "xuésheng"
+    },
+    {
+      "target": "医生",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "yīshēng"
+    },
+    {
+      "target": "办公室",
+      "native": "the office",
+      "emoji": "🏢",
+      "romanization": "bàngōngshì"
+    },
+    {
+      "target": "学校",
+      "native": "the school",
+      "emoji": "🏫",
+      "romanization": "xuéxiào"
+    },
+    {
+      "target": "医院",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "yīyuàn"
+    },
+    {
+      "target": "作业",
+      "native": "the homework",
+      "emoji": "📝",
+      "romanization": "zuòyè"
+    },
+    {
+      "target": "课",
+      "native": "the class",
+      "emoji": "📖",
+      "romanization": "kè"
+    },
+    {
+      "target": "工作",
+      "native": "the job",
+      "emoji": "💼",
+      "romanization": "gōngzuò"
+    },
+    {
+      "target": "同学",
+      "native": "the classmate",
+      "emoji": "🧑‍🤝‍🧑",
+      "romanization": "tóngxué"
+    },
+    {
+      "target": "教室",
+      "native": "the classroom",
+      "emoji": "🪑",
+      "romanization": "jiàoshì"
+    },
+    {
+      "target": "公司",
+      "native": "the company",
+      "emoji": "🏬",
+      "romanization": "gōngsī"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "我是学生。",
+      "native": "I am a student.",
+      "romanization": "Wǒ shì xuésheng."
+    },
+    {
+      "target": "他在医院工作。",
+      "native": "He works at a hospital.",
+      "romanization": "Tā zài yīyuàn gōngzuò."
+    },
+    {
+      "target": "老师在办公室。",
+      "native": "The teacher is in the office.",
+      "romanization": "Lǎoshī zài bàngōngshì."
+    },
+    {
+      "target": "我们去学校上课。",
+      "native": "We go to school to attend class.",
+      "romanization": "Wǒmen qù xuéxiào shàngkè."
+    },
+    {
+      "target": "你写作业了吗？",
+      "native": "Did you do your homework?",
+      "romanization": "Nǐ xiě zuòyè le ma?"
+    },
+    {
+      "target": "她是一位好医生。",
+      "native": "She is a good doctor.",
+      "romanization": "Tā shì yí wèi hǎo yīshēng."
+    },
+    {
+      "target": "同学们在教室里。",
+      "native": "The classmates are in the classroom.",
+      "romanization": "Tóngxuémen zài jiàoshì lǐ."
+    },
+    {
+      "target": "这是我的新工作。",
+      "native": "This is my new job.",
+      "romanization": "Zhè shì wǒ de xīn gōngzuò."
+    },
+    {
+      "target": "爸爸去公司上班。",
+      "native": "Dad goes to the company to work.",
+      "romanization": "Bàba qù gōngsī shàngbān."
+    },
+    {
+      "target": "今天我们没有课。",
+      "native": "We do not have class today.",
+      "romanization": "Jīntiān wǒmen méiyǒu kè."
+    }
+  ]
+}

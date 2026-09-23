@@ -1,0 +1,109 @@
+{
+  "title": "Family",
+  "description": "Learn how to talk about your relatives and family life in Italian.",
+  "guidebook": "### Talking About Family in Italian\nIn Italian, talking about relatives comes with a special grammatical quirk! Usually, Italian possessives require a definite article (*il mio libro*). However, when referring to a **singular, unmodified family member**, you drop the article entirely:\n- *mio padre* (my father)\n- *mia sorella* (my sister)\n\n### Plurals and Nicknames\nYou must bring the article back when the family noun is **plural**:\n- *i miei genitori* (my parents)\n- *i miei fratelli* (my brothers)\n\nYou also keep the article with affectionate nicknames like *la mia mamma* (my mom) or *il mio papà* (my dad), as well as modified relatives (*la mia cara nonna*).",
+  "words": [
+    {
+      "target": "la famiglia",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧"
+    },
+    {
+      "target": "la madre",
+      "native": "the mother",
+      "emoji": "👩"
+    },
+    {
+      "target": "il padre",
+      "native": "the father",
+      "emoji": "👨"
+    },
+    {
+      "target": "il fratello",
+      "native": "the brother",
+      "emoji": "👦"
+    },
+    {
+      "target": "la sorella",
+      "native": "the sister",
+      "emoji": "👧"
+    },
+    {
+      "target": "il nonno",
+      "native": "the grandfather",
+      "emoji": "👴"
+    },
+    {
+      "target": "la nonna",
+      "native": "the grandmother",
+      "emoji": "👵"
+    },
+    {
+      "target": "il neonato",
+      "native": "the baby",
+      "emoji": "👶"
+    },
+    {
+      "target": "i genitori",
+      "native": "the parents",
+      "emoji": "🧑‍🧑‍🧒"
+    },
+    {
+      "target": "il figlio",
+      "native": "the son",
+      "emoji": "🧒"
+    },
+    {
+      "target": "la figlia",
+      "native": "the daughter",
+      "emoji": "👱‍♀️"
+    },
+    {
+      "target": "lo zio",
+      "native": "the uncle",
+      "emoji": "🧔"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Mio padre legge un libro.",
+      "native": "My father reads a book."
+    },
+    {
+      "target": "Mia madre cucina la cena.",
+      "native": "My mother cooks dinner."
+    },
+    {
+      "target": "Ho un fratello e una sorella.",
+      "native": "I have a brother and a sister."
+    },
+    {
+      "target": "Il nonno ascolta la musica.",
+      "native": "The grandfather listens to music."
+    },
+    {
+      "target": "La nonna prepara una torta.",
+      "native": "The grandmother prepares a cake."
+    },
+    {
+      "target": "Il neonato dorme nella culla.",
+      "native": "The baby sleeps in the crib."
+    },
+    {
+      "target": "Io amo la mia famiglia.",
+      "native": "I love my family."
+    },
+    {
+      "target": "I genitori parlano con mio fratello.",
+      "native": "The parents talk with my brother."
+    },
+    {
+      "target": "Loro hanno un figlio piccolo.",
+      "native": "They have a young son."
+    },
+    {
+      "target": "Mio zio visita la famiglia.",
+      "native": "My uncle visits the family."
+    }
+  ]
+}

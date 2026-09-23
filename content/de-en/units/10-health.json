@@ -1,0 +1,109 @@
+{
+  "title": "Health",
+  "description": "Talk about your body, express aches, and describe how you feel.",
+  "guidebook": "### Talking About Health in German\n\nWhen you don't feel well, German offers simple ways to express it!\n\nTo describe pain, use the separable verb **wehtun** (to hurt):\n- *Mein Kopf tut weh.* (My head hurts.)\n- *Meine Augen tun weh.* (My eyes hurt – notice plural *tun*!)\n\nTo describe how you are feeling, combine **sein** (to be) with adjectives:\n- *Ich bin müde.* (I am tired.)\n- *Er ist krank.* (He is sick.)\n\nWhen heading to get help, pay attention to contracted prepositions:\n- **zum Arzt** (to the doctor – *zu* + *dem*)\n- **ins Krankenhaus** (into the hospital – *in* + *das*)\n\nGute Besserung (Get well soon)!",
+  "words": [
+    {
+      "target": "der Kopf",
+      "native": "the head",
+      "emoji": "🤕"
+    },
+    {
+      "target": "die Hand",
+      "native": "the hand",
+      "emoji": "✋"
+    },
+    {
+      "target": "krank",
+      "native": "sick",
+      "emoji": "🤒"
+    },
+    {
+      "target": "müde",
+      "native": "tired",
+      "emoji": "🥱"
+    },
+    {
+      "target": "die Medizin",
+      "native": "the medicine",
+      "emoji": "💊"
+    },
+    {
+      "target": "das Krankenhaus",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "der Arzt",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "das Auge",
+      "native": "the eye",
+      "emoji": "👁️"
+    },
+    {
+      "target": "das Bein",
+      "native": "the leg",
+      "emoji": "🦵"
+    },
+    {
+      "target": "der Bauch",
+      "native": "the stomach",
+      "emoji": "🫄"
+    },
+    {
+      "target": "gesund",
+      "native": "healthy",
+      "emoji": "🥗"
+    },
+    {
+      "target": "das Pflaster",
+      "native": "the band-aid",
+      "emoji": "🩹"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Mein Kopf tut weh.",
+      "native": "My head hurts."
+    },
+    {
+      "target": "Ich bin heute sehr müde.",
+      "native": "I am very tired today."
+    },
+    {
+      "target": "Bist du krank?",
+      "native": "Are you sick?"
+    },
+    {
+      "target": "Er geht zum Arzt.",
+      "native": "He is going to the doctor."
+    },
+    {
+      "target": "Wir müssen ins Krankenhaus fahren.",
+      "native": "We have to drive to the hospital."
+    },
+    {
+      "target": "Brauchst du ein Pflaster?",
+      "native": "Do you need a band-aid?"
+    },
+    {
+      "target": "Meine Hand ist kalt.",
+      "native": "My hand is cold."
+    },
+    {
+      "target": "Ich nehme die Medizin jetzt.",
+      "native": "I am taking the medicine now."
+    },
+    {
+      "target": "Sein Bauch tut weh.",
+      "native": "His stomach hurts."
+    },
+    {
+      "target": "Ich hoffe, du bist gesund.",
+      "native": "I hope you are healthy."
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "title": "Shopping",
+  "description": "Learn to ask for prices, navigate markets and stores, and make purchases in Italian.",
+  "guidebook": "### Asking for Prices\nTo ask how much something is, use **quanto costa** for singular items (*Quanto costa questo libro?*) and **quanto costano** for plural items (*Quanto costano queste scarpe?*).\n\n### Paying at the Checkout\nWhen you reach the register (*la cassa*), the cashier might ask how you want to pay. You can reply **con la carta** (by card) or **in contanti** (in cash). Don't forget to take your receipt (*lo scontrino*)!\n\n### Describing Items\nTo talk about prices, use **economico** (affordable/cheap) and **costoso** or **caro** (expensive). Remember that adjectives change endings based on gender and number!",
+  "words": [
+    {
+      "target": "il negozio",
+      "native": "the shop",
+      "emoji": "🏬"
+    },
+    {
+      "target": "il mercato",
+      "native": "the market",
+      "emoji": "🍎"
+    },
+    {
+      "target": "il prezzo",
+      "native": "the price",
+      "emoji": "🏷️"
+    },
+    {
+      "target": "i soldi",
+      "native": "the money",
+      "emoji": "💰"
+    },
+    {
+      "target": "l'euro",
+      "native": "the euro",
+      "emoji": "💶"
+    },
+    {
+      "target": "costoso",
+      "native": "expensive",
+      "emoji": "💎"
+    },
+    {
+      "target": "economico",
+      "native": "cheap",
+      "emoji": "🪙"
+    },
+    {
+      "target": "comprare",
+      "native": "to buy",
+      "emoji": "🛍️"
+    },
+    {
+      "target": "pagare",
+      "native": "to pay",
+      "emoji": "💳"
+    },
+    {
+      "target": "lo scontrino",
+      "native": "the receipt",
+      "emoji": "🧾"
+    },
+    {
+      "target": "la borsa",
+      "native": "the bag",
+      "emoji": "👜"
+    },
+    {
+      "target": "il cliente",
+      "native": "the customer",
+      "emoji": "👤"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Quanto costa questo vestito?",
+      "native": "How much does this dress cost?"
+    },
+    {
+      "target": "Questo libro è troppo costoso.",
+      "native": "This book is too expensive."
+    },
+    {
+      "target": "Vorrei pagare con la carta.",
+      "native": "I would like to pay by card."
+    },
+    {
+      "target": "Il mercato apre alle otto.",
+      "native": "The market opens at eight."
+    },
+    {
+      "target": "Posso avere lo scontrino, per favore?",
+      "native": "Can I have the receipt, please?"
+    },
+    {
+      "target": "Questo negozio è molto economico.",
+      "native": "This shop is very cheap."
+    },
+    {
+      "target": "Compriamo delle mele fresche.",
+      "native": "We are buying some fresh apples."
+    },
+    {
+      "target": "Quanto costano queste scarpe?",
+      "native": "How much do these shoes cost?"
+    },
+    {
+      "target": "Non ho abbastanza soldi oggi.",
+      "native": "I do not have enough money today."
+    },
+    {
+      "target": "Dove posso pagare questo articolo?",
+      "native": "Where can I pay for this item?"
+    }
+  ]
+}

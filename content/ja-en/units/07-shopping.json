@@ -1,0 +1,131 @@
+{
+  "title": "Shopping",
+  "description": "Learn to ask for prices, talk about shops, and buy items in Japanese.",
+  "guidebook": "### Essential Shopping Phrases\n\nWhen browsing stores in Japan, your most powerful question is **これはいくらですか** (*Kore wa ikura desu ka?* — \"How much is this?\"). \n\n### Prices and Currency\nJapanese currency is measured in **円** (*en*, pronounced \"yen\"). Simply attach the number before 円, such as **千円** (*sen'en*, 1,000 yen) or **百円** (*hyaku'en*, 100 yen).\n\n### Describing Value\nUse the *-i* adjectives **高い** (*takai* — expensive) and **安い** (*yasui* — cheap). Add **です** (*desu*) to make polite statements: **これは高いです** (*Kore wa takai desu* — \"This is expensive\").\n\n### At the Register\nCashiers often ask if you need a bag (**袋**, *fukuro*). You can request items politely by adding **をお願いします** (*o onegai shimasu*): **レシートをお願いします** (*Reshīto o onegai shimasu* — \"The receipt, please\").",
+  "words": [
+    {
+      "target": "店",
+      "native": "the shop",
+      "emoji": "🏪",
+      "romanization": "mise"
+    },
+    {
+      "target": "お金",
+      "native": "the money",
+      "emoji": "💰",
+      "romanization": "okane"
+    },
+    {
+      "target": "円",
+      "native": "the yen",
+      "emoji": "💴",
+      "romanization": "en"
+    },
+    {
+      "target": "高い",
+      "native": "expensive",
+      "emoji": "🏷️",
+      "romanization": "takai"
+    },
+    {
+      "target": "安い",
+      "native": "cheap",
+      "emoji": "🪙",
+      "romanization": "yasui"
+    },
+    {
+      "target": "いくら",
+      "native": "how much",
+      "emoji": "❓",
+      "romanization": "ikura"
+    },
+    {
+      "target": "買う",
+      "native": "to buy",
+      "emoji": "🛒",
+      "romanization": "kau"
+    },
+    {
+      "target": "市場",
+      "native": "the market",
+      "emoji": "🏬",
+      "romanization": "ichiba"
+    },
+    {
+      "target": "財布",
+      "native": "the wallet",
+      "emoji": "👛",
+      "romanization": "saifu"
+    },
+    {
+      "target": "袋",
+      "native": "the bag",
+      "emoji": "🛍️",
+      "romanization": "fukuro"
+    },
+    {
+      "target": "レシート",
+      "native": "the receipt",
+      "emoji": "🧾",
+      "romanization": "reshīto"
+    },
+    {
+      "target": "カード",
+      "native": "the card",
+      "emoji": "💳",
+      "romanization": "kādo"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "これはいくらですか。",
+      "native": "How much is this?",
+      "romanization": "Kore wa ikura desu ka."
+    },
+    {
+      "target": "それは千円です。",
+      "native": "That is one thousand yen.",
+      "romanization": "Sore wa sen'en desu."
+    },
+    {
+      "target": "この店はとても安いです。",
+      "native": "This shop is very cheap.",
+      "romanization": "Kono mise wa totemo yasui desu."
+    },
+    {
+      "target": "その鞄は少し高いです。",
+      "native": "That bag is a bit expensive.",
+      "romanization": "Sono kaban wa sukoshi takai desu."
+    },
+    {
+      "target": "カードで払えますか。",
+      "native": "Can I pay by card?",
+      "romanization": "Kādo de haraemasu ka."
+    },
+    {
+      "target": "新しい財布を買います。",
+      "native": "I will buy a new wallet.",
+      "romanization": "Atarashii saifu o kaimasu."
+    },
+    {
+      "target": "袋をお願いします。",
+      "native": "A bag, please.",
+      "romanization": "Fukuro o onegaishimasu."
+    },
+    {
+      "target": "市場でリンゴを買いました。",
+      "native": "I bought apples at the market.",
+      "romanization": "Ichiba de ringo o kaimashita."
+    },
+    {
+      "target": "レシートをお願いします。",
+      "native": "The receipt, please.",
+      "romanization": "Reshīto o onegaishimasu."
+    },
+    {
+      "target": "ここで買い物をします。",
+      "native": "I shop here.",
+      "romanization": "Koko de kaimono o shimasu."
+    }
+  ]
+}

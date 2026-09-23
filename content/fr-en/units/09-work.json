@@ -1,0 +1,109 @@
+{
+  "title": "Work & School",
+  "description": "Talk about jobs, school life, and daily tasks in the classroom and the office.",
+  "guidebook": "### Jobs without Articles\nWhen describing someone's profession using the verb **être** (to be), French drops the indefinite article (*un/une*). For example, say **Il est médecin** (*He is a doctor*) or **Je suis professeur** (*I am a teacher*), not *Il est un médecin*.\n\n### Office or Desk?\nThe word **le bureau** does double duty in French! It means both \"desk\" (the piece of furniture) and \"office\" (the workplace).\n\n### Homework is Plural\nIn English, \"homework\" is uncountable, but in French it is almost always plural: **les devoirs**. For instance: *Je fais mes devoirs* (*I am doing my homework*).",
+  "words": [
+    {
+      "target": "le professeur",
+      "native": "the teacher",
+      "emoji": "👨‍🏫"
+    },
+    {
+      "target": "le médecin",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "l'étudiant",
+      "native": "the student",
+      "emoji": "🎓"
+    },
+    {
+      "target": "le bureau",
+      "native": "the office",
+      "emoji": "🏢"
+    },
+    {
+      "target": "la classe",
+      "native": "the class",
+      "emoji": "🏫"
+    },
+    {
+      "target": "les devoirs",
+      "native": "the homework",
+      "emoji": "📝"
+    },
+    {
+      "target": "le travail",
+      "native": "the work",
+      "emoji": "💼"
+    },
+    {
+      "target": "l'école",
+      "native": "the school",
+      "emoji": "🎒"
+    },
+    {
+      "target": "le livre",
+      "native": "the book",
+      "emoji": "📖"
+    },
+    {
+      "target": "l'ordinateur",
+      "native": "the computer",
+      "emoji": "💻"
+    },
+    {
+      "target": "l'hôpital",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "l'examen",
+      "native": "the exam",
+      "emoji": "📑"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Le professeur parle à la classe.",
+      "native": "The teacher speaks to the class."
+    },
+    {
+      "target": "Je fais mes devoirs ce soir.",
+      "native": "I am doing my homework tonight."
+    },
+    {
+      "target": "Elle travaille dans un grand bureau.",
+      "native": "She works in a big office."
+    },
+    {
+      "target": "Le médecin travaille à l'hôpital.",
+      "native": "The doctor works at the hospital."
+    },
+    {
+      "target": "L'étudiant étudie pour un examen.",
+      "native": "The student is studying for an exam."
+    },
+    {
+      "target": "Nous allons à l'école ensemble.",
+      "native": "We are going to school together."
+    },
+    {
+      "target": "Tu as beaucoup de devoirs ?",
+      "native": "Do you have a lot of homework?"
+    },
+    {
+      "target": "Mon ordinateur est sur le bureau.",
+      "native": "My computer is on the desk."
+    },
+    {
+      "target": "Il aime son nouveau travail.",
+      "native": "He likes his new job."
+    },
+    {
+      "target": "Elle lit un livre en classe.",
+      "native": "She is reading a book in class."
+    }
+  ]
+}

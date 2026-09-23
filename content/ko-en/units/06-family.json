@@ -1,0 +1,131 @@
+{
+  "title": "Family",
+  "description": "Learn words for family members and describe your household in Korean.",
+  "guidebook": "### Talking About Family in Korean\n\nFamily terms in Korean vary depending on who is speaking:\n\n- **If you are male:** Call an older brother **형** (*hyeong*) and an older sister **누나** (*nuna*).\n- **If you are female:** Call an older brother **오빠** (*oppa*) and an older sister **언니** (*eonni*).\n\nFor a younger sibling, regardless of gender, use **동생** (*dongsaeng*). To specify, you can say **남동생** (*younger brother*) or **여동생** (*younger sister*).\n\n### Respect and Politeness\n\nKoreans often use honorific titles. For parents, **부모님** (*bumonim*) includes the polite suffix **-님** (*-nim*). When referring to your own family to others, use **우리** (*uri*, literally \"our\") instead of \"my\"—for example, **우리 가족** (*our family*).",
+  "words": [
+    {
+      "target": "어머니",
+      "native": "the mother",
+      "emoji": "👩",
+      "romanization": "eomeoni"
+    },
+    {
+      "target": "아버지",
+      "native": "the father",
+      "emoji": "👨",
+      "romanization": "abeoji"
+    },
+    {
+      "target": "할머니",
+      "native": "the grandmother",
+      "emoji": "👵",
+      "romanization": "halmeoni"
+    },
+    {
+      "target": "할아버지",
+      "native": "the grandfather",
+      "emoji": "👴",
+      "romanization": "harabeoji"
+    },
+    {
+      "target": "아기",
+      "native": "the baby",
+      "emoji": "👶",
+      "romanization": "agi"
+    },
+    {
+      "target": "형",
+      "native": "the older brother (of a male)",
+      "emoji": "👦",
+      "romanization": "hyeong"
+    },
+    {
+      "target": "누나",
+      "native": "the older sister (of a male)",
+      "emoji": "👧",
+      "romanization": "nuna"
+    },
+    {
+      "target": "오빠",
+      "native": "the older brother (of a female)",
+      "emoji": "🧑",
+      "romanization": "oppa"
+    },
+    {
+      "target": "언니",
+      "native": "the older sister (of a female)",
+      "emoji": "👱‍♀️",
+      "romanization": "eonni"
+    },
+    {
+      "target": "동생",
+      "native": "the younger sibling",
+      "emoji": "🧒",
+      "romanization": "dongsaeng"
+    },
+    {
+      "target": "가족",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧‍👦",
+      "romanization": "gajok"
+    },
+    {
+      "target": "부모님",
+      "native": "the parents",
+      "emoji": "👫",
+      "romanization": "bumonim"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "우리 가족은 네 명이에요.",
+      "native": "There are four people in our family.",
+      "romanization": "Uri gajogeun ne myeong-ieyo."
+    },
+    {
+      "target": "어머니는 요리를 잘해요.",
+      "native": "Mother is good at cooking.",
+      "romanization": "Eomeonineun yorireul jalhaeyo."
+    },
+    {
+      "target": "아버지는 회사에 가요.",
+      "native": "Father goes to the office.",
+      "romanization": "Abeojineun hoesae gayo."
+    },
+    {
+      "target": "할아버지는 공원에서 산책해요.",
+      "native": "Grandfather takes a walk in the park.",
+      "romanization": "Harabeojineun gong-woneseo sanchaekaeyo."
+    },
+    {
+      "target": "할머니는 따뜻한 차를 마셔요.",
+      "native": "Grandmother drinks warm tea.",
+      "romanization": "Halmeonineun ttatteutan chareul masyeoyo."
+    },
+    {
+      "target": "아기가 방에서 자고 있어요.",
+      "native": "The baby is sleeping in the room.",
+      "romanization": "Agiga bang-eseo jago isseoyo."
+    },
+    {
+      "target": "제 동생은 학생이에요.",
+      "native": "My younger sibling is a student.",
+      "romanization": "Je dongsaeng-eun haksaeng-ieyo."
+    },
+    {
+      "target": "오빠는 지금 집에 없어요.",
+      "native": "My older brother is not home right now.",
+      "romanization": "Oppaneun jigeum jibe eopseoyo."
+    },
+    {
+      "target": "언니는 한국어를 공부해요.",
+      "native": "My older sister studies Korean.",
+      "romanization": "Eonnineun hangug-eoreul gongbuhaeyo."
+    },
+    {
+      "target": "저는 부모님을 사랑해요.",
+      "native": "I love my parents.",
+      "romanization": "Jeoneun bumonimeul saranghaeyo."
+    }
+  ]
+}

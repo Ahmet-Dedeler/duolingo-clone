@@ -1,0 +1,109 @@
+{
+  "title": "Shopping",
+  "description": "Learn how to ask for prices, shop at stores and markets, and pay for items.",
+  "guidebook": "Shopping in Portuguese is fun and easy! To ask the price of an item, use the essential question **Quanto custa?** (*How much does it cost?*) or simply **Quanto é?** (*How much is it?*).\n\nWhen describing items, remember that adjectives agree with the gender of the noun. A coat (*o casaco*) is **caro** (*expensive*) or **barato** (*cheap*), whereas a shirt (*a camisa*) is **cara** or **barata**.\n\nWhen it is time to check out, you can say **Vou pagar em dinheiro** (*I will pay in cash*) or ask **Aceita cartão?** (*Do you accept card?*). Finally, wrap up smoothly with **A conta, por favor!** (*The bill, please!*).",
+  "words": [
+    {
+      "target": "a loja",
+      "native": "the store",
+      "emoji": "🏬"
+    },
+    {
+      "target": "o mercado",
+      "native": "the market",
+      "emoji": "🛒"
+    },
+    {
+      "target": "o dinheiro",
+      "native": "the money",
+      "emoji": "💵"
+    },
+    {
+      "target": "o preço",
+      "native": "the price",
+      "emoji": "🏷️"
+    },
+    {
+      "target": "caro",
+      "native": "expensive",
+      "emoji": "💎"
+    },
+    {
+      "target": "barato",
+      "native": "cheap",
+      "emoji": "🪙"
+    },
+    {
+      "target": "comprar",
+      "native": "to buy",
+      "emoji": "🛍️"
+    },
+    {
+      "target": "pagar",
+      "native": "to pay",
+      "emoji": "🤝"
+    },
+    {
+      "target": "a conta",
+      "native": "the bill",
+      "emoji": "🧾"
+    },
+    {
+      "target": "o desconto",
+      "native": "the discount",
+      "emoji": "📉"
+    },
+    {
+      "target": "a sacola",
+      "native": "the bag",
+      "emoji": "👜"
+    },
+    {
+      "target": "o vendedor",
+      "native": "the salesperson",
+      "emoji": "🧑‍💼"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Quanto custa esta camisa?",
+      "native": "How much does this shirt cost?"
+    },
+    {
+      "target": "Este casaco é muito caro.",
+      "native": "This coat is very expensive."
+    },
+    {
+      "target": "Eu quero comprar um livro.",
+      "native": "I want to buy a book."
+    },
+    {
+      "target": "A fruta é muito barata.",
+      "native": "The fruit is very cheap."
+    },
+    {
+      "target": "Nós vamos ao mercado hoje.",
+      "native": "We are going to the market today."
+    },
+    {
+      "target": "Você aceita cartão de crédito?",
+      "native": "Do you accept credit card?"
+    },
+    {
+      "target": "Tem algum desconto nesta loja?",
+      "native": "Is there any discount in this store?"
+    },
+    {
+      "target": "Ela quer pagar em dinheiro.",
+      "native": "She wants to pay in cash."
+    },
+    {
+      "target": "Onde fica a loja nova?",
+      "native": "Where is the new store?"
+    },
+    {
+      "target": "Posso pagar a conta agora?",
+      "native": "Can I pay the bill now?"
+    }
+  ]
+}

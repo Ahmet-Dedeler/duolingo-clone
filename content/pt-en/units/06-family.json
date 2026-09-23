@@ -1,0 +1,109 @@
+{
+  "title": "Family",
+  "description": "Learn words for family members and talk about the people closest to you.",
+  "guidebook": "Welcome to the Family unit! Talking about family introduces essential gender patterns in Portuguese. Most family nouns come in pairs: *o irmão* (the brother) and *a irmã* (the sister), or *o filho* (the son) and *a filha* (the daughter).\n\nPay special attention to accent marks when talking about grandparents! **O avô** (the grandfather) uses a circumflex accent (^) for a closed 'oh' sound, while **a avó** (the grandmother) uses an acute accent (´) for an open 'aw' sound.\n\nTo show possession, match the gender to the family member: use **meu** for masculine nouns (*meu pai*, *meu irmão*) and **minha** for feminine nouns (*minha mãe*, *minha irmã*).",
+  "words": [
+    {
+      "target": "a mãe",
+      "native": "the mother",
+      "emoji": "👩"
+    },
+    {
+      "target": "o pai",
+      "native": "the father",
+      "emoji": "👨"
+    },
+    {
+      "target": "o irmão",
+      "native": "the brother",
+      "emoji": "👦"
+    },
+    {
+      "target": "a irmã",
+      "native": "the sister",
+      "emoji": "👧"
+    },
+    {
+      "target": "o avô",
+      "native": "the grandfather",
+      "emoji": "👴"
+    },
+    {
+      "target": "a avó",
+      "native": "the grandmother",
+      "emoji": "👵"
+    },
+    {
+      "target": "o bebê",
+      "native": "the baby",
+      "emoji": "👶"
+    },
+    {
+      "target": "o filho",
+      "native": "the son",
+      "emoji": "🧒"
+    },
+    {
+      "target": "a filha",
+      "native": "the daughter",
+      "emoji": "👱‍♀️"
+    },
+    {
+      "target": "a família",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧"
+    },
+    {
+      "target": "o tio",
+      "native": "the uncle",
+      "emoji": "🧔"
+    },
+    {
+      "target": "a tia",
+      "native": "the aunt",
+      "emoji": "👩‍🦰"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Esta é a minha família.",
+      "native": "This is my family."
+    },
+    {
+      "target": "O meu pai é simpático.",
+      "native": "My father is friendly."
+    },
+    {
+      "target": "A minha mãe é médica.",
+      "native": "My mother is a doctor."
+    },
+    {
+      "target": "Eu tenho um irmão pequeno.",
+      "native": "I have a little brother."
+    },
+    {
+      "target": "A minha irmã mora aqui.",
+      "native": "My sister lives here."
+    },
+    {
+      "target": "O bebê dorme no quarto.",
+      "native": "The baby sleeps in the room."
+    },
+    {
+      "target": "O meu avô conta histórias.",
+      "native": "My grandfather tells stories."
+    },
+    {
+      "target": "A minha avó cozinha bem.",
+      "native": "My grandmother cooks well."
+    },
+    {
+      "target": "Eles são os meus pais.",
+      "native": "They are my parents."
+    },
+    {
+      "target": "O meu filho adora cachorros.",
+      "native": "My son loves dogs."
+    }
+  ]
+}

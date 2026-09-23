@@ -1,0 +1,131 @@
+{
+  "title": "Weather",
+  "description": "Talk about seasons, temperatures, and common weather conditions in Chinese.",
+  "guidebook": "### Talking About the Weather\n\nTo ask about the weather, say **今天天气怎么样？** (*Jīntiān tiānqì zěnmeyàng?* - How is the weather today?).\n\n### Adjectives Don't Need \"To Be\"\nIn Chinese, you link nouns directly to adjectives using degree adverbs like **很** (*hěn*, very) instead of **是** (*shì*):\n- **今天很冷。** (*Jīntiān hěn lěng.* - Today is cold.)\n- Avoid saying *今天是冷*!\n\nTo express extremes, use **太...了** (*tài... le*, too...):\n- **夏天太热了！** (*Xiàtiān tài rè le!* - Summer is too hot!)\n\n### Rain and Snow Fall Down\nPrecipitation verbs use **下** (*xià*, to fall/descend):\n- **下雨** (*xià yǔ* - to rain)\n- **下雪** (*xià xuě* - to snow)",
+  "words": [
+    {
+      "target": "天气",
+      "native": "the weather",
+      "emoji": "⛅",
+      "romanization": "tiānqì"
+    },
+    {
+      "target": "太阳",
+      "native": "the sun",
+      "emoji": "☀️",
+      "romanization": "tàiyáng"
+    },
+    {
+      "target": "雨",
+      "native": "the rain",
+      "emoji": "🌧️",
+      "romanization": "yǔ"
+    },
+    {
+      "target": "雪",
+      "native": "the snow",
+      "emoji": "❄️",
+      "romanization": "xuě"
+    },
+    {
+      "target": "风",
+      "native": "the wind",
+      "emoji": "💨",
+      "romanization": "fēng"
+    },
+    {
+      "target": "热",
+      "native": "hot",
+      "emoji": "🥵",
+      "romanization": "rè"
+    },
+    {
+      "target": "冷",
+      "native": "cold",
+      "emoji": "🥶",
+      "romanization": "lěng"
+    },
+    {
+      "target": "夏天",
+      "native": "the summer",
+      "emoji": "🏖️",
+      "romanization": "xiàtiān"
+    },
+    {
+      "target": "冬天",
+      "native": "the winter",
+      "emoji": "⛄",
+      "romanization": "dōngtiān"
+    },
+    {
+      "target": "春天",
+      "native": "the spring",
+      "emoji": "🌸",
+      "romanization": "chūntiān"
+    },
+    {
+      "target": "秋天",
+      "native": "the autumn",
+      "emoji": "🍂",
+      "romanization": "qiūtiān"
+    },
+    {
+      "target": "晴天",
+      "native": "the sunny day",
+      "emoji": "🌤️",
+      "romanization": "qíngtiān"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "今天天气怎么样？",
+      "native": "How is the weather today?",
+      "romanization": "Jīntiān tiānqì zěnmeyàng?"
+    },
+    {
+      "target": "今天非常热。",
+      "native": "Today is very hot.",
+      "romanization": "Jīntiān fēicháng rè."
+    },
+    {
+      "target": "明天会下雪。",
+      "native": "It will snow tomorrow.",
+      "romanization": "Míngtiān huì xià xuě."
+    },
+    {
+      "target": "外面风很大。",
+      "native": "The wind is strong outside.",
+      "romanization": "Wàimiàn fēng hěn dà."
+    },
+    {
+      "target": "夏天太热了。",
+      "native": "Summer is too hot.",
+      "romanization": "Xiàtiān tài rè le."
+    },
+    {
+      "target": "冬天很冷。",
+      "native": "Winter is very cold.",
+      "romanization": "Dōngtiān hěn lěng."
+    },
+    {
+      "target": "明天是晴天。",
+      "native": "Tomorrow is a sunny day.",
+      "romanization": "Míngtiān shì qíngtiān."
+    },
+    {
+      "target": "今天下大雨了。",
+      "native": "It is raining heavily today.",
+      "romanization": "Jīntiān xià dàyǔ le."
+    },
+    {
+      "target": "我喜欢春天。",
+      "native": "I like spring.",
+      "romanization": "Wǒ xǐhuan chūntiān."
+    },
+    {
+      "target": "北京冷不冷？",
+      "native": "Is Beijing cold?",
+      "romanization": "Běijīng lěng bù lěng?"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Health",
+  "description": "Learn how to talk about your body parts, symptoms, and visits to the doctor in Chinese.",
+  "guidebook": "### Expressing Aches and Pains\nIn Chinese, expressing pain is straightforward. You typically use a topic-comment structure: **Person + Body Part + 疼 (téng)**.\n- **我头疼。** (*Wǒ tóu téng.*) — My head hurts.\n- **他的手疼。** (*Tā de shǒu téng.*) — His hand hurts.\n\n### Describing Sickness\nWhen you feel under the weather, use **不舒服** (*bù shūfu* - not comfortable/unwell):\n- **我有点不舒服。** (*Wǒ yǒudiǎn bù shūfu.*) — I feel a bit unwell.\n\n### Taking Medicine\nIn English, you \"take\" medicine, but in Chinese, you \"eat\" it using the verb **吃** (*chī*):\n- **吃药** (*chī yào*) — to take medicine.",
+  "words": [
+    {
+      "target": "头",
+      "native": "the head",
+      "emoji": "🗣️",
+      "romanization": "tóu"
+    },
+    {
+      "target": "手",
+      "native": "the hand",
+      "emoji": "✋",
+      "romanization": "shǒu"
+    },
+    {
+      "target": "脚",
+      "native": "the foot",
+      "emoji": "🦶",
+      "romanization": "jiǎo"
+    },
+    {
+      "target": "眼睛",
+      "native": "the eye",
+      "emoji": "👀",
+      "romanization": "yǎnjing"
+    },
+    {
+      "target": "身体",
+      "native": "the body",
+      "emoji": "🧍",
+      "romanization": "shēntǐ"
+    },
+    {
+      "target": "生病",
+      "native": "to get sick",
+      "emoji": "🤒",
+      "romanization": "shēngbìng"
+    },
+    {
+      "target": "累",
+      "native": "tired",
+      "emoji": "🥱",
+      "romanization": "lèi"
+    },
+    {
+      "target": "疼",
+      "native": "painful",
+      "emoji": "🤕",
+      "romanization": "téng"
+    },
+    {
+      "target": "药",
+      "native": "the medicine",
+      "emoji": "💊",
+      "romanization": "yào"
+    },
+    {
+      "target": "医院",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "yīyuàn"
+    },
+    {
+      "target": "医生",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "yīshēng"
+    },
+    {
+      "target": "舒服",
+      "native": "comfortable",
+      "emoji": "😌",
+      "romanization": "shūfu"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "我头很疼。",
+      "native": "My head hurts a lot.",
+      "romanization": "Wǒ tóu hěn téng."
+    },
+    {
+      "target": "他生病了。",
+      "native": "He has fallen ill.",
+      "romanization": "Tā shēngbìng le."
+    },
+    {
+      "target": "我今天很累。",
+      "native": "I am very tired today.",
+      "romanization": "Wǒ jīntiān hěn lèi."
+    },
+    {
+      "target": "你哪里不舒服？",
+      "native": "Where do you feel unwell?",
+      "romanization": "Nǐ nǎlǐ bù shūfu?"
+    },
+    {
+      "target": "我们去医院吧。",
+      "native": "Let's go to the hospital.",
+      "romanization": "Wǒmen qù yīyuàn ba."
+    },
+    {
+      "target": "记得按时吃药。",
+      "native": "Remember to take medicine on time.",
+      "romanization": "Jìde ànshí chī yào."
+    },
+    {
+      "target": "他的手很疼。",
+      "native": "His hand hurts.",
+      "romanization": "Tā de shǒu hěn téng."
+    },
+    {
+      "target": "医生不在医院。",
+      "native": "The doctor is not at the hospital.",
+      "romanization": "Yīshēng bù zài yīyuàn."
+    },
+    {
+      "target": "你要多喝水。",
+      "native": "You need to drink more water.",
+      "romanization": "Nǐ yào duō hē shuǐ."
+    },
+    {
+      "target": "我的身体很好。",
+      "native": "My health is very good.",
+      "romanization": "Wǒ de shēntǐ hěn hǎo."
+    }
+  ]
+}

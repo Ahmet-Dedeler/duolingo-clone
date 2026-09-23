@@ -1,0 +1,131 @@
+{
+  "title": "Shopping",
+  "description": "Learn how to ask for prices, navigate stores, and buy items in Korean.",
+  "guidebook": "### Essential Shopping Phrases\n\nWhen shopping in Korea, asking for prices is simple! Just point and ask:\n* **이거 얼마예요?** (*Igeo eolmayeyo?*) — \"How much is this?\"\n\n### Payment Methods with -(으)로\nTo indicate your payment method, attach the particle **-(으)로** (\"by\" or \"with\"):\n* **카드로** (*kadeuro*) — \"by card\"\n* **현금으로** (*hyeongeum-euro*) — \"with cash\"\nPair it with **계산해 주세요** (*gyesanhae juseyo*, \"please charge/check out\").\n\n### Cheap vs. Expensive\n* **비싸요** (*bissayo*) = \"It is expensive.\"\n* **싸요** (*ssayo*) = \"It is cheap.\"\n\nAdd **너무** (*neomu*, \"too\") when something exceeds your budget: **너무 비싸요** (*neomu bissayo*, \"It's too expensive!\").",
+  "words": [
+    {
+      "target": "가게",
+      "native": "the store",
+      "emoji": "🏪",
+      "romanization": "gage"
+    },
+    {
+      "target": "시장",
+      "native": "the market",
+      "emoji": "🛍️",
+      "romanization": "sijang"
+    },
+    {
+      "target": "백화점",
+      "native": "the department store",
+      "emoji": "🏬",
+      "romanization": "baekhwajeom"
+    },
+    {
+      "target": "돈",
+      "native": "the money",
+      "emoji": "💵",
+      "romanization": "don"
+    },
+    {
+      "target": "가격",
+      "native": "the price",
+      "emoji": "🏷️",
+      "romanization": "gagyeok"
+    },
+    {
+      "target": "얼마",
+      "native": "how much",
+      "emoji": "❓",
+      "romanization": "eolma"
+    },
+    {
+      "target": "비싸다",
+      "native": "to be expensive",
+      "emoji": "💸",
+      "romanization": "bissada"
+    },
+    {
+      "target": "싸다",
+      "native": "to be cheap",
+      "emoji": "🪙",
+      "romanization": "ssada"
+    },
+    {
+      "target": "사다",
+      "native": "to buy",
+      "emoji": "🛒",
+      "romanization": "sada"
+    },
+    {
+      "target": "카드",
+      "native": "the card",
+      "emoji": "💳",
+      "romanization": "kadeu"
+    },
+    {
+      "target": "현금",
+      "native": "the cash",
+      "emoji": "💴",
+      "romanization": "hyeongeum"
+    },
+    {
+      "target": "영수증",
+      "native": "the receipt",
+      "emoji": "🧾",
+      "romanization": "yeongsujeung"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "이 사과는 얼마예요?",
+      "native": "How much is this apple?",
+      "romanization": "i sagwaneun eolmayeyo?"
+    },
+    {
+      "target": "이 티셔츠는 정말 싸요.",
+      "native": "This T-shirt is really cheap.",
+      "romanization": "i tisyeocheuneun jeongmal ssayo."
+    },
+    {
+      "target": "저 가방은 너무 비싸요.",
+      "native": "That bag is too expensive.",
+      "romanization": "jeo gabang-eun neomu bissayo."
+    },
+    {
+      "target": "시장에서 과일을 사요.",
+      "native": "I buy fruit at the market.",
+      "romanization": "sijang-eseo gwa-ireul sayo."
+    },
+    {
+      "target": "카드로 계산해 주세요.",
+      "native": "I'd like to pay by card, please.",
+      "romanization": "kadeuro gyesanhae juseyo."
+    },
+    {
+      "target": "현금으로 내도 돼요?",
+      "native": "Can I pay with cash?",
+      "romanization": "hyeongeum-euro naedo dwaeyo?"
+    },
+    {
+      "target": "영수증은 버려 주세요.",
+      "native": "Please throw away the receipt.",
+      "romanization": "yeongsujeung-eun beoryeo juseyo."
+    },
+    {
+      "target": "백화점에서 신발을 샀어요.",
+      "native": "I bought shoes at the department store.",
+      "romanization": "baekhwajeom-eseo sinbareul sasseoyo."
+    },
+    {
+      "target": "가게에 예쁜 옷이 많아요.",
+      "native": "There are many pretty clothes in the store.",
+      "romanization": "gage-e yeppeun osi manayo."
+    },
+    {
+      "target": "돈을 지갑에 넣었어요.",
+      "native": "I put the money in the wallet.",
+      "romanization": "doneul jigabe neoeosseoyo."
+    }
+  ]
+}

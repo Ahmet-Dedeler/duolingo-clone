@@ -1,0 +1,131 @@
+{
+  "title": "Health",
+  "description": "Talk about body parts, express symptoms, and navigate visits to the doctor or pharmacy.",
+  "guidebook": "### Talking About Symptoms\n\nTo say that a body part hurts, attach the subject particle **-이/가** to the body part followed by **아파요** (hurts/is sick):\n* **머리가 아파요.** (My head hurts / I have a headache.)\n* **배가 아파요.** (My stomach hurts.)\n\n### Taking Medicine in Korean\nIn English, we say \"take medicine,\" but in Korean, you literally *eat* medicine using the verb **먹다**:\n* **약을 먹어요.** (I take medicine.)\n\n### Catching a Cold\nTo express that you have caught an illness like a cold, use the idiom **감기에 걸리다**:\n* **감기에 걸렸어요.** (I caught a cold.)\n\nWhen resting, Koreans often say **푹 쉬세요** (Please rest well).",
+  "words": [
+    {
+      "target": "머리",
+      "native": "the head",
+      "emoji": "🗣️",
+      "romanization": "meori"
+    },
+    {
+      "target": "손",
+      "native": "the hand",
+      "emoji": "✋",
+      "romanization": "son"
+    },
+    {
+      "target": "눈",
+      "native": "the eye",
+      "emoji": "👁️",
+      "romanization": "nun"
+    },
+    {
+      "target": "배",
+      "native": "the stomach",
+      "emoji": "🤰",
+      "romanization": "bae"
+    },
+    {
+      "target": "몸",
+      "native": "the body",
+      "emoji": "🧍",
+      "romanization": "mom"
+    },
+    {
+      "target": "약",
+      "native": "the medicine",
+      "emoji": "💊",
+      "romanization": "yak"
+    },
+    {
+      "target": "병원",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "byeongwon"
+    },
+    {
+      "target": "약국",
+      "native": "the pharmacy",
+      "emoji": "🏪",
+      "romanization": "yakguk"
+    },
+    {
+      "target": "의사",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "uisa"
+    },
+    {
+      "target": "감기",
+      "native": "the cold",
+      "emoji": "🤧",
+      "romanization": "gamgi"
+    },
+    {
+      "target": "아프다",
+      "native": "to be sick",
+      "emoji": "🤒",
+      "romanization": "apeuda"
+    },
+    {
+      "target": "피곤하다",
+      "native": "to be tired",
+      "emoji": "🥱",
+      "romanization": "pigonhada"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "머리가 너무 아파요.",
+      "native": "My head hurts a lot.",
+      "romanization": "Meoriga neomu apayo."
+    },
+    {
+      "target": "손을 깨끗이 씻어요.",
+      "native": "Wash your hands cleanly.",
+      "romanization": "Soneul kkaekkeusi ssiseoyo."
+    },
+    {
+      "target": "오늘은 몸이 피곤해요.",
+      "native": "My body is tired today.",
+      "romanization": "Oneureun momi pigonhaeyo."
+    },
+    {
+      "target": "감기에 걸려서 병원에 가요.",
+      "native": "I caught a cold, so I go to the hospital.",
+      "romanization": "Gamgie geollyeoseo byeongwone gayo."
+    },
+    {
+      "target": "밥을 먹고 약을 드세요.",
+      "native": "Please take medicine after eating.",
+      "romanization": "Babeul meokgo yageul deuseyo."
+    },
+    {
+      "target": "배가 아파서 약국에 갔어요.",
+      "native": "My stomach hurt, so I went to the pharmacy.",
+      "romanization": "Baega apaseo yakguge gasseoyo."
+    },
+    {
+      "target": "의사 선생님을 만나요.",
+      "native": "I see the doctor.",
+      "romanization": "Uisa seonsaengnimeul mannayo."
+    },
+    {
+      "target": "눈이 조금 아파요.",
+      "native": "My eyes hurt a little.",
+      "romanization": "Nuni jogeum apayo."
+    },
+    {
+      "target": "따뜻한 물을 많이 마셔요.",
+      "native": "Drink a lot of warm water.",
+      "romanization": "Ttatteushan mureul mani masyeoyo."
+    },
+    {
+      "target": "오늘은 집에서 푹 쉬세요.",
+      "native": "Please rest well at home today.",
+      "romanization": "Oneureun jibeseo puk swiseyo."
+    }
+  ]
+}

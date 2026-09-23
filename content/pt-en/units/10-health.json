@@ -1,0 +1,109 @@
+{
+  "title": "Health",
+  "description": "Talk about symptoms, body parts, and medical visits.",
+  "guidebook": "### Talking About Symptoms\n\nIn Portuguese, physical conditions are often expressed using **estar com** (literally, \"to be with\") rather than simply \"to have\":\n- *Estou com febre.* (I have a fever.)\n- *Estou com dor de cabeça.* (I have a headache.)\n\n### Describing How You Feel\n\nFor temporary states of health, use the verb **estar** combined with an adjective. Remember to match the ending to your gender:\n- *Eu estou cansado.* (I am tired. — masculine)\n- *Eu estou cansada.* (I am tired. — feminine)\n- *Ela está doente.* (She is sick.)\n\n### Expressing Pain\n\nTo say a specific body part hurts, use the verb **doer** (to hurt):\n- *O meu pé dói.* (My foot hurts.)\n- *As minhas mãos doem.* (My hands hurt.)",
+  "words": [
+    {
+      "target": "a cabeça",
+      "native": "the head",
+      "emoji": "🧠"
+    },
+    {
+      "target": "a mão",
+      "native": "the hand",
+      "emoji": "✋"
+    },
+    {
+      "target": "o pé",
+      "native": "the foot",
+      "emoji": "🦶"
+    },
+    {
+      "target": "o corpo",
+      "native": "the body",
+      "emoji": "🧍"
+    },
+    {
+      "target": "o dente",
+      "native": "the tooth",
+      "emoji": "🦷"
+    },
+    {
+      "target": "doente",
+      "native": "sick",
+      "emoji": "🤒"
+    },
+    {
+      "target": "cansado",
+      "native": "tired",
+      "emoji": "🥱"
+    },
+    {
+      "target": "a dor",
+      "native": "the pain",
+      "emoji": "😣"
+    },
+    {
+      "target": "a febre",
+      "native": "the fever",
+      "emoji": "🌡️"
+    },
+    {
+      "target": "o remédio",
+      "native": "the medicine",
+      "emoji": "💊"
+    },
+    {
+      "target": "o hospital",
+      "native": "the hospital",
+      "emoji": "🏥"
+    },
+    {
+      "target": "o médico",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Eu estou com dor de cabeça.",
+      "native": "I have a headache."
+    },
+    {
+      "target": "Ele está muito cansado hoje.",
+      "native": "He is very tired today."
+    },
+    {
+      "target": "Você precisa tomar o remédio.",
+      "native": "You need to take the medicine."
+    },
+    {
+      "target": "Nós vamos ao hospital agora.",
+      "native": "We are going to the hospital now."
+    },
+    {
+      "target": "A minha mão dói muito.",
+      "native": "My hand hurts a lot."
+    },
+    {
+      "target": "O médico examina o paciente.",
+      "native": "The doctor examines the patient."
+    },
+    {
+      "target": "Ela está doente com febre.",
+      "native": "She is sick with a fever."
+    },
+    {
+      "target": "Eu sinto uma dor forte.",
+      "native": "I feel a strong pain."
+    },
+    {
+      "target": "O meu pé está doendo.",
+      "native": "My foot is hurting."
+    },
+    {
+      "target": "Ele precisa descansar o corpo.",
+      "native": "He needs to rest his body."
+    }
+  ]
+}

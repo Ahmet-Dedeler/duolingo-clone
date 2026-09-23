@@ -1,0 +1,131 @@
+{
+  "title": "Weather",
+  "description": "Learn to talk about the weather, seasons, and daily climate in Japanese.",
+  "guidebook": "### Talking About the Weather\n\nDiscussing the weather is the ultimate Japanese icebreaker! Keep these handy tips in mind:\n\n#### Hot vs. Cold\nJapanese distinguishes between ambient air temperature and physical touch:\n- **暑い** (*atsui*) means hot weather, while **寒い** (*samui*) means cold weather.\n- For things you touch (like a hot tea or an iced drink), use **熱い** (*atsui*) and **冷たい** (*tsumetai*) instead.\n\n#### Precipitation\nTo express that rain or snow is falling, use the verb **降る** (*furu*, to fall):\n- **雨が降ります** (*ame ga furimasu*) = It rains.\n- **雪が降っています** (*yuki ga futte imasu*) = It is snowing.\n\nWrap up friendly observations with **ね** (*ne*), as in **いい天気ですね** (*Nice weather, isn't it?*).",
+  "words": [
+    {
+      "target": "天気",
+      "native": "the weather",
+      "emoji": "🌤️",
+      "romanization": "tenki"
+    },
+    {
+      "target": "雨",
+      "native": "the rain",
+      "emoji": "🌧️",
+      "romanization": "ame"
+    },
+    {
+      "target": "雪",
+      "native": "the snow",
+      "emoji": "❄️",
+      "romanization": "yuki"
+    },
+    {
+      "target": "風",
+      "native": "the wind",
+      "emoji": "💨",
+      "romanization": "kaze"
+    },
+    {
+      "target": "太陽",
+      "native": "the sun",
+      "emoji": "☀️",
+      "romanization": "taiyō"
+    },
+    {
+      "target": "雲",
+      "native": "the cloud",
+      "emoji": "☁️",
+      "romanization": "kumo"
+    },
+    {
+      "target": "暑い",
+      "native": "hot",
+      "emoji": "🥵",
+      "romanization": "atsui"
+    },
+    {
+      "target": "寒い",
+      "native": "cold",
+      "emoji": "🥶",
+      "romanization": "samui"
+    },
+    {
+      "target": "春",
+      "native": "the spring",
+      "emoji": "🌸",
+      "romanization": "haru"
+    },
+    {
+      "target": "夏",
+      "native": "the summer",
+      "emoji": "🌻",
+      "romanization": "natsu"
+    },
+    {
+      "target": "秋",
+      "native": "the autumn",
+      "emoji": "🍁",
+      "romanization": "aki"
+    },
+    {
+      "target": "冬",
+      "native": "the winter",
+      "emoji": "⛄",
+      "romanization": "fuyu"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "今日はいい天気ですね。",
+      "native": "The weather is nice today, isn't it?",
+      "romanization": "Kyō wa ii tenki desu ne."
+    },
+    {
+      "target": "今日はとても暑いです。",
+      "native": "It is very hot today.",
+      "romanization": "Kyō wa totemo atsui desu."
+    },
+    {
+      "target": "外は雨が降っています。",
+      "native": "It is raining outside.",
+      "romanization": "Soto wa ame ga futte imasu."
+    },
+    {
+      "target": "冬は雪が降ります。",
+      "native": "It snows in winter.",
+      "romanization": "Fuyu wa yuki ga furimasu."
+    },
+    {
+      "target": "今日は風が強いです。",
+      "native": "The wind is strong today.",
+      "romanization": "Kyō wa kaze ga tsuyoi desu."
+    },
+    {
+      "target": "明日は晴れるでしょう。",
+      "native": "It will probably be sunny tomorrow.",
+      "romanization": "Ashita wa hareru deshō."
+    },
+    {
+      "target": "今日の夜は寒いです。",
+      "native": "Tonight is cold.",
+      "romanization": "Kyō no yoru wa samui desu."
+    },
+    {
+      "target": "夏は海に行きたいです。",
+      "native": "I want to go to the sea in the summer.",
+      "romanization": "Natsu wa umi ni ikitai desu."
+    },
+    {
+      "target": "雨はもう止みました。",
+      "native": "The rain has already stopped.",
+      "romanization": "Ame wa mō yamimashita."
+    },
+    {
+      "target": "日本の春は美しいです。",
+      "native": "Spring in Japan is beautiful.",
+      "romanization": "Nihon no haru wa utsukushii desu."
+    }
+  ]
+}

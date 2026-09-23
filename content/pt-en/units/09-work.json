@@ -1,0 +1,109 @@
+{
+  "title": "Work & School",
+  "description": "Talk about common professions, school life, and daily tasks at the office.",
+  "guidebook": "Welcome to the workplace and classroom! When talking about professions in Portuguese, you typically use the verb **ser** (*to be*). Note that Portuguese often omits the article when stating someone's profession directly: *Eu sou médico* (I am a doctor) or *Ela é professora* (She is a teacher).\n\nPay attention to how the preposition **em** (*in/at*) contracts with definite articles:\n- **em + o = no** (*no escritório* = in the office, *no hospital* = at the hospital)\n- **em + a = na** (*na escola* = at school, *na aula* = in class)\n\nUse *fazer* for completing tasks like *fazer o dever de casa* (to do homework)!",
+  "words": [
+    {
+      "target": "o professor",
+      "native": "the teacher",
+      "emoji": "👨‍🏫"
+    },
+    {
+      "target": "o médico",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "o estudante",
+      "native": "the student",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "target": "o escritório",
+      "native": "the office",
+      "emoji": "🏢"
+    },
+    {
+      "target": "a aula",
+      "native": "the class",
+      "emoji": "🏫"
+    },
+    {
+      "target": "o dever de casa",
+      "native": "the homework",
+      "emoji": "📝"
+    },
+    {
+      "target": "o trabalho",
+      "native": "the job",
+      "emoji": "💼"
+    },
+    {
+      "target": "a escola",
+      "native": "the school",
+      "emoji": "🎒"
+    },
+    {
+      "target": "o computador",
+      "native": "the computer",
+      "emoji": "💻"
+    },
+    {
+      "target": "a caneta",
+      "native": "the pen",
+      "emoji": "🖊️"
+    },
+    {
+      "target": "o livro",
+      "native": "the book",
+      "emoji": "📖"
+    },
+    {
+      "target": "o hospital",
+      "native": "the hospital",
+      "emoji": "🏥"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Eu sou um estudante.",
+      "native": "I am a student."
+    },
+    {
+      "target": "O professor está na escola.",
+      "native": "The teacher is at school."
+    },
+    {
+      "target": "Ela trabalha em um escritório.",
+      "native": "She works in an office."
+    },
+    {
+      "target": "Nós fazemos o dever de casa.",
+      "native": "We do the homework."
+    },
+    {
+      "target": "O médico trabalha no hospital.",
+      "native": "The doctor works at the hospital."
+    },
+    {
+      "target": "Você tem uma caneta azul?",
+      "native": "Do you have a blue pen?"
+    },
+    {
+      "target": "A aula começa agora.",
+      "native": "The class starts now."
+    },
+    {
+      "target": "Eu leio o livro hoje.",
+      "native": "I read the book today."
+    },
+    {
+      "target": "Ele usa o computador novo.",
+      "native": "He uses the new computer."
+    },
+    {
+      "target": "Eu gosto do meu trabalho.",
+      "native": "I like my job."
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+{
+  "title": "Family",
+  "description": "Learn to talk about your family members, siblings, and loved ones in Chinese.",
+  "guidebook": "### Meet the Family!\nIn Chinese, kinship titles are wonderfully specific. Unlike English, Chinese explicitly distinguishes whether a sibling is older or younger:\n- **哥哥 (gēge)**: older brother vs. **弟弟 (dìdi)**: younger brother\n- **姐姐 (jiějie)**: older sister vs. **妹妹 (mèimei)**: younger sister\n\n### Soft Second Syllables\nMost basic family words are reduplicated characters (like **妈妈 māma** and **爸爸 bàba**). In spoken Chinese, the second syllable almost always softens into a light, **neutral tone**.\n\n### Showing Possession with 的 (de)\nTo say \"my\" or \"your\", add **的 (de)** after the pronoun:\n- **我的妈妈** (*wǒ de māma*) = my mother\n- **你的哥哥** (*nǐ de gēge*) = your older brother",
+  "words": [
+    {
+      "target": "爸爸",
+      "native": "the father",
+      "emoji": "👨",
+      "romanization": "bàba"
+    },
+    {
+      "target": "妈妈",
+      "native": "the mother",
+      "emoji": "👩",
+      "romanization": "māma"
+    },
+    {
+      "target": "哥哥",
+      "native": "the older brother",
+      "emoji": "👦",
+      "romanization": "gēge"
+    },
+    {
+      "target": "弟弟",
+      "native": "the younger brother",
+      "emoji": "🧒",
+      "romanization": "dìdi"
+    },
+    {
+      "target": "姐姐",
+      "native": "the older sister",
+      "emoji": "👱‍♀️",
+      "romanization": "jiějie"
+    },
+    {
+      "target": "妹妹",
+      "native": "the younger sister",
+      "emoji": "👧",
+      "romanization": "mèimei"
+    },
+    {
+      "target": "爷爷",
+      "native": "the grandfather",
+      "emoji": "👴",
+      "romanization": "yéye"
+    },
+    {
+      "target": "奶奶",
+      "native": "the grandmother",
+      "emoji": "👵",
+      "romanization": "nǎinai"
+    },
+    {
+      "target": "宝宝",
+      "native": "the baby",
+      "emoji": "👶",
+      "romanization": "bǎobao"
+    },
+    {
+      "target": "儿子",
+      "native": "the son",
+      "emoji": "🧑",
+      "romanization": "érzi"
+    },
+    {
+      "target": "女儿",
+      "native": "the daughter",
+      "emoji": "👩‍🦰",
+      "romanization": "nǚ'ér"
+    },
+    {
+      "target": "家人",
+      "native": "the family members",
+      "emoji": "👨‍👩‍👧‍👦",
+      "romanization": "jiārén"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "这是我的爸爸。",
+      "native": "This is my father.",
+      "romanization": "Zhè shì wǒ de bàba."
+    },
+    {
+      "target": "我的妈妈很漂亮。",
+      "native": "My mother is very pretty.",
+      "romanization": "Wǒ de māma hěn piàoliang."
+    },
+    {
+      "target": "他是我的哥哥。",
+      "native": "He is my older brother.",
+      "romanization": "Tā shì wǒ de gēge."
+    },
+    {
+      "target": "她叫什么名字？",
+      "native": "What is her name?",
+      "romanization": "Tā jiào shénme míngzi?"
+    },
+    {
+      "target": "我爱我的家人。",
+      "native": "I love my family.",
+      "romanization": "Wǒ ài wǒ de jiārén."
+    },
+    {
+      "target": "妹妹喜欢看书。",
+      "native": "The younger sister likes reading.",
+      "romanization": "Mèimei xǐhuan kàn shū."
+    },
+    {
+      "target": "爷爷在喝茶。",
+      "native": "Grandfather is drinking tea.",
+      "romanization": "Yéye zài hē chá."
+    },
+    {
+      "target": "奶奶做饭很好吃。",
+      "native": "Grandmother cooks delicious food.",
+      "romanization": "Nǎinai zuò fàn hěn hǎochī."
+    },
+    {
+      "target": "宝宝在睡觉。",
+      "native": "The baby is sleeping.",
+      "romanization": "Bǎobao zài shuìjiào."
+    },
+    {
+      "target": "她是你的姐姐吗？",
+      "native": "Is she your older sister?",
+      "romanization": "Tā shì nǐ de jiějie ma?"
+    }
+  ]
+}

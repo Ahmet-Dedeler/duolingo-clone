@@ -1,0 +1,131 @@
+{
+  "title": "Shopping",
+  "description": "Learn to ask for prices, bargain, and navigate markets and stores in Chinese.",
+  "guidebook": "### Asking for Prices\nTo ask how much something costs in Chinese, use the phrase **多少钱** (*duōshao qián*), which literally translates to \"how much money\". Place the item first:\n- **这个多少钱？** (*Zhège duōshao qián?* — How much is this?)\n\n### Everyday Currency\nWhile the official currency unit is the *yuán* (元), people almost always say **块** (*kuài*) in daily conversation when shopping:\n- **十块钱** (*shí kuài qián* — Ten yuan)\n\n### Expressing Extremes\nUse the pattern **太...了** (*tài ... le*) to say something is \"too much\":\n- **太贵了！** (*Tài guì le!* — Too expensive!)\nTo suggest a discount, you can say **便宜一点吧** (*Piányi yìdiǎn ba* — A little cheaper, please).",
+  "words": [
+    {
+      "target": "买",
+      "native": "to buy",
+      "emoji": "🛍️",
+      "romanization": "mǎi"
+    },
+    {
+      "target": "卖",
+      "native": "to sell",
+      "emoji": "🏷️",
+      "romanization": "mài"
+    },
+    {
+      "target": "商店",
+      "native": "the store",
+      "emoji": "🏬",
+      "romanization": "shāngdiàn"
+    },
+    {
+      "target": "市场",
+      "native": "the market",
+      "emoji": "🛒",
+      "romanization": "shìchǎng"
+    },
+    {
+      "target": "钱",
+      "native": "the money",
+      "emoji": "💵",
+      "romanization": "qián"
+    },
+    {
+      "target": "多少",
+      "native": "how much",
+      "emoji": "🔢",
+      "romanization": "duōshǎo"
+    },
+    {
+      "target": "块",
+      "native": "the yuan",
+      "emoji": "💰",
+      "romanization": "kuài"
+    },
+    {
+      "target": "贵",
+      "native": "expensive",
+      "emoji": "💎",
+      "romanization": "guì"
+    },
+    {
+      "target": "便宜",
+      "native": "cheap",
+      "emoji": "🪙",
+      "romanization": "piányi"
+    },
+    {
+      "target": "东西",
+      "native": "the thing",
+      "emoji": "📦",
+      "romanization": "dōngxi"
+    },
+    {
+      "target": "现金",
+      "native": "the cash",
+      "emoji": "💴",
+      "romanization": "xiànjīn"
+    },
+    {
+      "target": "刷卡",
+      "native": "to pay by card",
+      "emoji": "💳",
+      "romanization": "shuākǎ"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "这个多少钱？",
+      "native": "How much is this?",
+      "romanization": "Zhège duōshao qián?"
+    },
+    {
+      "target": "太贵了！",
+      "native": "Too expensive!",
+      "romanization": "Tài guì le!"
+    },
+    {
+      "target": "我想买这个。",
+      "native": "I want to buy this.",
+      "romanization": "Wǒ xiǎng mǎi zhège."
+    },
+    {
+      "target": "这个很便宜。",
+      "native": "This is very cheap.",
+      "romanization": "Zhège hěn piányi."
+    },
+    {
+      "target": "一共五十块。",
+      "native": "Fifty yuan in total.",
+      "romanization": "Yígòng wǔshí kuài."
+    },
+    {
+      "target": "商店在哪里？",
+      "native": "Where is the store?",
+      "romanization": "Shāngdiàn zài nǎlǐ?"
+    },
+    {
+      "target": "我去市场买菜。",
+      "native": "I am going to the market to buy groceries.",
+      "romanization": "Wǒ qù shìchǎng mǎi cài."
+    },
+    {
+      "target": "可以刷卡吗？",
+      "native": "Can I pay by card?",
+      "romanization": "Kěyǐ shuākǎ ma?"
+    },
+    {
+      "target": "我只有现金。",
+      "native": "I only have cash.",
+      "romanization": "Wǒ zhǐ yǒu xiànjīn."
+    },
+    {
+      "target": "他们不卖这个。",
+      "native": "They do not sell this.",
+      "romanization": "Tāmen bú mài zhège."
+    }
+  ]
+}

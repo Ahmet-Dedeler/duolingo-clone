@@ -1,0 +1,109 @@
+{
+  "title": "Weather",
+  "description": "Talk about the weather conditions and seasons in Italian.",
+  "guidebook": "Talking about the weather in Italian often uses the verb **fare** (to do / to make) rather than *essere* (to be).\n\n- **Che tempo fa?** = *What's the weather like?*\n- **Fa caldo** = *It is hot*\n- **Fa freddo** = *It is cold*\n- **Fa bel tempo** = *The weather is nice*\n\nPrecipitation verbs stand alone without subject pronouns:\n- **Piove** = *It is raining*\n- **Nevica** = *It is snowing*\n\nTo describe conditions you can see, use **c'è** (*there is*):\n- **C'è il sole** = *It is sunny* (literally: *there is the sun*)\n- **C'è vento** = *It is windy*\n\nTo talk about seasons, pair them with the preposition **in**: *in primavera*, *in estate*, *in autunno*, *in inverno*.",
+  "words": [
+    {
+      "target": "il sole",
+      "native": "the sun",
+      "emoji": "☀️"
+    },
+    {
+      "target": "la pioggia",
+      "native": "the rain",
+      "emoji": "🌧️"
+    },
+    {
+      "target": "la neve",
+      "native": "the snow",
+      "emoji": "❄️"
+    },
+    {
+      "target": "il vento",
+      "native": "the wind",
+      "emoji": "💨"
+    },
+    {
+      "target": "la nuvola",
+      "native": "the cloud",
+      "emoji": "☁️"
+    },
+    {
+      "target": "il tempo",
+      "native": "the weather",
+      "emoji": "🌤️"
+    },
+    {
+      "target": "l'estate",
+      "native": "the summer",
+      "emoji": "🏖️"
+    },
+    {
+      "target": "l'inverno",
+      "native": "the winter",
+      "emoji": "⛄"
+    },
+    {
+      "target": "la primavera",
+      "native": "the spring",
+      "emoji": "🌸"
+    },
+    {
+      "target": "l'autunno",
+      "native": "the autumn",
+      "emoji": "🍂"
+    },
+    {
+      "target": "caldo",
+      "native": "hot",
+      "emoji": "🔥"
+    },
+    {
+      "target": "freddo",
+      "native": "cold",
+      "emoji": "🥶"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Che tempo fa oggi?",
+      "native": "What is the weather like today?"
+    },
+    {
+      "target": "Oggi fa molto caldo.",
+      "native": "Today it is very hot."
+    },
+    {
+      "target": "In inverno fa sempre freddo.",
+      "native": "In winter it is always cold."
+    },
+    {
+      "target": "Oggi piove e c'è vento.",
+      "native": "Today it is raining and it is windy."
+    },
+    {
+      "target": "C'è il sole nel cielo.",
+      "native": "There is sun in the sky."
+    },
+    {
+      "target": "In estate andiamo al mare.",
+      "native": "In summer we go to the sea."
+    },
+    {
+      "target": "Guarda la neve bianca fuori.",
+      "native": "Look at the white snow outside."
+    },
+    {
+      "target": "Ci sono molte nuvole grigie.",
+      "native": "There are many gray clouds."
+    },
+    {
+      "target": "In autunno cadono le foglie.",
+      "native": "In autumn the leaves fall."
+    },
+    {
+      "target": "In primavera fa bel tempo.",
+      "native": "In spring the weather is nice."
+    }
+  ]
+}

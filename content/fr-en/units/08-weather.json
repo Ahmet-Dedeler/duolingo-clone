@@ -1,0 +1,109 @@
+{
+  "title": "Weather",
+  "description": "Talk about the weather, seasons, temperatures, and atmospheric conditions in French.",
+  "guidebook": "### Talking About the Weather\n\nIn French, weather expressions often rely on the verb **faire** (literally \"to make\") rather than *être* (\"to be\").\n\n* **Il fait chaud.** = It is hot.\n* **Il fait froid.** = It is cold.\n* **Il fait beau.** = The weather is nice.\n\n### Wind, Sun, and Precipitation\n\nTo describe elements like wind or sun, use **il y a du...** (\"there is\"):\n* **Il y a du soleil.** = It is sunny.\n* **Il y a du vent.** = It is windy.\n\nPrecipitation uses impersonal verbs:\n* **Il pleut.** = It is raining.\n* **Il neige.** = It is snowing.\n\n### Seasons with Prepositions\n\nWhen talking about seasons, use **en** before vowels or mute *h*, and **au** before consonants:\n* **en été** (in summer), **en hiver** (in winter), **en automne** (in autumn), but **au printemps** (in spring)!",
+  "words": [
+    {
+      "target": "le soleil",
+      "native": "the sun",
+      "emoji": "☀️"
+    },
+    {
+      "target": "la pluie",
+      "native": "the rain",
+      "emoji": "🌧️"
+    },
+    {
+      "target": "la neige",
+      "native": "the snow",
+      "emoji": "❄️"
+    },
+    {
+      "target": "le vent",
+      "native": "the wind",
+      "emoji": "💨"
+    },
+    {
+      "target": "le nuage",
+      "native": "the cloud",
+      "emoji": "☁️"
+    },
+    {
+      "target": "l'été",
+      "native": "the summer",
+      "emoji": "🏖️"
+    },
+    {
+      "target": "l'hiver",
+      "native": "the winter",
+      "emoji": "🧣"
+    },
+    {
+      "target": "le printemps",
+      "native": "the spring",
+      "emoji": "🌸"
+    },
+    {
+      "target": "l'automne",
+      "native": "the autumn",
+      "emoji": "🍂"
+    },
+    {
+      "target": "chaud",
+      "native": "hot",
+      "emoji": "🔥"
+    },
+    {
+      "target": "froid",
+      "native": "cold",
+      "emoji": "🥶"
+    },
+    {
+      "target": "la météo",
+      "native": "the weather forecast",
+      "emoji": "⛅"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Il fait très chaud aujourd'hui.",
+      "native": "It is very hot today."
+    },
+    {
+      "target": "Il fait froid en hiver.",
+      "native": "It is cold in winter."
+    },
+    {
+      "target": "Il y a beaucoup de vent.",
+      "native": "There is a lot of wind."
+    },
+    {
+      "target": "Il neige sur la montagne.",
+      "native": "It is snowing on the mountain."
+    },
+    {
+      "target": "Il pleut toute la journée.",
+      "native": "It is raining all day."
+    },
+    {
+      "target": "J'aime le soleil en été.",
+      "native": "I like the sun in summer."
+    },
+    {
+      "target": "Quel temps fait-il dehors ?",
+      "native": "What is the weather like outside?"
+    },
+    {
+      "target": "Il y a un nuage gris.",
+      "native": "There is a gray cloud."
+    },
+    {
+      "target": "Il y a du soleil aujourd'hui.",
+      "native": "It is sunny today."
+    },
+    {
+      "target": "Le printemps est une belle saison.",
+      "native": "Spring is a beautiful season."
+    }
+  ]
+}

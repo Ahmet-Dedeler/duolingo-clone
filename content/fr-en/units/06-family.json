@@ -1,0 +1,109 @@
+{
+  "title": "Family",
+  "description": "Learn to talk about your family members and describe relatives in French.",
+  "guidebook": "### Talking About Family in French\n\nIn French, possessive adjectives change depending on the gender and number of the family member:\n\n- **mon** before masculine singular nouns: *mon père* (my father), *mon frère* (my brother).\n- **ma** before feminine singular nouns: *ma mère* (my mother), *ma sœur* (my sister).\n- **mes** before all plural nouns: *mes parents* (my parents).\n\n*Helpful tip:* If a feminine singular noun starts with a vowel sound, use **mon** instead of *ma* for easier pronunciation (for example, *mon amie*).\n\nEvery noun has a gender, so remember to pair them with **le** (masculine) or **la** (feminine). Use *Voici...* (\"Here is...\") to introduce your loved ones!",
+  "words": [
+    {
+      "target": "la famille",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "target": "la mère",
+      "native": "the mother",
+      "emoji": "👩"
+    },
+    {
+      "target": "le père",
+      "native": "the father",
+      "emoji": "👨"
+    },
+    {
+      "target": "les parents",
+      "native": "the parents",
+      "emoji": "🧑‍🤝‍🧑"
+    },
+    {
+      "target": "la sœur",
+      "native": "the sister",
+      "emoji": "👧"
+    },
+    {
+      "target": "le frère",
+      "native": "the brother",
+      "emoji": "👦"
+    },
+    {
+      "target": "la grand-mère",
+      "native": "the grandmother",
+      "emoji": "👵"
+    },
+    {
+      "target": "le grand-père",
+      "native": "the grandfather",
+      "emoji": "👴"
+    },
+    {
+      "target": "le bébé",
+      "native": "the baby",
+      "emoji": "👶"
+    },
+    {
+      "target": "le fils",
+      "native": "the son",
+      "emoji": "🧒"
+    },
+    {
+      "target": "la fille",
+      "native": "the daughter",
+      "emoji": "👧"
+    },
+    {
+      "target": "l'oncle",
+      "native": "the uncle",
+      "emoji": "👨‍🦰"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Voici ma famille.",
+      "native": "Here is my family."
+    },
+    {
+      "target": "J'ai un frère et une sœur.",
+      "native": "I have a brother and a sister."
+    },
+    {
+      "target": "Mon père s'appelle Marc.",
+      "native": "My father's name is Marc."
+    },
+    {
+      "target": "Ma mère aime les chats.",
+      "native": "My mother likes cats."
+    },
+    {
+      "target": "Où habite ton grand-père ?",
+      "native": "Where does your grandfather live?"
+    },
+    {
+      "target": "Ma grand-mère est très gentille.",
+      "native": "My grandmother is very kind."
+    },
+    {
+      "target": "Le bébé dort dans sa chambre.",
+      "native": "The baby is sleeping in his room."
+    },
+    {
+      "target": "Ce sont mes parents.",
+      "native": "These are my parents."
+    },
+    {
+      "target": "Mon fils a dix ans.",
+      "native": "My son is ten years old."
+    },
+    {
+      "target": "Leur fille adore la musique.",
+      "native": "Their daughter loves music."
+    }
+  ]
+}

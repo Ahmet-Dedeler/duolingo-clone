@@ -1,0 +1,131 @@
+{
+  "title": "Work & School",
+  "description": "Learn essential vocabulary for professions, school life, and office environments in Korean.",
+  "guidebook": "Welcome to **Work & School**! Here are two essential grammar tips for this unit:\n\n### 1. Locations: -에 vs. -에서\nBoth particles indicate locations, but in different ways:\n- Use **-에** with movement verbs like `가다` (to go) or existence verbs like `있다` (to be/exist): *학교에 가요* (\"I go to school\").\n- Use **-에서** when a specific action happens at a location: *사무실에서 일해요* (\"I work at the office\").\n\n### 2. Respectful Suffix: -님\nIn Korean, respecting professionals and seniors is vital. The suffix **-님** (nim) attaches to professions to show politeness, turning *선생* into *선생님* (teacher). Always address teachers with this honorific!",
+  "words": [
+    {
+      "target": "선생님",
+      "native": "the teacher",
+      "emoji": "👨‍🏫",
+      "romanization": "seonsaengnim"
+    },
+    {
+      "target": "학생",
+      "native": "the student",
+      "emoji": "🧑‍🎓",
+      "romanization": "haksaeng"
+    },
+    {
+      "target": "의사",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "uisa"
+    },
+    {
+      "target": "학교",
+      "native": "the school",
+      "emoji": "🏫",
+      "romanization": "hakgyo"
+    },
+    {
+      "target": "회사",
+      "native": "the company",
+      "emoji": "🏢",
+      "romanization": "hoesa"
+    },
+    {
+      "target": "사무실",
+      "native": "the office",
+      "emoji": "💼",
+      "romanization": "samusil"
+    },
+    {
+      "target": "병원",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "byeongwon"
+    },
+    {
+      "target": "수업",
+      "native": "the class",
+      "emoji": "📚",
+      "romanization": "sueop"
+    },
+    {
+      "target": "숙제",
+      "native": "the homework",
+      "emoji": "📝",
+      "romanization": "sukje"
+    },
+    {
+      "target": "일",
+      "native": "the work",
+      "emoji": "💻",
+      "romanization": "il"
+    },
+    {
+      "target": "책상",
+      "native": "the desk",
+      "emoji": "🪑",
+      "romanization": "chaeksang"
+    },
+    {
+      "target": "동료",
+      "native": "the colleague",
+      "emoji": "🤝",
+      "romanization": "dongnyo"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "선생님이 학교에 있어요.",
+      "native": "The teacher is at school.",
+      "romanization": "seonsaengnime hakgyoe isseoyo."
+    },
+    {
+      "target": "의사가 병원에서 일해요.",
+      "native": "The doctor works at the hospital.",
+      "romanization": "uisaga byeongwoneseo ilhaeyo."
+    },
+    {
+      "target": "학생이 숙제를 열심히 해요.",
+      "native": "The student does homework diligently.",
+      "romanization": "haksaengi sukjereul yeolsimhi haeyo."
+    },
+    {
+      "target": "오늘 수업이 아주 재미있어요.",
+      "native": "Today's class is very interesting.",
+      "romanization": "oneul sueobi aju jaemiisseoyo."
+    },
+    {
+      "target": "저는 사무실에서 일해요.",
+      "native": "I work in the office.",
+      "romanization": "jeoneun samusireseo ilhaeyo."
+    },
+    {
+      "target": "동료와 함께 일해요.",
+      "native": "I work together with my colleague.",
+      "romanization": "dongnyowa hamkke ilhaeyo."
+    },
+    {
+      "target": "책상 위에 책이 있어요.",
+      "native": "There is a book on the desk.",
+      "romanization": "chaeksang wie chaegi isseoyo."
+    },
+    {
+      "target": "내일 학교에 일찍 가요.",
+      "native": "I go to school early tomorrow.",
+      "romanization": "naeil hakgyoe iljjik gayo."
+    },
+    {
+      "target": "회사에서 회의를 해요.",
+      "native": "We have a meeting at the company.",
+      "romanization": "hoesaeseo hoeuireul haeyo."
+    },
+    {
+      "target": "지금 숙제를 하고 있어요.",
+      "native": "I am doing homework right now.",
+      "romanization": "jigeum sukjereul hago isseoyo."
+    }
+  ]
+}

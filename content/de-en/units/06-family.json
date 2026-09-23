@@ -1,0 +1,109 @@
+{
+  "title": "Family",
+  "description": "Learn how to talk about your family members, relatives, and loved ones in German.",
+  "guidebook": "### Talking About Family\n\nTo talk about your family in German, you will use possessive words like **mein** (my) and **dein** (your). Notice how their endings change based on grammatical gender:\n\n- **Masculine & Neuter:** *mein Vater* (my father), *mein Kind* (my child)\n- **Feminine & Plural:** *meine Mutter* (my mother), *meine Eltern* (my parents)\n\n### Informal Grandparents\nWhile *Großmutter* and *Großvater* are standard, Germans almost always refer to their grandparents affectionately as **die Oma** (grandma) and **der Opa** (grandpa).\n\n### Using \"Haben\"\nWhen saying you have a family member, masculine words change in the accusative case: *Ich habe **einen** Bruder*, but *Ich habe **eine** Schwester*.",
+  "words": [
+    {
+      "target": "die Familie",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "target": "der Vater",
+      "native": "the father",
+      "emoji": "👨"
+    },
+    {
+      "target": "die Mutter",
+      "native": "the mother",
+      "emoji": "👩"
+    },
+    {
+      "target": "der Sohn",
+      "native": "the son",
+      "emoji": "👦"
+    },
+    {
+      "target": "die Tochter",
+      "native": "the daughter",
+      "emoji": "👧"
+    },
+    {
+      "target": "der Bruder",
+      "native": "the brother",
+      "emoji": "👱‍♂️"
+    },
+    {
+      "target": "die Schwester",
+      "native": "the sister",
+      "emoji": "👱‍♀️"
+    },
+    {
+      "target": "der Großvater",
+      "native": "the grandfather",
+      "emoji": "👴"
+    },
+    {
+      "target": "die Großmutter",
+      "native": "the grandmother",
+      "emoji": "👵"
+    },
+    {
+      "target": "das Baby",
+      "native": "the baby",
+      "emoji": "👶"
+    },
+    {
+      "target": "das Kind",
+      "native": "the child",
+      "emoji": "🧒"
+    },
+    {
+      "target": "die Eltern",
+      "native": "the parents",
+      "emoji": "👫"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Das ist meine Mutter.",
+      "native": "That is my mother."
+    },
+    {
+      "target": "Mein Vater ist sehr nett.",
+      "native": "My father is very kind."
+    },
+    {
+      "target": "Ich habe einen Bruder.",
+      "native": "I have a brother."
+    },
+    {
+      "target": "Hast du eine Schwester?",
+      "native": "Do you have a sister?"
+    },
+    {
+      "target": "Das Baby schläft jetzt.",
+      "native": "The baby is sleeping now."
+    },
+    {
+      "target": "Meine Großmutter kocht gern.",
+      "native": "My grandmother likes to cook."
+    },
+    {
+      "target": "Mein Großvater liest ein Buch.",
+      "native": "My grandfather is reading a book."
+    },
+    {
+      "target": "Wir sind eine glückliche Familie.",
+      "native": "We are a happy family."
+    },
+    {
+      "target": "Meine Eltern wohnen in Berlin.",
+      "native": "My parents live in Berlin."
+    },
+    {
+      "target": "Wo ist dein Sohn?",
+      "native": "Where is your son?"
+    }
+  ]
+}

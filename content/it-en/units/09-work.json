@@ -1,0 +1,109 @@
+{
+  "title": "Work & School",
+  "description": "Talk about daily jobs, school routines, and work environments in Italian.",
+  "guidebook": "### Talking About Work and School\n\nWhen talking about where you go or work, pay close attention to prepositions! Italian often uses **in** without an article for fixed locations:\n* *Vado a scuola.* (I go to school.)\n* *Lavoro in ufficio.* (I work in the office.)\n* *Siamo in classe.* (We are in class.)\n\nHowever, before university, use **all'** (*all'università*).\n\n### Stating Professions\nTo state your job, you can use the verb **essere** directly with the profession (*Sono medico* or *Sono un medico*) or use **fare** with the definite article (*Faccio l'insegnante* - literally, \"I do the teacher\").\n\n### Watch the Articles\nRemember: words beginning with *s* + consonant take **lo** (*lo studente*), while words beginning with a vowel take **l'** (*l'ufficio*, *l'insegnante*).",
+  "words": [
+    {
+      "target": "l'insegnante",
+      "native": "the teacher",
+      "emoji": "🧑‍🏫"
+    },
+    {
+      "target": "il medico",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "target": "lo studente",
+      "native": "the student",
+      "emoji": "🧑‍🎓"
+    },
+    {
+      "target": "l'ufficio",
+      "native": "the office",
+      "emoji": "🏢"
+    },
+    {
+      "target": "la classe",
+      "native": "the class",
+      "emoji": "👥"
+    },
+    {
+      "target": "i compiti",
+      "native": "the homework",
+      "emoji": "📝"
+    },
+    {
+      "target": "la scuola",
+      "native": "the school",
+      "emoji": "🏫"
+    },
+    {
+      "target": "il lavoro",
+      "native": "the job",
+      "emoji": "💼"
+    },
+    {
+      "target": "l'esame",
+      "native": "the exam",
+      "emoji": "📄"
+    },
+    {
+      "target": "il collega",
+      "native": "the colleague",
+      "emoji": "🤝"
+    },
+    {
+      "target": "il libro",
+      "native": "the book",
+      "emoji": "📖"
+    },
+    {
+      "target": "il computer",
+      "native": "the computer",
+      "emoji": "💻"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "L'insegnante spiega la lezione.",
+      "native": "The teacher explains the lesson."
+    },
+    {
+      "target": "Il medico lavora in ospedale.",
+      "native": "The doctor works in the hospital."
+    },
+    {
+      "target": "Lo studente fa i compiti.",
+      "native": "The student does the homework."
+    },
+    {
+      "target": "Oggi vado in ufficio presto.",
+      "native": "Today I go to the office early."
+    },
+    {
+      "target": "Abbiamo un esame difficile domani.",
+      "native": "We have a difficult exam tomorrow."
+    },
+    {
+      "target": "La classe ascolta con attenzione.",
+      "native": "The class listens carefully."
+    },
+    {
+      "target": "Mio fratello studia all'università.",
+      "native": "My brother studies at the university."
+    },
+    {
+      "target": "Il collega usa il computer.",
+      "native": "The colleague uses the computer."
+    },
+    {
+      "target": "Faccio i compiti dopo scuola.",
+      "native": "I do homework after school."
+    },
+    {
+      "target": "Lui cerca un nuovo lavoro.",
+      "native": "He is looking for a new job."
+    }
+  ]
+}

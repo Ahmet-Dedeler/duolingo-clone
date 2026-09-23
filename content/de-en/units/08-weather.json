@@ -1,0 +1,109 @@
+{
+  "title": "Weather",
+  "description": "Talk about current weather conditions, temperatures, and the seasons of the year.",
+  "guidebook": "### Talking About the Weather\nIn German, weather expressions often start with the impersonal pronoun **es** (it):\n- *Es ist kalt.* (It is cold.)\n- *Es regnet.* (It is raining.)\n- *Es schneit.* (It is snowing.)\n\n### The Four Seasons\nAll four seasons in German are masculine and use the article **der**: *der Frühling* (spring), *der Sommer* (summer), *der Herbst* (autumn), and *der Winter* (winter). When saying 'in summer' or 'in winter', combine *in* + *dem* into **im**:\n- *im Sommer* (in summer)\n- *im Winter* (in winter)\n\n### Quick Tip!\nIf you feel hot or cold, say **Mir ist kalt** or **Mir ist heiß** (literally: 'To me it is cold/hot'). Saying *Ich bin heiß* has a very different meaning!",
+  "words": [
+    {
+      "target": "die Sonne",
+      "native": "the sun",
+      "emoji": "☀️"
+    },
+    {
+      "target": "der Regen",
+      "native": "the rain",
+      "emoji": "🌧️"
+    },
+    {
+      "target": "der Schnee",
+      "native": "the snow",
+      "emoji": "❄️"
+    },
+    {
+      "target": "der Wind",
+      "native": "the wind",
+      "emoji": "💨"
+    },
+    {
+      "target": "die Wolke",
+      "native": "the cloud",
+      "emoji": "☁️"
+    },
+    {
+      "target": "das Wetter",
+      "native": "the weather",
+      "emoji": "⛅"
+    },
+    {
+      "target": "der Sommer",
+      "native": "the summer",
+      "emoji": "🏖️"
+    },
+    {
+      "target": "der Winter",
+      "native": "the winter",
+      "emoji": "⛄"
+    },
+    {
+      "target": "der Frühling",
+      "native": "the spring",
+      "emoji": "🌸"
+    },
+    {
+      "target": "der Herbst",
+      "native": "the autumn",
+      "emoji": "🍂"
+    },
+    {
+      "target": "heiß",
+      "native": "hot",
+      "emoji": "🌡️"
+    },
+    {
+      "target": "kalt",
+      "native": "cold",
+      "emoji": "🥶"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Das Wetter ist heute sehr schön.",
+      "native": "The weather is very nice today."
+    },
+    {
+      "target": "Es regnet und es ist kalt.",
+      "native": "It is raining and it is cold."
+    },
+    {
+      "target": "Die Sonne scheint den ganzen Tag.",
+      "native": "The sun shines all day."
+    },
+    {
+      "target": "Im Sommer ist es oft heiß.",
+      "native": "In summer it is often hot."
+    },
+    {
+      "target": "Im Winter schneit es viel.",
+      "native": "In winter it snows a lot."
+    },
+    {
+      "target": "Der Wind weht heute stark.",
+      "native": "The wind is blowing strongly today."
+    },
+    {
+      "target": "Wie ist das Wetter in Berlin?",
+      "native": "How is the weather in Berlin?"
+    },
+    {
+      "target": "Heute ist es warm und sonnig.",
+      "native": "Today it is warm and sunny."
+    },
+    {
+      "target": "Ich mag den Schnee im Winter.",
+      "native": "I like the snow in winter."
+    },
+    {
+      "target": "Morgen gibt es viel Regen.",
+      "native": "Tomorrow there will be a lot of rain."
+    }
+  ]
+}

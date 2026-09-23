@@ -1,0 +1,131 @@
+{
+  "title": "Weather",
+  "description": "Talk about the weather, seasons, and daily conditions in Korean.",
+  "guidebook": "### Talking About the Weather\n\nIn Korean, talking about precipitation is easy! Instead of saying 'it rains,' Koreans say that rain or snow 'comes':\n- **비가 와요** (*Biga wayo*) = It is raining (literally, 'rain comes').\n- **눈이 와요** (*Nuni wayo*) = It is snowing ('snow comes').\n\n### ㅂ-Irregular Adjectives\nWeather adjectives like **덥다** (*deopda*, to be hot) and **춥다** (*chupda*, to be cold) are irregular. When conjugated into the polite present tense, the **ㅂ** changes to **우**, resulting in:\n- 덥다 → **더워요** (*deowoyo*)\n- 춥다 → **추워요** (*chuwoyo*)\n\n### Seasons with Time Particle -에\nAdd the time particle **-에** (*-e*) to seasons to mean 'in': **여름에** (*in summer*), **겨울에** (*in winter*).",
+  "words": [
+    {
+      "target": "날씨",
+      "native": "the weather",
+      "emoji": "⛅",
+      "romanization": "nalssi"
+    },
+    {
+      "target": "해",
+      "native": "the sun",
+      "emoji": "☀️",
+      "romanization": "hae"
+    },
+    {
+      "target": "비",
+      "native": "the rain",
+      "emoji": "🌧️",
+      "romanization": "bi"
+    },
+    {
+      "target": "눈",
+      "native": "the snow",
+      "emoji": "❄️",
+      "romanization": "nun"
+    },
+    {
+      "target": "바람",
+      "native": "the wind",
+      "emoji": "💨",
+      "romanization": "baram"
+    },
+    {
+      "target": "구름",
+      "native": "the cloud",
+      "emoji": "☁️",
+      "romanization": "gureum"
+    },
+    {
+      "target": "여름",
+      "native": "the summer",
+      "emoji": "🏖️",
+      "romanization": "yeoreum"
+    },
+    {
+      "target": "겨울",
+      "native": "the winter",
+      "emoji": "⛄",
+      "romanization": "gyeoul"
+    },
+    {
+      "target": "봄",
+      "native": "the spring",
+      "emoji": "🌸",
+      "romanization": "bom"
+    },
+    {
+      "target": "가을",
+      "native": "the autumn",
+      "emoji": "🍂",
+      "romanization": "gaeul"
+    },
+    {
+      "target": "덥다",
+      "native": "to be hot",
+      "emoji": "🥵",
+      "romanization": "deopda"
+    },
+    {
+      "target": "춥다",
+      "native": "to be cold",
+      "emoji": "🥶",
+      "romanization": "chupda"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "오늘 날씨가 정말 좋아요.",
+      "native": "The weather is really nice today.",
+      "romanization": "Oneul nalssiga jeongmal joayo."
+    },
+    {
+      "target": "밖에 비가 많이 와요.",
+      "native": "It is raining a lot outside.",
+      "romanization": "Bakke biga mani wayo."
+    },
+    {
+      "target": "겨울에는 날씨가 아주 추워요.",
+      "native": "In winter, the weather is very cold.",
+      "romanization": "Gyeoureneun nalssiga aju chuwoyo."
+    },
+    {
+      "target": "여름에는 날씨가 너무 더워요.",
+      "native": "In summer, the weather is too hot.",
+      "romanization": "Yeoreumeneun nalssiga neomu deowoyo."
+    },
+    {
+      "target": "오늘은 바람이 많이 불어요.",
+      "native": "The wind blows a lot today.",
+      "romanization": "Oneureun barami mani bureoyo."
+    },
+    {
+      "target": "하늘에 구름이 정말 많아요.",
+      "native": "There are really many clouds in the sky.",
+      "romanization": "Haneure gureumi jeongmal manayo."
+    },
+    {
+      "target": "하얀 눈이 조용히 내려요.",
+      "native": "White snow falls quietly.",
+      "romanization": "Hayan nuni joyonghi naeryeoyo."
+    },
+    {
+      "target": "봄에는 따뜻한 바람이 불어요.",
+      "native": "Warm wind blows in the spring.",
+      "romanization": "Bomeneun ttatteuthan barami bureoyo."
+    },
+    {
+      "target": "선선한 가을 날씨를 좋아해요?",
+      "native": "Do you like the cool autumn weather?",
+      "romanization": "Seonseonhan gaeul nalssireul joahaeyo?"
+    },
+    {
+      "target": "내일은 해가 밝게 뜰 거예요.",
+      "native": "The sun will rise brightly tomorrow.",
+      "romanization": "Naeireun haega balkge tteul geoyeyo."
+    }
+  ]
+}

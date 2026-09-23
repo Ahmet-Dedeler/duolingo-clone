@@ -1,0 +1,131 @@
+{
+  "title": "Health",
+  "description": "Learn words and phrases for talking about your body, sickness, and medical care.",
+  "guidebook": "### Talking About Aches and Pains\nWhen expressing physical pain in Japanese, state the body part, add the subject particle **が (ga)**, and finish with **痛い (itai)**. For example, **頭が痛いです (atama ga itai desu)** means \"My head hurts.\"\n\n### Essential Health Phrases\n* **Taking medicine:** Japanese uses the verb **飲む (nomu)** meaning \"to drink\" for pills and medicine: **薬を飲む (kusuri o nomu)**.\n* **Catching a cold:** Use the fixed expression **風邪をひく (kaze o hiku)**. When you already caught one, say **風邪をひきました (kaze o hikimashita)**.\n* **Being tired:** Exhaustion is usually expressed in the past tense: **疲れました (tsukaremashita)**, literally \"I have become tired.\"",
+  "words": [
+    {
+      "target": "頭",
+      "native": "the head",
+      "emoji": "🧠",
+      "romanization": "atama"
+    },
+    {
+      "target": "手",
+      "native": "the hand",
+      "emoji": "✋",
+      "romanization": "te"
+    },
+    {
+      "target": "目",
+      "native": "the eye",
+      "emoji": "👁️",
+      "romanization": "me"
+    },
+    {
+      "target": "足",
+      "native": "the leg",
+      "emoji": "🦶",
+      "romanization": "ashi"
+    },
+    {
+      "target": "お腹",
+      "native": "the stomach",
+      "emoji": "🫃",
+      "romanization": "onaka"
+    },
+    {
+      "target": "病院",
+      "native": "the hospital",
+      "emoji": "🏥",
+      "romanization": "byouin"
+    },
+    {
+      "target": "医者",
+      "native": "the doctor",
+      "emoji": "👨‍⚕️",
+      "romanization": "isha"
+    },
+    {
+      "target": "薬",
+      "native": "the medicine",
+      "emoji": "💊",
+      "romanization": "kusuri"
+    },
+    {
+      "target": "風邪",
+      "native": "the cold",
+      "emoji": "🤧",
+      "romanization": "kaze"
+    },
+    {
+      "target": "熱",
+      "native": "the fever",
+      "emoji": "🌡️",
+      "romanization": "netsu"
+    },
+    {
+      "target": "痛い",
+      "native": "painful",
+      "emoji": "😣",
+      "romanization": "itai"
+    },
+    {
+      "target": "疲れた",
+      "native": "tired",
+      "emoji": "🥱",
+      "romanization": "tsukareta"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "頭が痛いです。",
+      "native": "My head hurts.",
+      "romanization": "Atama ga itai desu."
+    },
+    {
+      "target": "お腹が痛いです。",
+      "native": "My stomach hurts.",
+      "romanization": "Onaka ga itai desu."
+    },
+    {
+      "target": "今日はとても疲れました。",
+      "native": "I am very tired today.",
+      "romanization": "Kyou wa totemo tsukaremashita."
+    },
+    {
+      "target": "病院へ行きましょう。",
+      "native": "Let's go to the hospital.",
+      "romanization": "Byouin e ikimashou."
+    },
+    {
+      "target": "この薬を飲んでください。",
+      "native": "Please take this medicine.",
+      "romanization": "Kono kusuri o nonde kudasai."
+    },
+    {
+      "target": "風邪をひきました。",
+      "native": "I caught a cold.",
+      "romanization": "Kaze o hikimashita."
+    },
+    {
+      "target": "熱がありますか。",
+      "native": "Do you have a fever?",
+      "romanization": "Netsu ga arimasu ka."
+    },
+    {
+      "target": "手をよく洗ってください。",
+      "native": "Please wash your hands well.",
+      "romanization": "Te o yoku aratte kudasai."
+    },
+    {
+      "target": "医者に診てもらいます。",
+      "native": "I will see a doctor.",
+      "romanization": "Isha ni mite moraimasu."
+    },
+    {
+      "target": "早く元気になってください。",
+      "native": "Please get well soon.",
+      "romanization": "Hayaku genki ni natte kudasai."
+    }
+  ]
+}

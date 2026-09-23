@@ -1,0 +1,109 @@
+{
+  "title": "Weather",
+  "description": "Talk about weather conditions, temperatures, and the four seasons.",
+  "guidebook": "Talking about the weather in Portuguese is easy once you master two key verbs: **estar** and **fazer**.\n\nTo describe current atmospheric conditions, use **estar**:\n- *Está quente.* (It is hot.)\n- *Está nublado.* (It is cloudy.)\n\nYou can also use the verb **fazer** (literally \"to make\") with nouns to talk about temperature or sensation:\n- *Faz frio hoje.* (It is cold today.)\n- *Faz sol.* (It is sunny.)\n\nWhen inquiring about conditions, ask: *\"Como está o tempo?\"* (How is the weather?).\n\nLastly, seasons always take definite articles: *o verão* (summer), *o inverno* (winter), *a primavera* (spring), and *o outono* (autumn). To say \"in the winter\", combine *em* with *o* to form *no inverno*.",
+  "words": [
+    {
+      "target": "o sol",
+      "native": "the sun",
+      "emoji": "☀️"
+    },
+    {
+      "target": "a chuva",
+      "native": "the rain",
+      "emoji": "🌧️"
+    },
+    {
+      "target": "a neve",
+      "native": "the snow",
+      "emoji": "❄️"
+    },
+    {
+      "target": "o vento",
+      "native": "the wind",
+      "emoji": "💨"
+    },
+    {
+      "target": "o tempo",
+      "native": "the weather",
+      "emoji": "🌤️"
+    },
+    {
+      "target": "a nuvem",
+      "native": "the cloud",
+      "emoji": "☁️"
+    },
+    {
+      "target": "o verão",
+      "native": "the summer",
+      "emoji": "🏖️"
+    },
+    {
+      "target": "o inverno",
+      "native": "the winter",
+      "emoji": "🧣"
+    },
+    {
+      "target": "a primavera",
+      "native": "the spring",
+      "emoji": "🌸"
+    },
+    {
+      "target": "o outono",
+      "native": "the autumn",
+      "emoji": "🍂"
+    },
+    {
+      "target": "quente",
+      "native": "hot",
+      "emoji": "🌡️"
+    },
+    {
+      "target": "frio",
+      "native": "cold",
+      "emoji": "🥶"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "Hoje está muito quente.",
+      "native": "Today it is very hot."
+    },
+    {
+      "target": "Está frio no inverno.",
+      "native": "It is cold in winter."
+    },
+    {
+      "target": "O sol brilha no verão.",
+      "native": "The sun shines in summer."
+    },
+    {
+      "target": "Como está o tempo hoje?",
+      "native": "How is the weather today?"
+    },
+    {
+      "target": "Está chovendo muito agora.",
+      "native": "It is raining a lot now."
+    },
+    {
+      "target": "Há muito vento lá fora.",
+      "native": "There is a lot of wind outside."
+    },
+    {
+      "target": "Eu gosto da primavera.",
+      "native": "I like spring."
+    },
+    {
+      "target": "Cai neve nas montanhas.",
+      "native": "Snow falls in the mountains."
+    },
+    {
+      "target": "Não há nuvens no céu.",
+      "native": "There are no clouds in the sky."
+    },
+    {
+      "target": "O outono começa em março.",
+      "native": "Autumn begins in March."
+    }
+  ]
+}

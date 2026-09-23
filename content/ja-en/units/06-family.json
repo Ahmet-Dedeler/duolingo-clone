@@ -1,0 +1,131 @@
+{
+  "title": "Family",
+  "description": "Learn how to talk about your family members, siblings, and relatives in Japanese.",
+  "guidebook": "### Talking About Family in Japanese\n\nIn Japanese, the words you use for family members often depend on whose family you are discussing!\n\nWhen talking about your own family to others, use humble terms: **chichi** (father), **haha** (mother), **ani** (older brother), and **ane** (older sister). This shows politeness by lowering your own circle.\n\nWhen talking about someone else's family or calling out to your own relatives directly, polite forms are used instead, like **otousan** (father) and **okaasan** (mother).\n\nAdditionally, Japanese specifies age among siblings: **ani** and **ane** for older siblings, and **otouto** (younger brother) and **imouto** (younger sister) for younger ones.",
+  "words": [
+    {
+      "target": "家族",
+      "native": "the family",
+      "emoji": "👨‍👩‍👧‍👦",
+      "romanization": "kazoku"
+    },
+    {
+      "target": "父",
+      "native": "the father",
+      "emoji": "👨",
+      "romanization": "chichi"
+    },
+    {
+      "target": "母",
+      "native": "the mother",
+      "emoji": "👩",
+      "romanization": "haha"
+    },
+    {
+      "target": "兄",
+      "native": "the older brother",
+      "emoji": "👦",
+      "romanization": "ani"
+    },
+    {
+      "target": "姉",
+      "native": "the older sister",
+      "emoji": "👧",
+      "romanization": "ane"
+    },
+    {
+      "target": "弟",
+      "native": "the younger brother",
+      "emoji": "👦",
+      "romanization": "otouto"
+    },
+    {
+      "target": "妹",
+      "native": "the younger sister",
+      "emoji": "👧",
+      "romanization": "imouto"
+    },
+    {
+      "target": "祖父",
+      "native": "the grandfather",
+      "emoji": "👴",
+      "romanization": "sofu"
+    },
+    {
+      "target": "祖母",
+      "native": "the grandmother",
+      "emoji": "👵",
+      "romanization": "sobo"
+    },
+    {
+      "target": "赤ちゃん",
+      "native": "the baby",
+      "emoji": "👶",
+      "romanization": "akachan"
+    },
+    {
+      "target": "両親",
+      "native": "the parents",
+      "emoji": "👫",
+      "romanization": "ryoushin"
+    },
+    {
+      "target": "兄弟",
+      "native": "the siblings",
+      "emoji": "🧑‍🤝‍🧑",
+      "romanization": "kyoudai"
+    }
+  ],
+  "phrases": [
+    {
+      "target": "父は優しいです。",
+      "native": "My father is kind.",
+      "romanization": "Chichi wa yasashii desu."
+    },
+    {
+      "target": "母は先生です。",
+      "native": "My mother is a teacher.",
+      "romanization": "Haha wa sensei desu."
+    },
+    {
+      "target": "兄は東京にいます。",
+      "native": "My older brother is in Tokyo.",
+      "romanization": "Ani wa Toukyou ni imasu."
+    },
+    {
+      "target": "私には妹がいます。",
+      "native": "I have a younger sister.",
+      "romanization": "Watashi ni wa imouto ga imasu."
+    },
+    {
+      "target": "赤ちゃんが笑っています。",
+      "native": "The baby is smiling.",
+      "romanization": "Akachan ga waratte imasu."
+    },
+    {
+      "target": "家族は四人です。",
+      "native": "There are four people in my family.",
+      "romanization": "Kazoku wa yonin desu."
+    },
+    {
+      "target": "祖父は元気です。",
+      "native": "My grandfather is well.",
+      "romanization": "Sofu wa genki desu."
+    },
+    {
+      "target": "姉は英語を話します。",
+      "native": "My older sister speaks English.",
+      "romanization": "Ane wa eigo o hanashimasu."
+    },
+    {
+      "target": "弟は背が高いです。",
+      "native": "My younger brother is tall.",
+      "romanization": "Otouto wa se ga takai desu."
+    },
+    {
+      "target": "祖母はお茶が好きです。",
+      "native": "My grandmother likes green tea.",
+      "romanization": "Sobo wa ocha ga suki desu."
+    }
+  ]
+}
